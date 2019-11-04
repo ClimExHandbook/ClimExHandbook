@@ -1,7 +1,7 @@
 ---
 ID: 86
 post_title: 'TEST Git &gt; WP'
-author: Jonathan Soule
+author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2019-11-04 11:49:42
 ---
-Test2 from WP and back from GitHub kl.15:16
+Test3 from WP
