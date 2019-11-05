@@ -1,7 +1,7 @@
 ---
 ID: 37
 post_title: Citation
-author: Jonathan Soule
+author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
