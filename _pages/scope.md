@@ -1,7 +1,7 @@
 ---
 ID: 33
 post_title: Scope
-author: Jonathan Soule
+author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
