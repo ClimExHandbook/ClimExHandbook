@@ -115,9 +115,9 @@ Harvested AGB is then sorted into live and dead biomass, growth form, species, a
 <td style="width: 430px;text-align: left" width="212"><strong>Nice to have</strong></td>
 </tr>
 <tr>
-<td style="width: 151px;text-align: left" rowspan="5" width="68"><strong>Alive</strong></td>
+<td style="width: 151px;text-align: left;vertical-align: top" rowspan="5" width="68"><strong>Alive</strong></td>
 <td style="width: 267px;text-align: left" width="128">Bryophytes/lichens</td>
-<td style="width: 252px;text-align: left" rowspan="5" width="120">Species</td>
+<td style="width: 252px;text-align: left;vertical-align: top" rowspan="5" width="120">Species</td>
 <td style="width: 430px;text-align: left" width="212">location (soil surface/stem)</td>
 </tr>
 <tr>
@@ -137,9 +137,9 @@ Harvested AGB is then sorted into live and dead biomass, growth form, species, a
 <td style="width: 430px;text-align: left" width="212">current year's woody growth</td>
 </tr>
 <tr>
-<td style="width: 151px;text-align: left" rowspan="3" width="68"><strong>Dead</strong></td>
+<td style="width: 151px;text-align: left;vertical-align: top" rowspan="3" width="68"><strong>Dead</strong></td>
 <td style="width: 267px;text-align: left" width="128">Grasses</td>
-<td style="width: 252px;text-align: left" rowspan="3" width="120">Species</td>
+<td style="width: 252px;text-align: left;vertical-align: top" rowspan="3" width="120">Species</td>
 <td style="width: 430px;text-align: left" width="212">leaves/flowers</td>
 </tr>
 <tr>
