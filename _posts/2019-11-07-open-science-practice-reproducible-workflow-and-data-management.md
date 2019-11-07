@@ -203,8 +203,6 @@ Report negative results.</td>
 </ol>
 &nbsp;
 
-&nbsp;
-
 <strong><em>Where to start?</em></strong>
 
 Gerstner et al. (2017) give guidance on how to make the reach of your research broader and longer lasting; Haddaway &amp; Verhoeven (2015) explain how to correctly describe methodology in ecology to make the research repeatable; Hillebrand and Gurevitch (2013) provide a checklist for reporting study details in manuscripts. The British Ecological Society (2017) have produced a useful guide for Reproducible Code in Ecology and Evolution. Lind (2013) presents lessons learned about data management in NutNet.
