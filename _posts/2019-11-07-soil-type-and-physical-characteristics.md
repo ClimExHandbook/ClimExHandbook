@@ -11,7 +11,7 @@ post_date: 2019-11-07 04:00:48
 ---
 Soils are physically composed of mineral and organic particles in varying sizes. The combined particles form the soil matrix that shapes the structure and pore spaces of soil. In turn, soil physical properties determine many key soil processes from soil water-holding capacity to cation exchange capacity that affect other life forms and ecosystem function. The key soil physical characteristics include soil structure, bulk density, and texture.
 
-For the description of standard methods for soil characterisation we refer the reader to the Soil Science Society of America (SSSA) series on Methods of Soil Analysis; in particular, part 3 – Chemical Methods <a href="https://paperpile.com/c/2Av5rU/rAwF">(Swift &amp; Sparks, 2009)</a> and part 4 – Physical Methods <a href="https://paperpile.com/c/2Av5rU/yx7p">(Dane &amp; Topp, 2002)</a>. Although the SSSA - Physical Methods <a href="https://paperpile.com/c/2Av5rU/yx7p">(Dane &amp; Topp, 2002)</a> lists a complete set of methods, note that some of these traditional methods are being replaced by newer technology. In addition, the USDA Soil Survey Field and Laboratory Methods Manual <a href="https://paperpile.com/c/2Av5rU/0b3L">(NRCS, 2014b)</a> can be used as a new and simple guideline for methods in determining soil physical properties.
+For the description of standard methods for soil characterisation we refer the reader to the Soil Science Society of America (SSSA) series on Methods of Soil Analysis; in particular, part 3 – Chemical Methods (Swift &amp; Sparks, 2009) and part 4 – Physical Methods (Dane &amp; Topp, 2002). Although the SSSA - Physical Methods (Dane &amp; Topp, 2002) lists a complete set of methods, note that some of these traditional methods are being replaced by newer technology. In addition, the USDA Soil Survey Field and Laboratory Methods Manual (NRCS, 2014b) can be used as a new and simple guideline for methods in determining soil physical properties.
 
 In this protocol, we focus on providing a basic guideline and starting point for determining soil physical properties in the context of climate-change studies as our main focus is on understanding ecosystem processes and plant behaviour.
 
@@ -47,12 +47,12 @@ The soil samples are often used fresh, but for some analysis the soil needs to b
 <table>
 <tbody>
 <tr>
-<td width="291"><strong>Temperature for drying</strong></td>
-<td width="236"><strong>Method</strong></td>
-<td width="91"><strong>Protocol</strong></td>
+<td style="text-align: left" width="291"><strong>Temperature for drying</strong></td>
+<td style="text-align: left" width="236"><strong>Method</strong></td>
+<td style="text-align: left" width="91"><strong>Protocol</strong></td>
 </tr>
 <tr>
-<td width="291">Fresh soil kept in fridge (4°C)
+<td style="text-align: left" width="291">Fresh soil kept in fridge (4°C)
 
 &nbsp;
 
@@ -61,7 +61,7 @@ The soil samples are often used fresh, but for some analysis the soil needs to b
 &nbsp;
 
 &nbsp;</td>
-<td width="236">Soil microbial biomass
+<td style="text-align: left" width="236">Soil microbial biomass
 
 Soil enzymatic activity
 
@@ -72,7 +72,7 @@ Soil activity assays
 Bulk density
 
 pH</td>
-<td width="91">2.2.1
+<td style="text-align: left" width="91">2.2.1
 
 &nbsp;
 
@@ -85,35 +85,35 @@ pH</td>
 1.4.1</td>
 </tr>
 <tr>
-<td width="291">Air dried, room temperature (25°C)</td>
-<td width="236">Soil water repellency</td>
-<td width="91">3.6</td>
+<td style="text-align: left" width="291">Air dried, room temperature (25°C)</td>
+<td style="text-align: left" width="236">Soil water repellency</td>
+<td style="text-align: left" width="91">3.6</td>
 </tr>
 <tr>
-<td width="291">Oven dried, low temperature (max. 55°C)</td>
-<td width="236">Soil carbon and nutrient stocks</td>
-<td width="91">2.2.4</td>
+<td style="text-align: left" width="291">Oven dried, low temperature (max. 55°C)</td>
+<td style="text-align: left" width="236">Soil carbon and nutrient stocks</td>
+<td style="text-align: left" width="91">2.2.4</td>
 </tr>
 <tr>
-<td width="291">Oven dried, high temperature (70° - 105°C)</td>
-<td width="236">SOM (loss on ignition)</td>
-<td width="91">1.4.2</td>
+<td style="text-align: left" width="291">Oven dried, high temperature (70° - 105°C)</td>
+<td style="text-align: left" width="236">SOM (loss on ignition)</td>
+<td style="text-align: left" width="91">1.4.2</td>
 </tr>
 </tbody>
 </table>
 &nbsp;
 
-<strong><em> </em></strong>
-
 <strong><em>Where to start</em></strong>
 
-The International Co-operative Programme on Assessment and Monitoring of Air Pollution Effects on Forests (Cools &amp; De Vos, 2016) and the Countryside Survey <a href="https://paperpile.com/c/2Av5rU/4ATX">(Emmett et al., 2010)</a> give a good overview over how to sample soils.
+The International Co-operative Programme on Assessment and Monitoring of Air Pollution Effects on Forests (Cools &amp; De Vos, 2016) and the Countryside Survey (Emmett et al., 2010) give a good overview over how to sample soils.
 
 &nbsp;
 
 &nbsp;
-<h2><a name="_Toc23712698"></a><strong>1.3.1 Soil types and horizons (layers)</strong></h2>
+<h4><a name="_Toc23712698"></a><strong>1.3.1 Soil types and horizons (layers)</strong></h4>
 Unlike sediments that are deposited over time, soils are developed as horizons from the parent material under the influence of local climate, topography, and biota. There are many soil types based on the composition of the parent material, texture, and organic matter. A soil horizon is a parallel layer to the soil surface with distinctly different physical, chemical, and biological characteristics from the layers above or beneath. A vertical layout of a soil (based on a soil pit) illustrates the different horizons in a soil profile (Figure 1.3.1). Determining soil horizons within a soil profile will provide important information about the life history of the soil as well as different characteristics of soil properties.
+
+<img class="alignnone size-medium wp-image-215" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.17.16-177x300.png" alt="" width="177" height="300" />
 <table width="100%">
 <tbody>
 <tr>
@@ -121,31 +121,31 @@ Unlike sediments that are deposited over time, soils are developed as horizons f
 </tr>
 </tbody>
 </table>
-The soil profile should be described according to a soil classification that is compatible with the World Reference Base (WRB) system. Soil type should be reported according to the World Reference Base for Soil Resources system <a href="https://paperpile.com/c/2Av5rU/wwZt+9Pqk+DK5z">(ISRIC, 1998; IUSS Working Group WRB, 2006, 2014)</a>. This is the international standard taxonomic soil classification system, which is endorsed by the International Union of Soil Sciences (IUSS) and replaces the FAO soil classification. Reporting the depth of soil layers or horizons should be included in any description as this is important for comparison and modelling. Most classification systems recognise six master soil horizons which are designated using the capital letters O, A, E, B, C, and R (Figure 1.3.1). Reporting O to B is usually sufficient for climate-change studies. O = Organic matter, characterised by high levels of organic material: dark in colour; A = Mineral topsoil, often organically stained: contains highly weathered parent material (rocks) and is lighter in colour than the O horizon; E = Eluviated - used to label a horizon that has been highly leached of minerals, clays, and sesquioxides: usually determined as a pale layer below the A horizon and only exists in older, well-developed soils; B = Subsoil, an illuviated layer that accumulates iron, clay, aluminium, and organic compounds: lighter in colour and often may be reddish due to the iron content; C = Broken-down bedrock, also known as substratum; R = Bedrock.
+The soil profile should be described according to a soil classification that is compatible with the World Reference Base (WRB) system. Soil type should be reported according to the World Reference Base for Soil Resources system (ISRIC, 1998; IUSS Working Group WRB, 2006, 2014). This is the international standard taxonomic soil classification system, which is endorsed by the International Union of Soil Sciences (IUSS) and replaces the FAO soil classification. Reporting the depth of soil layers or horizons should be included in any description as this is important for comparison and modelling. Most classification systems recognise six master soil horizons which are designated using the capital letters O, A, E, B, C, and R (Figure 1.3.1). Reporting O to B is usually sufficient for climate-change studies. O = Organic matter, characterised by high levels of organic material: dark in colour; A = Mineral topsoil, often organically stained: contains highly weathered parent material (rocks) and is lighter in colour than the O horizon; E = Eluviated - used to label a horizon that has been highly leached of minerals, clays, and sesquioxides: usually determined as a pale layer below the A horizon and only exists in older, well-developed soils; B = Subsoil, an illuviated layer that accumulates iron, clay, aluminium, and organic compounds: lighter in colour and often may be reddish due to the iron content; C = Broken-down bedrock, also known as substratum; R = Bedrock.
 
 &nbsp;
 
 <strong><em>What and how to measure?</em></strong>
 
-Traditionally, determining soil horizons involves excavating a pit exposing a clean vertical surface of approximately 1 metre depth and identifying the depths of different horizons based on colour and physical properties. This can be simplified by using a soil auger. First, identify the depth of soil until the bedrock or parent material layer. Using a soil auger, sample the continuous soil profile until bedrock or parent material is reached, and identify horizons based on different characteristics. Samples are often collected and taken back to the laboratory for analysis. A wide number of texts are available that describe soil analysis: those more widely used include NRCS <a href="https://paperpile.com/c/2Av5rU/16lg/?noauthor=1">(2014a)</a> and Dane &amp; Topp <a href="https://paperpile.com/c/2Av5rU/yx7p/?noauthor=1">(2002)</a>.
+Traditionally, determining soil horizons involves excavating a pit exposing a clean vertical surface of approximately 1 metre depth and identifying the depths of different horizons based on colour and physical properties. This can be simplified by using a soil auger. First, identify the depth of soil until the bedrock or parent material layer. Using a soil auger, sample the continuous soil profile until bedrock or parent material is reached, and identify horizons based on different characteristics. Samples are often collected and taken back to the laboratory for analysis. A wide number of texts are available that describe soil analysis: those more widely used include NRCS (2014a) and Dane &amp; Topp (2002).
 
 &nbsp;
-<h2><a name="_Toc23712699"></a><strong>1.3.2 Plant rooting depth and distribution by depth</strong></h2>
+<h4><a name="_Toc23712699"></a><strong>1.3.2 Plant rooting depth and distribution by depth</strong></h4>
 The plant rooting depth is important to measure the distribution of roots throughout the soil profile as this may change when the plants are subjected to climatic treatments. If the site is heterogeneous (e.g. slope or changes in vegetation), rooting depth should be determined in more than one place.  Plant rooting depth is measured by digging a soil profile (see 1.3.1 Soil horizon) and can be measured when the soil layers are determined.
 
 &nbsp;
-<h2><a name="_Toc23712700"></a><strong>1.3.3 Stone content (%)</strong></h2>
+<h4><a name="_Toc23712700"></a><strong>1.3.3 Stone content (%)</strong></h4>
 Stone content defines the volume and mass in the soil containing stones &gt; 2 mm. Stones do not contribute to plant nutrient supply or water-holding capacity in the soil and the weight and volume of stones are most often subtracted when &gt; 5% of the soil volume (ICP, 2016). To calculate the stone content, an air-dried soil sample of known mass is sieved so that stones larger than 2 mm are removed. The stones are weighed and the % of stones above 2 mm can be determined and reported as a % of the total mass of soil.
 
 &nbsp;
-<h2><a name="_Toc23712701"></a><strong>1.3.4 Bulk density (g cm</strong><strong><sup>-</sup></strong><strong>³)</strong></h2>
+<h4><a name="_Toc23712701"></a><strong>1.3.4 Bulk density (g cm</strong><strong><sup>-</sup></strong><strong>³)</strong></h4>
 Bulk density is a measure of the amount of soil per unit volume of oven dried soil and gives information on the physical status of the soil. The soil organic matter content, soil texture,  the minerals in the soil and degree of compaction define the bulk density. Bulk density varies substantially among soils. Mineral soils have a bulk density of around 1–1.6 g cm<sup>–</sup>³, while in organic soils and friable clay it is well below 1 g cm<sup>–</sup>³. Bulk density values are essential when determining soil carbon and nutrient stocks, as they allow a conversion from concentrations to mass per area (see also protocol 2.2.4 Soil carbon and nutrient stocks).
 
 <strong><em> </em></strong>
 
 <strong><em>What and how to measure?</em></strong>
 
-A range of equipment is available for the determination of bulk density and general guidance can be found in Grossman &amp; Reinsch <a href="https://paperpile.com/c/2Av5rU/AtHV/?noauthor=1">(2002)</a>. A volumetric core (the volume must be known), which should be at least 75 mm in diameter, with the depth no greater than the diameter, should be taken down the soil profile, ideally at 5 cm increments. Although dry bulk density can be determined on the entire soil sample (with stones), it is usually reported for soil sieved through 2 mm mesh, the fine-earth fraction, which is suitable for subsequent calculations of carbon and nutrient stocks. The stones (&gt; 2mm) are removed and weighed separately. The soil samples are dried at 105°C and then weighed.
+A range of equipment is available for the determination of bulk density and general guidance can be found in Grossman &amp; Reinsch (2002). A volumetric core (the volume must be known), which should be at least 75 mm in diameter, with the depth no greater than the diameter, should be taken down the soil profile, ideally at 5 cm increments. Although dry bulk density can be determined on the entire soil sample (with stones), it is usually reported for soil sieved through 2 mm mesh, the fine-earth fraction, which is suitable for subsequent calculations of carbon and nutrient stocks. The stones (&gt; 2mm) are removed and weighed separately. The soil samples are dried at 105°C and then weighed.
 
 Dry bulk density is calculated using the following equation:
 
@@ -156,53 +156,53 @@ The stone density is usually assumed to be ~2.65 g cm<sup>–</sup>³.
 Resampling of bulk density is normally not required. However, especially severe drought may change the bulk density and resampling of bulk density is recommended after 3–5 years.
 
 &nbsp;
-<h2><a name="_Toc23712702"></a><strong>1.3.5 Soil texture</strong></h2>
+<h4><a name="_Toc23712702"></a><strong>1.3.5 Soil texture</strong></h4>
 Soil texture is the particle size distribution of soil determined by a percent combination of sand, silt, and clay that presents coarseness of a soil. Soil texture partly determines soil water-holding capacity and permeability, which provides important characteristic information about soil physical properties. The percentage clay in particular is also highly relevant for nutrient availability, as the clay colloids serve as exchange places for cations such as NH<sub>4</sub><sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup> and Mg<sup>2+</sup>, similarly to humus particles.
 
 &nbsp;
 
 <strong><em>What and how to measure?</em></strong>
 
-Particle size analysis (PSA) is used in soil science to determine soil texture (sand, silt, and clay content), and often used in soil physics to determine soil hydraulic properties. PSA is often reported for the fine earth fraction of soils &lt; 2 mm in diameter. Soil samples returning to the laboratory are usually sieved to remove particles &gt; 2mm and root material. PSA can be determined using sedimentation with either the pipette method or the hydrometer method <a href="https://paperpile.com/c/2Av5rU/RkWi">(Gee &amp; Or, 2002)</a>. The texture of soil is expressed using the soil textural triangle from the composition of different particles <a href="https://paperpile.com/c/2Av5rU/0b3L">(NRCS, 2014b)</a>. Texture in organic soils is not measured.
+Particle size analysis (PSA) is used in soil science to determine soil texture (sand, silt, and clay content), and often used in soil physics to determine soil hydraulic properties. PSA is often reported for the fine earth fraction of soils &lt; 2 mm in diameter. Soil samples returning to the laboratory are usually sieved to remove particles &gt; 2mm and root material. PSA can be determined using sedimentation with either the pipette method or the hydrometer method (Gee &amp; Or, 2002). The texture of soil is expressed using the soil textural triangle from the composition of different particles (NRCS, 2014b). Texture in organic soils is not measured.
 
 &nbsp;
-<h2><a name="_Toc23712703"></a><strong>1.3.6 Water table depth (m)</strong></h2>
+<h4><a name="_Toc23712703"></a><strong>1.3.6 Water table depth (m)</strong></h4>
 The water table is the upper extent of the phreatic or groundwater zone, in which all soil pores and fractures are completely filled with water. The water table marks the end of the vadose zone. The phreatic zone and therefore the water table depth may vary between seasons and with dry or wet periods.
 
-In areas with shallow water tables, for example in deltaic areas <a href="https://paperpile.com/c/2Av5rU/1k9y">(van der Ploeg et al., 2012)</a> or wetlands <a href="https://paperpile.com/c/2Av5rU/JCmE">(Oosterwoud et al., 2017)</a>, or in soils with a perched water table owing to less permeable soil layers, the water table influences the amount of water available for vegetation and soil evaporation. For vegetation, the water table influences water availability as roots may grow towards the water table or via capillary rise of groundwater. Capillary rise is a physical phenomenon where water will rise in a hollow tube with a small diameter. The smaller the tube the higher the water will rise. Soil pores form a network of such hollow tubes, and the height of capillary rise depends on the soil texture and structure <a href="https://paperpile.com/c/2Av5rU/9sRn/?suffix=%2C%20section%209.6">(Brutsaert, 2005, section 9.6)</a>, leading to a range from 0.2–0.5 m capillary rise for coarse textured soil (e.g. sand) to 0.8–several m for fine textured soil (e.g. clay). For soil evaporation, water is transported from the underlying soil layers by liquid and vapour transport, which can be influenced by groundwater through capillary rise. If the water table is expected to influence the climate-change studies it is recommended to monitor the water table fluctuations.
+In areas with shallow water tables, for example in deltaic areas (van der Ploeg et al., 2012) or wetlands (Oosterwoud et al., 2017), or in soils with a perched water table owing to less permeable soil layers, the water table influences the amount of water available for vegetation and soil evaporation. For vegetation, the water table influences water availability as roots may grow towards the water table or via capillary rise of groundwater. Capillary rise is a physical phenomenon where water will rise in a hollow tube with a small diameter. The smaller the tube the higher the water will rise. Soil pores form a network of such hollow tubes, and the height of capillary rise depends on the soil texture and structure (Brutsaert, 2005, section 9.6), leading to a range from 0.2–0.5 m capillary rise for coarse textured soil (e.g. sand) to 0.8–several m for fine textured soil (e.g. clay). For soil evaporation, water is transported from the underlying soil layers by liquid and vapour transport, which can be influenced by groundwater through capillary rise. If the water table is expected to influence the climate-change studies it is recommended to monitor the water table fluctuations.
 
 &nbsp;
 
 <strong><em>What and how to measure</em></strong>
 
-The water table can be measured with a piezometer, which is a tube with a perforated, screened part for groundwater to enter the tube while soil material is kept out <a href="https://paperpile.com/c/2Av5rU/K1Hp">(Reeve, 1986)</a>. It can be installed by drilling a hole manually with a soil auger or with drilling equipment. Before installing in a site with perched water tables, ensure that the site’s less permeable layers are not drained by making holes through them, thus altering the soil hydraulics. Once the piezometer is installed, measurements can be done manually with a measurement tape with a float or automatically with a pressure transducer <a href="https://paperpile.com/c/2Av5rU/JCmE/?prefix=e.g.%20">(e.g. Oosterwoud et al., 2017)</a>.
+The water table can be measured with a piezometer, which is a tube with a perforated, screened part for groundwater to enter the tube while soil material is kept out (Reeve, 1986). It can be installed by drilling a hole manually with a soil auger or with drilling equipment. Before installing in a site with perched water tables, ensure that the site’s less permeable layers are not drained by making holes through them, thus altering the soil hydraulics. Once the piezometer is installed, measurements can be done manually with a measurement tape with a float or automatically with a pressure transducer (e.g. Oosterwoud et al., 2017).
 
 &nbsp;
-<h2><a name="_Toc23712704"></a><strong>1.3.7 References</strong></h2>
+<h4><a name="_Toc23712704"></a><strong>1.3.7 References</strong></h4>
 Brutsaert, W. (2005). <em>Hydrology: An Introduction.</em> Cambridge: Cambridge University Press.
 
 Dane, J. H., &amp; Topp, G. C. (Eds.). (2002). Methods of soil analysis: Part 4—Physical methods. In J. H. Dane, &amp; C. G. Topp (Eds.), <em>Methods of Soil Analysis</em> (pp. 1018–1020). Madison, WI: Soil Science Society of America, American Society of Agronomy.
 
-<a href="http://paperpile.com/b/xcQBPX/bvRya">Gee, G. W., &amp; Or, D. (2002). 2.4 Particle-size analysis. In J. H. Dane, &amp; C. G. Topp (Eds.), <em>Methods of Soil Analysis: Part 4</em>—<em>Physical Methods</em> (pp. 255–293). Madison, WI: Soil Science Society of America.</a>
+Gee, G. W., &amp; Or, D. (2002). 2.4 Particle-size analysis. In J. H. Dane, &amp; C. G. Topp (Eds.), <em>Methods of Soil Analysis: Part 4</em>—<em>Physical Methods</em> (pp. 255–293). Madison, WI: Soil Science Society of America.
 
-<a href="http://paperpile.com/b/xcQBPX/zjzxV">Grossman, R. B., &amp; Reinsch, T. G. (2002). 2.1 Bulk density and linear extensibility. In J. H. Dane, &amp; C. G. Topp (Eds.), <em>Methods of Soil Analysis: Part 4</em>—<em>Physical Methods</em> (pp. 201–228). Madison, WI: Soil Science Society of America.</a>
+Grossman, R. B., &amp; Reinsch, T. G. (2002). 2.1 Bulk density and linear extensibility. In J. H. Dane, &amp; C. G. Topp (Eds.), <em>Methods of Soil Analysis: Part 4</em>—<em>Physical Methods</em> (pp. 201–228). Madison, WI: Soil Science Society of America.
 
-<a href="http://paperpile.com/b/xcQBPX/BPxR9">ISRIC International Soil Reference and Information Centre. (1998). <em>World Reference Base for Soil Resources</em>. World Soil Resources Reports 84. Rome, FAO.</a>
+ISRIC International Soil Reference and Information Centre. (1998). <em>World Reference Base for Soil Resources</em>. World Soil Resources Reports 84. Rome, FAO.
 
-<a href="http://paperpile.com/b/xcQBPX/il3lv">IUSS Working Group WRB. (2006). <em>World Reference Base for Soil Resources 2006: A Framework for International Classification, Correlation and Communication</em>. Rome, FAO.</a>
+IUSS Working Group WRB. (2006). <em>World Reference Base for Soil Resources 2006: A Framework for International Classification, Correlation and Communication</em>. Rome, FAO.
 
-<a href="http://paperpile.com/b/xcQBPX/WITLI">IUSS Working Group WRB<em>. (2014). World Reference Base for Soil Resources 2014: International Soil Classification System for Naming Soils and Creating Legends for Soil Maps</em> (3rd ed.). Rome, FAO.</a>
+IUSS Working Group WRB<em>. (2014). World Reference Base for Soil Resources 2014: International Soil Classification System for Naming Soils and Creating Legends for Soil Maps</em> (3rd ed.). Rome, FAO.
 
 Maaroufi, N. I., Nordin, A., Hasselquist, N. J., Bach, L. H., Palmqvist, K., &amp; Gundale, M. J. (2015). Anthropogenic nitrogen deposition enhances carbon sequestration in boreal soils. <em>Global Change Biology, 21</em>(8), 3169-3180.
 
-NRCS <a href="http://paperpile.com/b/xcQBPX/TVuv4">Natural Resources Conservation Service. (2014a). <em>Soil Electrical Conductivity: Soil Health - Guides for educators</em>. United States Department of Agriculture.</a>
+NRCS Natural Resources Conservation Service. (2014a). <em>Soil Electrical Conductivity: Soil Health - Guides for educators</em>. United States Department of Agriculture.
 
-NRCS <a href="http://paperpile.com/b/xcQBPX/gqd29">Natural Resources Conservation Service. (2014b). <em>Soil Survey Field and Laboratory Methods Manual, Soil Survey Investigations Report No. 51</em> (Version 2.0.).</a> United States Department of Agriculture.
+NRCS Natural Resources Conservation Service. (2014b). <em>Soil Survey Field and Laboratory Methods Manual, Soil Survey Investigations Report No. 51</em> (Version 2.0.). United States Department of Agriculture.
 
-<a href="http://paperpile.com/b/xcQBPX/pIGR0">Oosterwoud, M., van der Ploeg, M., van der Schaaf, S., &amp; van der Zee, S. (2017). Variation in hydrologic connectivity as a result of microtopography explained by discharge to catchment size relationship. <em>Hydrological Processes</em>, 31(15), 2683–2699.</a>
+Oosterwoud, M., van der Ploeg, M., van der Schaaf, S., &amp; van der Zee, S. (2017). Variation in hydrologic connectivity as a result of microtopography explained by discharge to catchment size relationship. <em>Hydrological Processes</em>, 31(15), 2683–2699.
 
 Reeve, R. C. (1986). Water potential: piezometry. In A. Klute (Ed.), <em>Methods of Soil Analysis: Part 1—Physical and Mineralogical Methods</em> (pp. 545–561). Madison, WI: Soil Science Society of America, American Society of Agronomy.
 
 Swift, R. S., &amp; Sparks, D. L. (2009). Methods of Soil Analysis:  Part 3—Chemical Methods. In D. L. Sparks, A. L. Page, P. A. Helmke, &amp; R. H. Loeppert (Eds.), <em>Soil Science Society of America Book Series, 5</em>. Madison, WI: Soil Science Society of America, American Society of Agronomy.
 
-<a href="http://paperpile.com/b/xcQBPX/X4Nru">Van der Ploeg, M. J., Appels, W. M., Cirkel, D. G., Oosterwoud, M. R., Witte, J.-P. M., &amp; van der Zee, S. E. A. T. M. (2012). Microtopography as a driving mechanism for ecohydrological processes in shallow groundwater systems. <em>Vadose Zone Journal</em>, 11, 3. </a>
+Van der Ploeg, M. J., Appels, W. M., Cirkel, D. G., Oosterwoud, M. R., Witte, J.-P. M., &amp; van der Zee, S. E. A. T. M. (2012). Microtopography as a driving mechanism for ecohydrological processes in shallow groundwater systems. <em>Vadose Zone Journal</em>, 11, 3.
