@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: post
 permalink: >
-  http://climexhandbook.w.uib.no/2019/11/07/biological-nitrogen-fixation/
+  http://climexhandbook.w.uib.no/2019/11/06/biological-nitrogen-fixation/
 published: true
-post_date: 2019-11-07 10:40:09
+post_date: 2019-11-06 04:00:09
 ---
