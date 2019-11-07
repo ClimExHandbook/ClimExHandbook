@@ -40,7 +40,7 @@ Similar considerations should be made for the sampling intervals. The frequency 
 
 &nbsp;
 
-<strong>Table 1.1</strong> Checklist of questions to ask and guidance when setting up a sustainable and multi-purpose climate-change study from site to sub-plot level.
+<span style="font-size: 10pt"><strong>Table 1.1</strong> Checklist of questions to ask and guidance when setting up a sustainable and multi-purpose climate-change study from site to sub-plot level.</span>
 <table width="601">
 <tbody>
 <tr>
@@ -212,7 +212,7 @@ Pictures of the plots at each sampling date are useful as they document the data
 
 <img class="alignnone wp-image-207 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/SiteBlockPlot2.jpg" alt="" width="3394" height="1581" />
 
-<strong>Figure 1.1 </strong>Schematic figure of an example of a nested climate-change study design with four different levels: A) site, B) within-site (block), and C) within-block and plot level (plot and sub-plot).
+<span style="font-size: 10pt"><strong>Figure 1.1 </strong>Schematic figure of an example of a nested climate-change study design with four different levels: A) site, B) within-site (block), and C) within-block and plot level (plot and sub-plot).</span>
 
 <strong> </strong>
 <h4><a name="_Toc23712689"></a><strong>1.1.5 References</strong></h4>
