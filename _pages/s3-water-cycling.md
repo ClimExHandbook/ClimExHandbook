@@ -33,7 +33,7 @@ post_date: 2019-11-07 10:05:36
 <p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
 <p>&nbsp;</p>
 <h4>How to cite an updated protocol version:</h4>
-<p>E.g. To monitor soil moisture we used the method described in protocol 3.1 Soil moisture in the Supporting Information S3 Water cycling in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: www.climexhandbook.uib.no.</p>
+<p>E.g. To monitor soil moisture we used the method described in protocol 3.1 Soil moisture in the Supporting Information S3 Water cycling in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: climexhandbook.uib.no.</p>
 <p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
 <h4></h4>
 </div>
