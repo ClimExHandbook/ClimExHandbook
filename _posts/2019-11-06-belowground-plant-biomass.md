@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2019-11-06 19:00:49
 ---
+td {text-align:left;}
+
 <strong>Authors:</strong> Schmidt IK<sup>1</sup>, Ostonen I<sup>2</sup> and Blume-Werry G<sup>3</sup>
 
 <strong>Reviewer: </strong>Weigel R<sup>4</sup>
@@ -71,7 +73,7 @@ While root biomass estimates give a good indication of the belowground biomass p
 <table width="643">
 <tbody>
 <tr>
-<td width="92">&nbsp;</td>
+<td width="92"></td>
 <td width="132"><strong>Destructive</strong></td>
 <td width="123"><strong>Non-destructive</strong></td>
 <td width="132"><strong>Sample size</strong></td>
@@ -80,24 +82,24 @@ While root biomass estimates give a good indication of the belowground biomass p
 <tr>
 <td width="92"><strong>Root biomass</strong></td>
 <td width="132">Soil coring</td>
-<td width="123">&nbsp;</td>
+<td width="123"></td>
 <td width="132">5–10 per treatment</td>
 <td width="163">Soil can be used for other purposes to minimise disturbance</td>
 </tr>
 <tr>
 <td width="92"><strong> </strong></td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="123">Allometric models</td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="163">Forests
 
 Can be calibrated outside the plots</td>
 </tr>
 <tr>
 <td width="92"><strong> </strong></td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="123">Mini-rhizotrons</td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="163">Only relative root biomass
 
 Destructive under installation</td>
@@ -105,14 +107,14 @@ Destructive under installation</td>
 <tr>
 <td width="92"><strong>Root production</strong></td>
 <td width="132">Sequential soil coring</td>
-<td width="123">&nbsp;</td>
+<td width="123"></td>
 <td width="132">5–10 soil cores are sampled throughout the year</td>
 <td width="163">Simple but very destructive</td>
 </tr>
 <tr>
 <td width="92"><strong> </strong></td>
 <td width="132">In-growth cores</td>
-<td width="123">&nbsp;</td>
+<td width="123"></td>
 <td width="132">Number depends on spatial and temporal resolution
 
 e.g. 10 per treatment</td>
@@ -121,13 +123,13 @@ e.g. 10 per treatment</td>
 <tr>
 <td width="92"><strong> </strong></td>
 <td width="132">Mesh</td>
-<td width="123">&nbsp;</td>
+<td width="123"></td>
 <td width="132">As for in-growth cores</td>
 <td width="163">Very destructive as the mesh is sampled after incubation by cutting 5–10 cm on each side of the mesh</td>
 </tr>
 <tr>
 <td width="92"><strong> </strong></td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="123">Mini-rhizotrons</td>
 <td width="132">5–10 mini-rhizotrons per treatment</td>
 <td width="163">Laborious but data on root production, phenology. Long-term studies</td>
@@ -135,22 +137,22 @@ e.g. 10 per treatment</td>
 <tr>
 <td width="92"><strong>Root turn-over</strong></td>
 <td width="132">Root biomass/root production</td>
-<td width="123">&nbsp;</td>
+<td width="123"></td>
 <td width="132">5–10 soil cores</td>
 <td width="163">If both root biomass and production are available, the root turnover can be calculated</td>
 </tr>
 <tr>
-<td width="92">&nbsp;</td>
-<td width="132">&nbsp;</td>
+<td width="92"></td>
+<td width="132"></td>
 <td width="123">Mini-rhizotrons</td>
 <td width="132">5–10 mini-rhizotrons per treatment</td>
 <td width="163">Long-term studies possible</td>
 </tr>
 <tr>
-<td width="92">&nbsp;</td>
-<td width="132">&nbsp;</td>
+<td width="92"></td>
+<td width="132"></td>
 <td width="123"><sup>14</sup>C radiocarbon</td>
-<td width="132">&nbsp;</td>
+<td width="132"></td>
 <td width="163">Expert knowledge to sample and interpret data</td>
 </tr>
 </tbody>
