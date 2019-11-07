@@ -107,52 +107,48 @@ The methods described below are divided into 1) non-forest AGB methods and 2) fo
 Harvested AGB is then sorted into live and dead biomass, growth form, species, and plant organs when the plant material is still wet (Table 2.1.1.2). After sorting, plant material is dried at 65 <sup>o</sup>C to constant weight. AGB is calculated by summing up all the dry-weight fractions and is expressed in grams of dry biomass per m<sup>2</sup>.
 
 <span style="font-size: 10pt"><strong>Table 2.1.1.2</strong> Hierarchy of detail documented for plant material from destructive harvests. (Fresh) Plant material should, at the minimum, be divided into living, dead, and morbid structures of the different plant functional types. Species information is good to collect. Ideal is information on plant organs (Bertora et al., 2012; INCREASE).</span>
-<table width="528">
+<table style="width: 0px" width="528">
 <tbody>
 <tr>
-<td style="text-align: left" colspan="2" width="196"><strong>Recommended</strong></td>
-<td style="text-align: left" width="120"><strong>Good to have</strong></td>
-<td style="text-align: left" width="212"><strong>Nice to have</strong></td>
+<td style="width: 418px;text-align: left" colspan="2" width="196"><strong>Recommended</strong></td>
+<td style="width: 252px;text-align: left" width="120"><strong>Good to have</strong></td>
+<td style="width: 430px;text-align: left" width="212"><strong>Nice to have</strong></td>
 </tr>
 <tr>
-<td style="text-align: left" rowspan="5" width="68"><strong>Alive</strong></td>
-<td style="text-align: left" width="128">Bryophytes/lichens</td>
-<td style="text-align: left" rowspan="5" width="120">
-
-[caption id="attachment_315" align="alignnone" width="939"]<img class="size-full wp-image-315" src="http://climexhandbook.w.uib.no/files/2019/11/PinHits.png" alt="" width="939" height="287" /> Figure 2.1.1.2 Correlation between pin-hits and harvested biomass in areas outside the AGB observation plots ((data from Clocaenog field experiment, UK; Domínguez et al., 2015). Number of pin-hits of each species is correlated with the measured (dried) biomass for each plot of a defined area. A relationship of the form y = mx + n where y is the measured dry biomass, x = pin-hits, m = derived relationship for each species, and the intercept n = zero given the assumption that there are no pin-hits, the species is not present (thus the biomass = 0). The more information derived from the point-intercept survey (e.g. green leaves, dead leaves, stems of each species), the more accurate the relationships will be.[/caption]
-
-ecies</td>
-<td style="text-align: left" width="212">location (soil surface/stem)</td>
+<td style="width: 151px;text-align: left" rowspan="5" width="68"><strong>Alive</strong></td>
+<td style="width: 267px;text-align: left" width="128">Bryophytes/lichens</td>
+<td style="width: 252px;text-align: left" rowspan="5" width="120">Species</td>
+<td style="width: 430px;text-align: left" width="212">location (soil surface/stem)</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Grasses</td>
-<td style="text-align: left" width="212">grasses/sedges/rushes</td>
+<td style="width: 267px;text-align: left" width="128">Grasses</td>
+<td style="width: 430px;text-align: left" width="212">grasses/sedges/rushes</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Forbs</td>
-<td style="text-align: left" width="212">leaves/flowers</td>
+<td style="width: 267px;text-align: left" width="128">Forbs</td>
+<td style="width: 430px;text-align: left" width="212">leaves/flowers</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Woody (shrubs)</td>
-<td style="text-align: left" width="212">stem/leaves/flowers</td>
+<td style="width: 267px;text-align: left" width="128">Woody (shrubs)</td>
+<td style="width: 430px;text-align: left" width="212">stem/leaves/flowers</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Woody (trees)</td>
-<td style="text-align: left" width="212">current year's woody growth</td>
+<td style="width: 267px;text-align: left" width="128">Woody (trees)</td>
+<td style="width: 430px;text-align: left" width="212">current year's woody growth</td>
 </tr>
 <tr>
-<td style="text-align: left" rowspan="3" width="68"><strong>Dead</strong></td>
-<td style="text-align: left" width="128">Grasses</td>
-<td style="text-align: left" rowspan="3" width="120">Species</td>
-<td style="text-align: left" width="212">leaves/flowers</td>
+<td style="width: 151px;text-align: left" rowspan="3" width="68"><strong>Dead</strong></td>
+<td style="width: 267px;text-align: left" width="128">Grasses</td>
+<td style="width: 252px;text-align: left" rowspan="3" width="120">Species</td>
+<td style="width: 430px;text-align: left" width="212">leaves/flowers</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Forbs</td>
-<td style="text-align: left" width="212">stem/leaves/flowers</td>
+<td style="width: 267px;text-align: left" width="128">Forbs</td>
+<td style="width: 430px;text-align: left" width="212">stem/leaves/flowers</td>
 </tr>
 <tr>
-<td style="text-align: left" width="128">Woody</td>
-<td style="text-align: left" width="212">current year's woody growth</td>
+<td style="width: 267px;text-align: left" width="128">Woody</td>
+<td style="width: 430px;text-align: left" width="212">current year's woody growth</td>
 </tr>
 </tbody>
 </table>
@@ -168,13 +164,9 @@ For each survey plot, the total number of hits for each species on the pin is ex
 
 &nbsp;
 
-&nbsp;
+[caption id="attachment_315" align="alignnone" width="939"]<img class="size-full wp-image-315" src="http://climexhandbook.w.uib.no/files/2019/11/PinHits.png" alt="" width="939" height="287" /> <span style="font-size: 10pt"><strong>Figure 2.1.1.2</strong> Correlation between pin-hits and harvested biomass in areas outside the AGB observation plots ((data from Clocaenog field experiment, UK; Domínguez et al., 2015). Number of pin-hits of each species is correlated with the measured (dried) biomass for each plot of a defined area. A relationship of the form y = mx + n where y is the measured dry biomass, x = pin-hits, m = derived relationship for each species, and the intercept n = zero given the assumption that there are no pin-hits, the species is not present (thus the biomass = 0). The more information derived from the point-intercept survey (e.g. green leaves, dead leaves, stems of each species), the more accurate the relationships will be.</span>[/caption]
 
-<span style="font-size: 10pt"><strong>Figure 2.1.1.2</strong> Correlation between pin-hits and harvested biomass in areas outside the AGB observation plots ((data from Clocaenog field experiment, UK; Domínguez et al., 2015). Number of pin-hits of each species is correlated with the measured (dried) biomass for each plot of a defined area. A relationship of the form y = mx + n where y is the measured dry biomass, x = pin-hits, m = derived relationship for each species, and the intercept n = zero given the assumption that there are no pin-hits, the species is not present (thus the biomass = 0). The more information derived from the point-intercept survey (e.g. green leaves, dead leaves, stems of each species), the more accurate the relationships will be.</span>
-
-&nbsp;
-
-<span style="font-size: 10pt"><strong>Picture 2.1.1.2</strong> Point-intercept survey in climate change experimental plots. The AGB observation plot is located within an experimental plot; the corners of the AGB observation plot are marked with four sticks (top left). The frame (top right) can then be put onto the sticks. The surveyor is positioned on a plank resting on the experimental structure avoiding disturbance of the vegetation and soil (bottom left). A frame with 10 cm distance points is used as guidance for the survey-pin that is lowered into the vegetation (bottom left and right). Pin-hits are recorded using a dictaphone. Notes with vegetation codes are used for easier decoding afterwards. Photos: Inger Kappel Schmidt (top left to bottom left) and Alwyn Sowerby (bottom right).</span>
+[caption id="attachment_318" align="alignnone" width="939"]<img class="size-full wp-image-318" src="http://climexhandbook.w.uib.no/files/2019/11/Surveys.png" alt="" width="939" height="616" /> <span style="font-size: 10pt"><strong>Picture 2.1.1.2</strong> Point-intercept survey in climate change experimental plots. The AGB observation plot is located within an experimental plot; the corners of the AGB observation plot are marked with four sticks (top left). The frame (top right) can then be put onto the sticks. The surveyor is positioned on a plank resting on the experimental structure avoiding disturbance of the vegetation and soil (bottom left). A frame with 10 cm distance points is used as guidance for the survey-pin that is lowered into the vegetation (bottom left and right). Pin-hits are recorded using a dictaphone. Notes with vegetation codes are used for easier decoding afterwards. Photos: Inger Kappel Schmidt (top left to bottom left) and Alwyn Sowerby (bottom right).</span>[/caption]
 
 <strong><em> </em></strong>
 
