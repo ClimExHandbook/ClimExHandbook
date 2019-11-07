@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: post
 permalink: >
-  https://climexhandbook.w.uib.no/2019/11/07/optimising-the-study-design/
+  http://climexhandbook.w.uib.no/2019/11/07/optimising-the-study-design/
 published: true
 post_date: 2019-11-07 06:00:19
 ---
