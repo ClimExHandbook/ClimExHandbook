@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-07 06:00:19
 ---
-<h2><a name="_Toc23712685"></a><strong>1.1.1 What to measure and report and why?</strong></h2>
+<h4><a name="_Toc23712685"></a><strong>1.1.1 What to measure and report and why?</strong></h4>
 A basic site description for an experimental or observational site includes the location where the study was performed and under what biotic and abiotic conditions. The documentation of the basic characteristics of the system and correct reporting of the basic data facilitates and improves comparisons with other studies and downstream usage of the data in meta-analyses and other data syntheses (Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017). For any study it is thus important to report and measure the following information for each site: i) geographical location and basic site description, ii) abiotic and biotic properties of the ecosystem, iii) basic climate and weather data, and iv) experimental set-up, analysis, and results. More specific for climate-change experiments <em>sensu stricto</em>, variables that may be influenced by the manipulation need to be measured in all treatments. These include variables such as soil moisture, temperature, and nutrient availability, along with various biotic responses described in detail in other protocols (see Supporting Information S2 Carbon and nutrient cycling, S3 Water cycling, S4 Species and interactions and S5 Stress physiology). For <em>in situ</em> experiments (e.g. space and time), it is important to measure variables that may be influenced by the spatial or temporal component of the experiment.
 
 The <strong>geographical location and basic site description</strong> should describe the study location i.e. coordinates, vegetation type, and climate (Hillebrand &amp; Gurevitch, 2013; Morueta-Holme et al., 2018). This effort enables and facilitates further upscaling and modelling of the experiments beyond the observational boundary as well as increasing the potential for the dataset to be used in meta-analysis.
@@ -21,11 +21,11 @@ When conducting a climate-change study, it is crucial to measure <strong>environ
 Finally, for the further use of the data from a climate-change studies, i.e. for a meta-analysis, it is crucial to correctly follow open science practise and report the study design, analysis, and results (Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017).
 
 &nbsp;
-<h2><a name="_Toc23712686"></a><strong>1.1.2 Setting up a sustainable climate-change study</strong></h2>
+<h4><a name="_Toc23712686"></a><strong>1.1.2 Setting up a sustainable climate-change study</strong></h4>
 Once a decision on the important matters in the research are made, such as the research question, the experimental treatments and study design, the study system, site selection, and other important issues related to the research (which is not the purpose of this protocol and will not be discussed here), a number of more practical issues have to be decided. Climate-change studies are expensive and resource demanding and the goal should be to make the most out of them. One of the most important decisions is that of sustainability: how long will the study last, how many people and how much activity will be involved, and is there any chance that there will be new projects and measurements coming in? As a general rule of thumb, there is little to lose by erring on the side of optimism (as in expecting a lot of activity), although financial and spatial constraints may, of course, limit the options. Some general advice to guide decision-making is offered in Table 1.1 and Figure 1.1.
 
 &nbsp;
-<h2><a name="_Toc23712687"></a><strong>1.1.3 At which spatial scale should you measure?</strong></h2>
+<h4><a name="_Toc23712687"></a><strong>1.1.3 At which spatial scale should you measure?</strong></h4>
 The scale at which a variable should be measured has to be considered carefully. Measurements can be quick and simple or labour-intensive and expensive. Most importantly, the scale of the measurements should depend on the research question and the study system, but here are some general rules that are widely applicable, unless there are strong reasons to do differently related to the research questions or study design:
 <ul>
  	<li>Generally, all variables that are stable across the site and that are not affected by the experiment within the timeframe of the study should be measured at the site scale.</li>
@@ -35,7 +35,7 @@ The scale at which a variable should be measured has to be considered carefully.
 In practice, many of these decisions will be affected by economic and data analysis considerations, and there is likely to be a choice between expensive installations/optimal measurements with low replication (i.e. in some but not all treated plots) v. using cheaper/simpler measurements and technology which may allow measuring it across all replicates in the experiments. However, cheap technology and smaller and better loggers are developing rapidly, offering new opportunities. In heterogeneous habitats (horizontal and vertical), it is advisable to measure variables in several places.
 
 &nbsp;
-<h2><a name="_Toc23712688"></a><strong>1.1.4 What is the ideal sampling interval?</strong></h2>
+<h4><a name="_Toc23712688"></a><strong>1.1.4 What is the ideal sampling interval?</strong></h4>
 Similar considerations should be made for the sampling intervals. The frequency of the sampling will mainly depend on the temporal resolution of interest (annual variation, seasonal patterns, daily fluctuations) and also on whether manual sampling or automated loggers are used. If the data are used for modelling, it is important to consider the required temporal resolution of the model, which is often on a fine scale. For example, modelling of ecosystem gas exchange will require half-hourly to hourly climate data input. The calculation of some long-term variables such as seasonal temperature sums or daily maxima also requires relatively high-resolution data. Also here, rapid improvements in technology open up opportunities.
 
 &nbsp;
@@ -83,9 +83,7 @@ Blocks (or other study design features) should be chosen to capture within-site 
 <em> </em></td>
 <td style="width: 453px;text-align: left">
 <p style="text-align: left"><strong>Single-site studies</strong> are easier and cheaper to maintain, allowing resources to be spent on experimental factors and response variables.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left"><strong>Multiple-site studies</strong> allow across site comparisons, but it is then important to consider your “outer design”, i.e. should sites be along gradients or replicates in similar environmental settings, how many replicates are needed (e.g. to fit a regression at site level), etc.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left">Multi-site studies increase the costs and effort, but these also depend on the study and location of the different sites.</p>
 </td>
 </tr>
@@ -202,13 +200,9 @@ Pictures of the plots at each sampling date are useful as they document the data
 <em>What <strong>sub-plot data </strong>are needed?</em></td>
 <td style="width: 453px">
 <p style="text-align: left">Sub-plots can be used for dividing plots into zones, for <strong>destructive, non-destructive sampling</strong>.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left">Sub-plots can also be used directly for sampling purposes, e.g. <strong>frequency data</strong> or mapping.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left">Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left">Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared.</p>
-<p style="text-align: left"></p>
 <p style="text-align: left">In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling.</p>
 </td>
 </tr>
@@ -221,7 +215,7 @@ Pictures of the plots at each sampling date are useful as they document the data
 <strong>Figure 1.1 </strong>Schematic figure of an example of a nested climate-change study design with four different levels: A) site, B) within-site (block), and C) within-block and plot level (plot and sub-plot).
 
 <strong> </strong>
-<h2><a name="_Toc23712689"></a><strong>1.1.5 References</strong></h2>
+<h4><a name="_Toc23712689"></a><strong>1.1.5 References</strong></h4>
 Costanza, R., d’Arge, R., de Groot, R., Farber, S., Grasso, M., Hannon, B., … van den Belt, M. (1997). The value of the world’s ecosystem services and natural capital. <em>Nature, 387</em>, 253-260.
 
 Christie, A. P., Amano, T., Martin, P. A., Shackelford, G. E., Simmons, B. I., &amp; Sutherland, W. J. (2019). Simple study designs in ecology produce inaccurate estimates of biodiversity responses. <em>bioRxiv</em>, 612101.
