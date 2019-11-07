@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-07 04:00:48
 ---
-Soils are physically composed of mineral and organic particles in varying sizes. The combined particles form the soil matrix that shapes the structure and pore spaces of soil. In turn, soil physical properties determine many key soil processes from soil water-holding capacity to cation exchange capacity that affect other life forms and ecosystem function. The key soil physical characteristics include soil structure, bulk density, and texture.
+<img class="alignnone size-medium wp-image-217" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.09-300x29.png" alt="" width="300" height="29" />Soils are physically composed of mineral and organic particles in varying sizes. The combined particles form the soil matrix that shapes the structure and pore spaces of soil. In turn, soil physical properties determine many key soil processes from soil water-holding capacity to cation exchange capacity that affect other life forms and ecosystem function. The key soil physical characteristics include soil structure, bulk density, and texture.
 
 For the description of standard methods for soil characterisation we refer the reader to the Soil Science Society of America (SSSA) series on Methods of Soil Analysis; in particular, part 3 – Chemical Methods (Swift &amp; Sparks, 2009) and part 4 – Physical Methods (Dane &amp; Topp, 2002). Although the SSSA - Physical Methods (Dane &amp; Topp, 2002) lists a complete set of methods, note that some of these traditional methods are being replaced by newer technology. In addition, the USDA Soil Survey Field and Laboratory Methods Manual (NRCS, 2014b) can be used as a new and simple guideline for methods in determining soil physical properties.
 
@@ -149,7 +149,11 @@ A range of equipment is available for the determination of bulk density and gene
 
 Dry bulk density is calculated using the following equation:
 
+<img class="alignnone wp-image-217 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.09.png" alt="" width="660" height="64" />
+
 The stone volume can be determined through the water displacement method using this equation:
+
+<img class="alignnone size-full wp-image-218" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.15.png" alt="" width="413" height="63" />
 
 The stone density is usually assumed to be ~2.65 g cm<sup>–</sup>³.
 
