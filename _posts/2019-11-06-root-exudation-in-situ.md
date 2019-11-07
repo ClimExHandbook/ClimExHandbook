@@ -22,8 +22,7 @@ Root exudation is part of rhizodeposition and a source of soluble organic carbon
 Methods for the collection of root exudates have developed along two main trajectories: a (semi‑)artificial experimental trajectory that attempts to have sterile collection conditions for the understanding of mechanisms, and an <em>in situ</em> ecological trajectory that attempts to cover the natural complexity of root-rhizosphere interactions, for example in mature forests, and obtains the most representative exudation pattern. In the context of climate-change ecology and other global-change drivers, the <em>in situ </em>methods are of greater importance and, thus, we focus our review on these methods only. The described methods are applicable for site-based studies in the field, along environmental gradients in natural landscapes or with modified land-use or nutritional status, as well as in climate-change manipulation studies including pot experiments in a greenhouse and/or chambers. For an overview of laboratory methods the reader is referred to the literature (e.g. Luster &amp; Finlay, 2006; Neumann &amp; Römheld, 2007; Vranova et al., 2013; Oburger &amp; Schmidt, 2016).
 
 &nbsp;
-
-<strong>2.1.5.1 What and how to measure?</strong>
+<h4><strong>2.1.5.1 What and how to measure?</strong></h4>
 <ol>
  	<li><strong><em>a) </em></strong><strong>In situ<em> root exudate collection</em></strong></li>
 </ol>
@@ -36,6 +35,8 @@ Basic analyses include the measurement of the concentration of the dissolved org
 &nbsp;
 
 <strong>Sampling with filter papers or agar sheets</strong>. The collection of specific exuded compounds can be conducted by the application of filter papers, agar sheets, or resin foils to excised root systems. Similar to the culture-based cuvette method (see the description of the <em>Culture-based cuvette method</em> above), the sampled fine root systems are carefully excavated from the soil and remain attached to the plant during the whole sampling process. After excavation, the species identity of the root system has to be confirmed with a morphological key (or by tracking the root system back to the parent tree). <strong>Filter paper</strong> with high soaking capacity is cut into an appropriate size, washed with methanol and distilled water to remove impurities, and applied to the root zones of interest for short time periods (1–3 h; Luster &amp; Finlay, 2006). During this time, the rest of the root system has to be covered with moist filter paper soaked in nutrient solution to avoid drying. The LMWO compounds absorbed by the filter paper (or phenolic compounds by cellulose acetate filters, enzymes by blotting membranes) are re-extracted with water or buffer (according to subsequent analyses), the solution is centrifuged, and the supernatant used for chemical compound or enzymatic analyses. Alternatively, the filter paper can be soaked with artificial substrates for enzymes, which are visualised after colour reaction (Figure 2.1.5.1).
+
+[caption id="attachment_375" align="alignright" width="483"]<img class="wp-image-375 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/AcidPhosphatase.png" alt="" width="483" height="341" /> Figure 2.1.5.1 Sampling of acid phosphatase activity with filter paper (photo credit: Ina C. Meier)[/caption]
 
 <strong>Agar gels</strong> have been used as a carrier matrix for Al-aluminium complexes that visualise the exudation of Al-complexing chelators (Luster &amp; Finlay, 2006). The gel sheets are produced in small thicknesses and are applied until discoloration becomes visible. Similarly, the exudation of reducing exudates (e.g. malate, phenolics) for the reduction of Fe-III-oxides can be visualised by the application of agar gels containing Fe redox indicators. Common to all three methods, i.e. sampling with filter papers, agar sheets, or resin foils, is that they allow the analysis of spatial variation of exudation rates along the root axis, but are restricted to specific compounds or compound classes, which are bound by the media, and to small sampling volumes. Consequently, these methods allow only qualitative or semi-quantitative comparison of compounds (e.g. Shi et al., 2011).
 
@@ -54,6 +55,8 @@ For a temporal resolution, micro-suction cups can be repeatedly sampled over a l
 <strong> </strong>
 
 <strong>Micro-dialysis</strong>. Micro-dialysis has been introduced as a novel method to sample diffusive fluxes of metals (Miró et al., 2010) and N species from soil (Inselsbacher et al., 2011; Shaw et al., 2014; Brackin et al., 2017). Micro-dialysis is a membrane-based technique for monitoring freely available nutrients and ions in the soil at the root scale. The method is based on the passive diffusion of solutes from rhizosoil across a hydrophilic semipermeable membrane at the end of the probe into a sample collector, while remaining sterile and without the breakdown by microbes or enzymes, which are excluded by the small aperture size of the probes (20 kDa). This means that organic forms of nitrogen (such as amino acids), for example, remain intact (Inselsbacher et al., 2011; Brackin et al., 2015). The micro-dialysis probe is connected to the (syringe) pumping system that pushes water (or any other perfusion liquid (see Miró et al., 2010) through the tubing to the probes in the soil and onto safe-lock vials within the fraction collector (Figure 2.1.5.3; Brackin et al., 2017).
+
+[caption id="attachment_368" align="alignright" width="416"]<img class="size-full wp-image-368" src="http://climexhandbook.w.uib.no/files/2019/11/MicroDialysis.png" alt="" width="416" height="452" /> <span style="font-size: 10pt"><strong>Figure 2.1.5.3</strong> Illustration of the micro-dialysis system, modified from Brackin et al. (2017).</span>[/caption]
 
 Further details of a probe construction and perfusate flow rate delivery are available in Miró &amp; Frenzel (2004). The miniature design of the probes enables installation with minimal disturbance and high spatial resolution. Micro-dialysis can be used repeatedly over time, removes only dissolved compounds but not soil water, and preserves nutrients in their native form (Miró &amp; Frenzel, 2005; Inselsbacher et al., 2011). Even though accurate calibration and deduction of external soil solution concentrations is problematic (Shaw et al., 2014), the micro-dialysis method avoids biases common to the suction-cup method, such as adsorption to soil particles and dependence on soil pore sizes.
 
@@ -88,9 +91,7 @@ Kuzyakov &amp; Domanski (2000), Luster &amp; Finlay (2006), Neumann &amp; Römhe
 <strong>Resorption</strong>. Potential exudate resorption of the exuded compounds by the same roots has to be considered. C loss to the rhizosphere is generally not a unidirectional flux: a major part of the lost exudate C can be actively retrieved depending on the plant photosynthetic metabolism (Jones &amp; Darrah, 1993; Sacchi et al., 2000). C<sub>4</sub> plants retrieve up to 10% of LMWO compounds; whereas C<sub>3</sub> plants may retrieve up to 70% of the exuded LMWO compounds (see review by Vranova et al., 2013).
 
 &nbsp;
-
-<strong>2.1.5.3 References</strong>
-
+<h4><strong>2.1.5.3 References</strong></h4>
 <strong><em>Theory, significance, and large datasets</em></strong>
 
 Neumann &amp; Römheld (2007), Smit et al. (2000).
