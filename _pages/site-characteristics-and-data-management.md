@@ -13,7 +13,7 @@ post_date: 2019-11-07 09:02:56
 ---
 <div id="pl-109" class="panel-layout"><div id="pg-109-0" class="panel-grid panel-no-style"><div id="pgc-109-0-0" class="panel-grid-cell" data-weight="1"><div id="panel-109-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<strong>Editor:</strong> AH Halbritter
+	<strong>Editor:</strong> Halbritter AH
 
 <strong>Authors:</strong> Halbritter AH<sup>1</sup>, Robinson DA<sup>2</sup>, Reinsch S<sup>2</sup>, Lebron I<sup>2</sup>, Abrantes N<sup>3</sup>, Campos I<sup>3</sup>, Zurba K<sup>4</sup>, Vicca S<sup>5</sup>, Cosby J<sup>2</sup>, van der Ploeg M<sup>6</sup>, Richard J. Telford<sup>1</sup> and Vandvik V<sup>1</sup>
 
