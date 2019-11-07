@@ -31,19 +31,8 @@ post_date: 2019-11-07 10:06:23
 <p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
 <p>&nbsp;</p>
 <h4>How to cite an updated protocol version:</h4>
-<p>E.g. Data on phenology was recorded using the method described in protocol 4.5 Aboveground plant phenology in the Supporting Information S4 Species and interactions in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: www.climexhandbook.uib.no.</p>
+<p>E.g. Data on phenology was recorded using the method described in protocol 4.5 Aboveground plant phenology in the Supporting Information S4 Species and interactions in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: climexhandbook.uib.no.</p>
 <p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
-<p>&nbsp;</p>
-<h4>Affiliations</h4>
-<p><sup>1</sup> Department of Biological Sciences and Bjerknes Centre for Climate Research, University of Bergen, Bergen, Norway</p>
-<p><sup>2</sup> Centre for Ecology &amp; Hydrology, Environment Centre Wales, Bangor, UK</p>
-<p><sup>3</sup> Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro,3810-193 Aveiro, Portugal</p>
-<p><sup>4</sup> Interdisciplinary Environmental Research Centre, Technische Universität Bergakademie Freiberg, Germany</p>
-<p><sup>5</sup> Centre of Excellence PLECO (Plants and Ecosystems), Biology Department, University of Antwerp, Wilrijk, Belgium</p>
-<p><sup>6</sup> Soil Physics and Land Management, Wageningen University, the Netherlands</p>
-<p><sup>7</sup> Poznań University of Life Sciences; Meteorology Department, Poznań, Poland</p>
-<p><sup>8</sup> NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research, Bergen, Norway</p>
-<p><sup>9</sup> Department of Biology, Virginia Commonwealth University, Richmond, VA USA</p>
 <p>&nbsp;</p>
 </div>
 </div></div></div></div></div></div>
