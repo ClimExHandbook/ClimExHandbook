@@ -37,7 +37,7 @@ The bronze standard is to use a portable gas-exchange system to take periodic po
 
 For climate-change experiments, it may be more useful to use manual spot measurements to calibrate, or to compare to general models that were parameterised elsewhere (e.g. Heskel et al., 2016). If annual scale summations are required, they can be derived from response functions scaled up using continuous abiotic data (e.g. Niinistö et al., 2011).
 
-Also see protocol 2.2.3 on Soil CO<sub>2</sub> and trace gas fluxes for more details on measuring gas fluxed from the soil.
+Also <a href="https://climexhandbook.w.uib.no/2019/11/06/soil-co2-and-other-trace-gas-fluxes/">see protocol 2.2.3 on Soil CO<sub>2</sub> and trace gas fluxes</a> for more details on measuring gas fluxed from the soil.
 
 &nbsp;
 
@@ -55,16 +55,14 @@ Continuous respiration measurements often rely on a commercial photosynthesis sy
 
 Respiration rates can be expressed relative to tissue mass, surface area, or volume. The best basis depends on the study objectives, but mass is often easiest to measure and is well correlated with respiring tissue quantity. However, there is a strong tradition of expressing leaf respiration per square metre (Heskel et al., 2016). In the interest of generating comparable data across studies, we suggest using mass as the default basis for all rates except for leaves, which should be expressed per m<sup>2</sup>.
 
-When leaves or green stems are sunlit, respiration may be partly or completely offset by simultaneous photosynthesis. Photosynthetic stems may either refix respired CO<sub>2</sub> internally, under the bark, or they may take CO<sub>2</sub> from the surrounding atmosphere. For the former, it seems reasonable to measure with transparent chambers, which allow refixation to proceed as normal (Cernusak &amp; Hutley, 2011). The latter should be treated as an alternative site for net photosynthesis and measured alongside the leaves (see protocol 2.1.3 Leaf-scale photosynthesis).
+When leaves or green stems are sunlit, respiration may be partly or completely offset by simultaneous photosynthesis. Photosynthetic stems may either refix respired CO<sub>2</sub> internally, under the bark, or they may take CO<sub>2</sub> from the surrounding atmosphere. For the former, it seems reasonable to measure with transparent chambers, which allow refixation to proceed as normal (Cernusak &amp; Hutley, 2011). The latter should be treated as an alternative site for net photosynthesis and measured alongside the leaves (<a href="https://climexhandbook.w.uib.no/2019/11/06/leaf-scale-photosynthesis/">see protocol 2.1.3 Leaf-scale photosynthesis</a>).
 
 Excised tissues are sometimes used for respiration measurements. This greatly simplifies chamber insertion, but the cutting may induce artefacts. In particular, “wound” respiration may be induced by the cell damage and diffusion paths are disrupted. These effects can be minimised by waiting until the pulse of wound respiration recedes or by coating cut surfaces in liquid paraffin (Cernusak et al., 2001), respectively.
 
 It should be recognised that plants acclimatise to changes in temperature, which tends to reduce respiration responses relative to measurements in a short-term temperature experiment (Reich et al., 2016). What this means is that short-term responses should not be scaled up into seasonal or annual responses. Leaves that develop under a new temperature regime are more able to acclimatise to that regime, so the best policy would be to focus on leaves produced since the temperature treatment began (Slot &amp; Kitajima, 2015).
 
 &nbsp;
-
-<strong>2.1.4.3 References</strong>
-
+<h4><strong>2.1.4.3 References</strong></h4>
 <strong><em>Theory, significance, and large datasets</em></strong>
 
 Theory in Amthor (2010). Significance in Amthor (2010), Heskel et al. (2016), Hyvönen et al. (2007), and Slot &amp; Kitajima (2015). Large datasets in Heskel et al. (2016)
