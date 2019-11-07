@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2019-11-06 19:00:49
 ---
-td {text-align:left;}
-
 <strong>Authors:</strong> Schmidt IK<sup>1</sup>, Ostonen I<sup>2</sup> and Blume-Werry G<sup>3</sup>
 
 <strong>Reviewer: </strong>Weigel R<sup>4</sup>
@@ -71,6 +69,7 @@ While root biomass estimates give a good indication of the belowground biomass p
 
 <strong>Table 2.1.2.1</strong> Overview of methods to measure and estimate root biomass, production, and turnover. The table indicates destructive or non-destructive sampling approaches, sample size, and a general assessment.
 <table width="643">
+td {text-align:left;}
 <tbody>
 <tr>
 <td width="92"></td>
