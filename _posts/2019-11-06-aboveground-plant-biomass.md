@@ -17,11 +17,11 @@ post_date: 2019-11-06 20:00:35
 
 <strong>Measurement unit: g dry biomass m<sup>-2</sup>; Measurement scale: plot; Equipment costs: €-€€; Running costs: none; Installation effort: low to medium; Maintenance effort: low; Knowledge need: low to medium; Measurement mode: manual </strong>
 
-Aboveground plant biomass (AGB) is the total amount of plant-derived living and dead organic matter. Total AGB can be used to estimate total aboveground carbon (C) and nutrient stocks. Aboveground net primary production, ANPP (g m<sup>-2</sup> yr<sup>-1</sup>) can be estimated from time series measurements of AGB for a given growth period (Clark et al., 2001; see protocols in Scurlock et al., 2002 and Ruppert &amp; Linstädter 2014). ANPP is a key ecosystem characteristic and of fundamental importance for many aspects of matter and energy fluxes in terrestrial ecosystems (Cleveland et al., 2011). At the same time, it is one of the best-documented estimates of key ecosystem services such as forage production (Lauenroth &amp; Sala 1992; Ruppert et al., 2015). Species-specific AGB is also an important metric of plant fitness, particularly for perennial species (Younginger et al., 2017). AGB is often used as a rough indicator of belowground biomass (BGB) that can only be measured destructively. A fixed belowground:aboveground ratio is typically applied to estimate BGB from AGB (see review in Addo-Danso et al., 2016) although a meta-analysis of global data shows that results have to be interpreted with care (also see protocol 2.1.2 Belowground plant biomass, Mokany et al., 2006).
+Aboveground plant biomass (AGB) is the total amount of plant-derived living and dead organic matter. Total AGB can be used to estimate total aboveground carbon (C) and nutrient stocks. Aboveground net primary production, ANPP (g m<sup>-2</sup> yr<sup>-1</sup>) can be estimated from time series measurements of AGB for a given growth period (Clark et al., 2001; see protocols in Scurlock et al., 2002 and Ruppert &amp; Linstädter 2014). ANPP is a key ecosystem characteristic and of fundamental importance for many aspects of matter and energy fluxes in terrestrial ecosystems (Cleveland et al., 2011). At the same time, it is one of the best-documented estimates of key ecosystem services such as forage production (Lauenroth &amp; Sala 1992; Ruppert et al., 2015). Species-specific AGB is also an important metric of plant fitness, particularly for perennial species (Younginger et al., 2017). AGB is often used as a rough indicator of belowground biomass (BGB) that can only be measured destructively. A fixed belowground:aboveground ratio is typically applied to estimate BGB from AGB (see review in Addo-Danso et al., 2016) although a meta-analysis of global data shows that results have to be interpreted with care (<a href="https://climexhandbook.w.uib.no/2019/11/06/belowground-plant-biomass/">also see protocol 2.1.2 Belowground plant biomass</a>, Mokany et al., 2006).
 
 In this protocol we introduce measures of AGB only and direct the reader to literature on ANPP estimates at the end of this section.
 
-Green AGB fixes atmospheric CO<sub>2</sub> and provides an estimate of the carbon sequestration potential of an ecosystem. The allocation of atmospheric carbon to the soil by plants drives soil processes by enhancing plant-microbial interactions (e.g. Kuzyakov &amp; Domanski, 2000), and is the basis for plant-mycorrhizal interactions (Grayston et al., 1997). The assessment of AGB provides important information on ecosystem-level carbon and nutrient cycling and is used in greenhouse gas inventories. Accurate field-based measurements of AGB across ecosystems are urgently needed to improve current regional- to global-scale vegetation models that are, amongst others, driven by AGB (Scheiter et al., 2013; Martin et al., 2014). Changes in AGB are important to assess during, for example, experimental climate manipulations (e.g. Kongstad et al., 2012; Tielbörger et al., 2014). Our assembley of protocols includes AGB assessments using destructive and non-destructive methods useful for climate-change studies and we describe appropriate methods for the ecosystem of interest (i.e. grassland, shrubland, forest). The ecosystem type primarily defines the appropriate method (e.g. Traxler, 1997; Smart et al., 2017, Supporting documentation). The assembled protocols can also be used to study AGB in other types of studies such as global-change experiments (land-use change, nutrient addditions, etc.) and environmental gradient studies.
+Green AGB fixes atmospheric CO<sub>2</sub> and provides an estimate of the carbon sequestration potential of an ecosystem. The allocation of atmospheric carbon to the soil by plants drives soil processes by enhancing plant-microbial interactions (e.g. Kuzyakov &amp; Domanski, 2000), and is the basis for plant-mycorrhizal interactions (Grayston et al., 1997). The assessment of AGB provides important information on ecosystem-level carbon and nutrient cycling and is used in greenhouse gas inventories. Accurate field-based measurements of AGB across ecosystems are urgently needed to improve current regional- to global-scale vegetation models that are, amongst others, driven by AGB (Scheiter et al., 2013; Martin et al., 2014). Changes in AGB are important to assess during, for example, experimental climate manipulations (e.g. Kongstad et al., 2012; Tielbörger et al., 2014). Our assembley of protocols includes AGB assessments using destructive and non-destructive methods useful for climate-change studies and we describe appropriate methods for the ecosystem of interest (i.e. grassland, shrubland, forest). The ecosystem type primarily defines the appropriate method (e.g. Traxler, 1997; Smart et al., 2017, Supporting documentation). The assembled protocols can also be used to study AGB in other types of studies such as global-change experiments (land-use change, nutrient additions, etc.) and environmental gradient studies.
 
 <strong> </strong>
 <h4><strong>2.1.1.1 What and how to measure?</strong></h4>
@@ -33,54 +33,54 @@ Plot size depends on plant community composition and plant size, and varies syst
 
 In forests, plot size depends on tree size. Variable radius plots are often used, where the plot size increases as a function of tree diameter, increasing the sample size for the large trees that most influence the biomass (Monserud &amp; Marshall, 1999).
 
-<strong>Table 2.1.1.1</strong> General guidelines for the size of AGB observation plots.
+<span style="font-size: 10pt"><strong>Table 2.1.1.1</strong> General guidelines for the size of AGB observation plots.</span>
 <table width="604">
 <tbody>
 <tr>
-<td width="255"><strong>Ecosystem</strong></td>
-<td width="170"><strong>Dimension of area (m*m)</strong></td>
-<td width="179"><strong>References</strong></td>
+<td style="text-align: left" width="255"><strong>Ecosystem</strong></td>
+<td style="text-align: left" width="170"><strong>Dimension of area (m*m)</strong></td>
+<td style="text-align: left" width="179"><strong>References</strong></td>
 </tr>
 <tr>
-<td width="255">Temperate forest – tree layer</td>
-<td width="170">10 x 10 to 50 x 50</td>
-<td width="179">Traxler, 1997</td>
+<td style="text-align: left" width="255">Temperate forest – tree layer</td>
+<td style="text-align: left" width="170">10 x 10 to 50 x 50</td>
+<td style="text-align: left" width="179">Traxler, 1997</td>
 </tr>
 <tr>
-<td width="255">Tropical forest and savanna – tree layer</td>
-<td width="170">20 x 20 to 100 x 100</td>
-<td width="179">Alder &amp; Synnot, 1992</td>
+<td style="text-align: left" width="255">Tropical forest and savanna – tree layer</td>
+<td style="text-align: left" width="170">20 x 20 to 100 x 100</td>
+<td style="text-align: left" width="179">Alder &amp; Synnot, 1992</td>
 </tr>
 <tr>
-<td width="255">Forest – understorey</td>
-<td width="170">subplots of 1 x 1 to 2 x 2</td>
-<td width="179">Traxler, 1997</td>
+<td style="text-align: left" width="255">Forest – understorey</td>
+<td style="text-align: left" width="170">subplots of 1 x 1 to 2 x 2</td>
+<td style="text-align: left" width="179">Traxler, 1997</td>
 </tr>
 <tr>
-<td width="255">Shrubland</td>
-<td width="170">4 x 4 to 10 x 10</td>
-<td width="179">Traxler, 1997</td>
+<td style="text-align: left" width="255">Shrubland</td>
+<td style="text-align: left" width="170">4 x 4 to 10 x 10</td>
+<td style="text-align: left" width="179">Traxler, 1997</td>
 </tr>
 <tr>
-<td width="255">Heathland</td>
-<td width="170">2 x 2 to 4 x 4</td>
-<td width="179">Traxler, 1997</td>
+<td style="text-align: left" width="255">Heathland</td>
+<td style="text-align: left" width="170">2 x 2 to 4 x 4</td>
+<td style="text-align: left" width="179">Traxler, 1997</td>
 </tr>
 <tr>
-<td width="255">Moor</td>
-<td width="170">0.1 x 0.1 to 1 x 1</td>
-<td width="179">Traxler, 1997</td>
+<td style="text-align: left" width="255">Moor</td>
+<td style="text-align: left" width="170">0.1 x 0.1 to 1 x 1</td>
+<td style="text-align: left" width="179">Traxler, 1997</td>
 </tr>
 <tr>
-<td width="255">Grassland, savannah and alpine/arctic vegetation – grass layer</td>
-<td width="170">0.25 x 0.25 to 1 x 1</td>
-<td width="179">Bertora et al., 2012; Linstädter &amp; Ruppert, 2015</td>
+<td style="text-align: left" width="255">Grassland, savannah and alpine/arctic vegetation – grass layer</td>
+<td style="text-align: left" width="170">0.25 x 0.25 to 1 x 1</td>
+<td style="text-align: left" width="179">Bertora et al., 2012; Linstädter &amp; Ruppert, 2015</td>
 </tr>
 </tbody>
 </table>
 &nbsp;
 
-<strong>Figure 2.1.1.1</strong> Identification of minimum plot size for AGB observation plots. The number of plant species is determined in plots of doubling sizes, either (a) with a nested plot design (here with doubling steps 1–5) or (b) with a multi-plot approach (here with doubling steps 1–4). The minimum plot size is the plot where the percentage increase in plant species is lower than 10%. Graphics adapted from Mueller-Dombois &amp; Ellenberg, 1974 and Beierkuhnlein, 2006.
+[caption id="attachment_306" align="alignnone" width="939"]<img class="size-full wp-image-306" src="http://climexhandbook.w.uib.no/files/2019/11/Plotsize.png" alt="" width="939" height="525" /> <span style="font-size: 10pt"><strong>Figure 2.1.1.1</strong> Identification of minimum plot size for AGB observation plots. The number of plant species is determined in plots of doubling sizes, either (a) with a nested plot design (here with doubling steps 1–5) or (b) with a multi-plot approach (here with doubling steps 1–4). The minimum plot size is the plot where the percentage increase in plant species is lower than 10%. Graphics adapted from Mueller-Dombois &amp; Ellenberg, 1974 and Beierkuhnlein, 2006.</span>[/caption]
 
 &nbsp;
 
@@ -110,52 +110,52 @@ Harvested AGB is then sorted into live and dead biomass, growth form, species, a
 <table width="528">
 <tbody>
 <tr>
-<td colspan="2" width="196"><strong>Recommended</strong></td>
-<td width="120"><strong>Good to have</strong></td>
-<td width="212"><strong>Nice to have</strong></td>
+<td style="text-align: left" colspan="2" width="196"><strong>Recommended</strong></td>
+<td style="text-align: left" width="120"><strong>Good to have</strong></td>
+<td style="text-align: left" width="212"><strong>Nice to have</strong></td>
 </tr>
 <tr>
-<td rowspan="5" width="68"><strong>Alive</strong></td>
-<td width="128">Bryophytes/lichens</td>
-<td rowspan="5" width="120">Species</td>
-<td width="212">location (soil surface/stem)</td>
+<td style="text-align: left" rowspan="5" width="68"><strong>Alive</strong></td>
+<td style="text-align: left" width="128">Bryophytes/lichens</td>
+<td style="text-align: left" rowspan="5" width="120">
+
+[caption id="attachment_315" align="alignnone" width="939"]<img class="size-full wp-image-315" src="http://climexhandbook.w.uib.no/files/2019/11/PinHits.png" alt="" width="939" height="287" /> Figure 2.1.1.2 Correlation between pin-hits and harvested biomass in areas outside the AGB observation plots ((data from Clocaenog field experiment, UK; Domínguez et al., 2015). Number of pin-hits of each species is correlated with the measured (dried) biomass for each plot of a defined area. A relationship of the form y = mx + n where y is the measured dry biomass, x = pin-hits, m = derived relationship for each species, and the intercept n = zero given the assumption that there are no pin-hits, the species is not present (thus the biomass = 0). The more information derived from the point-intercept survey (e.g. green leaves, dead leaves, stems of each species), the more accurate the relationships will be.[/caption]
+
+ecies</td>
+<td style="text-align: left" width="212">location (soil surface/stem)</td>
 </tr>
 <tr>
-<td width="128">Grasses</td>
-<td width="212">grasses/sedges/rushes</td>
+<td style="text-align: left" width="128">Grasses</td>
+<td style="text-align: left" width="212">grasses/sedges/rushes</td>
 </tr>
 <tr>
-<td width="128">Forbs</td>
-<td width="212">leaves/flowers</td>
+<td style="text-align: left" width="128">Forbs</td>
+<td style="text-align: left" width="212">leaves/flowers</td>
 </tr>
 <tr>
-<td width="128">Woody (shrubs)</td>
-<td width="212">stem/leaves/flowers</td>
+<td style="text-align: left" width="128">Woody (shrubs)</td>
+<td style="text-align: left" width="212">stem/leaves/flowers</td>
 </tr>
 <tr>
-<td width="128">Woody (trees)</td>
-<td width="212">current year's woody growth</td>
+<td style="text-align: left" width="128">Woody (trees)</td>
+<td style="text-align: left" width="212">current year's woody growth</td>
 </tr>
 <tr>
-<td rowspan="3" width="68"><strong>Dead</strong></td>
-<td width="128">Grasses</td>
-<td rowspan="3" width="120">Species</td>
-<td width="212">leaves/flowers</td>
+<td style="text-align: left" rowspan="3" width="68"><strong>Dead</strong></td>
+<td style="text-align: left" width="128">Grasses</td>
+<td style="text-align: left" rowspan="3" width="120">Species</td>
+<td style="text-align: left" width="212">leaves/flowers</td>
 </tr>
 <tr>
-<td width="128">Forbs</td>
-<td width="212">stem/leaves/flowers</td>
+<td style="text-align: left" width="128">Forbs</td>
+<td style="text-align: left" width="212">stem/leaves/flowers</td>
 </tr>
 <tr>
-<td width="128">Woody</td>
-<td width="212">current year's woody growth</td>
+<td style="text-align: left" width="128">Woody</td>
+<td style="text-align: left" width="212">current year's woody growth</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
-
-<span style="font-size: 10pt"><strong>Figure 2.1.1.1</strong> Identification of minimum plot size for AGB observation plots. The number of plant species is determined in plots of doubling sizes, either (a) with a nested plot design (here with doubling steps 1–5) or (b) with a multi-plot approach (here with doubling steps 1–4). The minimum plot size is the plot where the percentage increase in plant species is lower than 10%. Graphics adapted from Mueller-Dombois &amp; Ellenberg, 1974 and Beierkuhnlein, 2006.</span>
-
 &nbsp;
 <ol start="4">
  	<li><strong>b) Non-destructive point-intercept method</strong> (Goodall, 1952; Jonasson, 1988; also see 8 Plant community composition). The point-intercept method provides detailed information about plant community composition, 3-D canopy structure, reproduction, survival, mortality, community development, and plant competition (Jonasson, 1988; Damgaard et al., 2009; Kongstad et al., 2012). The assessment of dead and living plant parts can be used to estimate litter production of grassland species where litter remains attached to the plants (‘standing dead matter’).</li>
