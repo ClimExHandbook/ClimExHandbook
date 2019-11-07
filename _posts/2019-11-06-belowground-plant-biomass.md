@@ -17,15 +17,14 @@ post_date: 2019-11-06 19:00:49
 
 <strong>Measurement unit: g roots/soil volume or root length; Measurement scale: plot; Equipment costs: € - €€€; Running costs: €; Installation effort: medium; Maintenance effort: low to medium; Knowledge need: medium; Measurement mode: manual </strong>
 
-A large proportion of plant biomass is located belowground, increasingly so towards the poles. For example, on a biome scale the root:shoot ratio ranges from 4.8 in tundra to 0.2 in tropical forests (Mokany et al., 2006). Besides anchoring the plants, roots also provide the plants with nutrients either through passive uptake via the mass flow of water or through active ion uptake, which requires some of the carbon allocated to roots. As much as 25–75% of the carbon assimilated by aboveground biomass (ABG) is transferred belowground and used for the production of roots, their associated rhizobiome, and respiration. About half of net assimilated C is used for respiration (Marschner, 1995; Gill &amp; Jackson, 2000). Up to 30% may be transferred to the soil as root exudates (see protocol 2.1.5 Root exudation), and associated symbionts such as mycorrhiza also require a substantial part (see protocol 2.2.2 Root and soil colonisation by mycorrhizal fungi). Similar to the AGB, roots also have litterfall through sloughed cells, dead roots, and root exudates. Often, annual root litterfall has been equated with annual root net primary production in C budgets (Leppälammi-Kujansuu et al., 2014) but data are sparse.
+A large proportion of plant biomass is located belowground, increasingly so towards the poles. For example, on a biome scale the root:shoot ratio ranges from 4.8 in tundra to 0.2 in tropical forests (Mokany et al., 2006). Besides anchoring the plants, roots also provide the plants with nutrients either through passive uptake via the mass flow of water or through active ion uptake, which requires some of the carbon allocated to roots. As much as 25–75% of the carbon assimilated by aboveground biomass (ABG) is transferred belowground and used for the production of roots, their associated rhizobiome, and respiration. About half of net assimilated C is used for respiration (Marschner, 1995; Gill &amp; Jackson, 2000). Up to 30% may be transferred to the soil as root exudates (<a href="https://climexhandbook.w.uib.no/2019/11/06/root-exudation-in-situ/">see protocol 2.1.5 Root exudation</a>), and associated symbionts such as mycorrhiza also require a substantial part (<a href="https://climexhandbook.w.uib.no/2019/11/06/root-and-soil-colonisation-by-mycorrhizal-fungi/">see protocol 2.2.2 Root and soil colonisation by mycorrhizal fungi</a>). Similar to the AGB, roots also have litterfall through sloughed cells, dead roots, and root exudates. Often, annual root litterfall has been equated with annual root net primary production in C budgets (Leppälammi-Kujansuu et al., 2014) but data are sparse.
 
 The assessment of belowground biomass (BGB) provides important information on ecosystem carbon and nutrient storage and cycling but is – in contrast to AGB – difficult to assess. Accurate field-based measurements of BGB across ecosystems are needed to improve current regional-scale models for belowground carbon sequestration and carbon cycling through the turnover of fine roots. Measurements of roots are mostly very intrusive and in climate-change studies non-intrusive methods are needed to avoid destruction of the studies. Often BGB has been assessed as a fixed fraction of AGB but this relationship may change considerably along environmental gradients and in response to climate change and other global-change drivers. The measurements can be challenging as the biomass varies across the soil profile, as well as different root classes (size and orders) having different functions, plus it can be difficult to distinguish between roots of different species or if a root is dead or alive.
 
 Although there is no consensus in the literature on how to estimate root biomass, production, and turnover most accurately (review by Addo-Danso et al., 2016), several direct and indirect methods are available to measure biomass and production of fine and coarse roots (Hendricks et al., 2006; Addo-Danso et al., 2016).
 
 &nbsp;
-
-<strong>2.1.2.1 What and how to measure</strong>
+<h4><strong>2.1.2.1 What and how to measure</strong></h4>
 <ol>
  	<li><strong><em>a) Root biomass </em></strong></li>
 </ol>
@@ -63,96 +62,91 @@ While root biomass estimates give a good indication of the belowground biomass p
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-<strong>Table 2.1.2.1</strong> Overview of methods to measure and estimate root biomass, production, and turnover. The table indicates destructive or non-destructive sampling approaches, sample size, and a general assessment.
-<table width="643">
+<span style="font-size: 10pt"><strong>Table 2.1.2.1</strong> Overview of methods to measure and estimate root biomass, production, and turnover. The table indicates destructive or non-destructive sampling approaches, sample size, and a general assessment.</span>
+<table style="width: 100%;height: 594px" width="643">
 <tbody>
-td {text-align:left;}
-<tr>
-<td width="92"></td>
-<td width="132"><strong>Destructive</strong></td>
-<td width="123"><strong>Non-destructive</strong></td>
-<td width="132"><strong>Sample size</strong></td>
-<td width="163"><strong>Comments</strong></td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="92"></td>
+<td style="text-align: left;height: 21px" width="132"><strong>Destructive</strong></td>
+<td style="text-align: left;height: 21px" width="123"><strong>Non-destructive</strong></td>
+<td style="text-align: left;height: 21px" width="132"><strong>Sample size</strong></td>
+<td style="text-align: left;height: 21px" width="163"><strong>Comments</strong></td>
 </tr>
-<tr>
-<td width="92"><strong>Root biomass</strong></td>
-<td width="132">Soil coring</td>
-<td width="123"></td>
-<td width="132">5–10 per treatment</td>
-<td width="163">Soil can be used for other purposes to minimise disturbance</td>
+<tr style="height: 42px">
+<td style="text-align: left;height: 42px" width="92"><strong>Root biomass</strong></td>
+<td style="text-align: left;height: 42px" width="132">Soil coring</td>
+<td style="text-align: left;height: 42px" width="123"></td>
+<td style="text-align: left;height: 42px" width="132">5–10 per treatment</td>
+<td style="text-align: left;height: 42px" width="163">Soil can be used for other purposes to minimise disturbance</td>
 </tr>
-<tr>
-<td width="92"><strong> </strong></td>
-<td width="132"></td>
-<td width="123">Allometric models</td>
-<td width="132"></td>
-<td width="163">Forests
+<tr style="height: 72px">
+<td style="text-align: left;height: 72px" width="92"><strong> </strong></td>
+<td style="text-align: left;height: 72px" width="132"></td>
+<td style="text-align: left;height: 72px" width="123">Allometric models</td>
+<td style="text-align: left;height: 72px" width="132"></td>
+<td style="text-align: left;height: 72px" width="163">Forests
 
 Can be calibrated outside the plots</td>
 </tr>
-<tr>
-<td width="92"><strong> </strong></td>
-<td width="132"></td>
-<td width="123">Mini-rhizotrons</td>
-<td width="132"></td>
-<td width="163">Only relative root biomass
+<tr style="height: 72px">
+<td style="text-align: left;height: 72px" width="92"><strong> </strong></td>
+<td style="text-align: left;height: 72px" width="132"></td>
+<td style="text-align: left;height: 72px" width="123">Mini-rhizotrons</td>
+<td style="text-align: left;height: 72px" width="132"></td>
+<td style="text-align: left;height: 72px" width="163">Only relative root biomass
 
 Destructive under installation</td>
 </tr>
-<tr>
-<td width="92"><strong>Root production</strong></td>
-<td width="132">Sequential soil coring</td>
-<td width="123"></td>
-<td width="132">5–10 soil cores are sampled throughout the year</td>
-<td width="163">Simple but very destructive</td>
+<tr style="height: 42px">
+<td style="text-align: left;height: 42px" width="92"><strong>Root production</strong></td>
+<td style="text-align: left;height: 42px" width="132">Sequential soil coring</td>
+<td style="text-align: left;height: 42px" width="123"></td>
+<td style="text-align: left;height: 42px" width="132">5–10 soil cores are sampled throughout the year</td>
+<td style="text-align: left;height: 42px" width="163">Simple but very destructive</td>
 </tr>
-<tr>
-<td width="92"><strong> </strong></td>
-<td width="132">In-growth cores</td>
-<td width="123"></td>
-<td width="132">Number depends on spatial and temporal resolution
+<tr style="height: 93px">
+<td style="text-align: left;height: 93px" width="92"><strong> </strong></td>
+<td style="text-align: left;height: 93px" width="132">In-growth cores</td>
+<td style="text-align: left;height: 93px" width="123"></td>
+<td style="text-align: left;height: 93px" width="132">Number depends on spatial and temporal resolution
 
 e.g. 10 per treatment</td>
-<td width="163">Hole can be re-used</td>
+<td style="text-align: left;height: 93px" width="163">Hole can be re-used</td>
 </tr>
-<tr>
-<td width="92"><strong> </strong></td>
-<td width="132">Mesh</td>
-<td width="123"></td>
-<td width="132">As for in-growth cores</td>
-<td width="163">Very destructive as the mesh is sampled after incubation by cutting 5–10 cm on each side of the mesh</td>
+<tr style="height: 63px">
+<td style="text-align: left;height: 63px" width="92"><strong> </strong></td>
+<td style="text-align: left;height: 63px" width="132">Mesh</td>
+<td style="text-align: left;height: 63px" width="123"></td>
+<td style="text-align: left;height: 63px" width="132">As for in-growth cores</td>
+<td style="text-align: left;height: 63px" width="163">Very destructive as the mesh is sampled after incubation by cutting 5–10 cm on each side of the mesh</td>
 </tr>
-<tr>
-<td width="92"><strong> </strong></td>
-<td width="132"></td>
-<td width="123">Mini-rhizotrons</td>
-<td width="132">5–10 mini-rhizotrons per treatment</td>
-<td width="163">Laborious but data on root production, phenology. Long-term studies</td>
+<tr style="height: 42px">
+<td style="text-align: left;height: 42px" width="92"><strong> </strong></td>
+<td style="text-align: left;height: 42px" width="132"></td>
+<td style="text-align: left;height: 42px" width="123">Mini-rhizotrons</td>
+<td style="text-align: left;height: 42px" width="132">5–10 mini-rhizotrons per treatment</td>
+<td style="text-align: left;height: 42px" width="163">Laborious but data on root production, phenology. Long-term studies</td>
 </tr>
-<tr>
-<td width="92"><strong>Root turn-over</strong></td>
-<td width="132">Root biomass/root production</td>
-<td width="123"></td>
-<td width="132">5–10 soil cores</td>
-<td width="163">If both root biomass and production are available, the root turnover can be calculated</td>
+<tr style="height: 63px">
+<td style="text-align: left;height: 63px" width="92"><strong>Root turn-over</strong></td>
+<td style="text-align: left;height: 63px" width="132">Root biomass/root production</td>
+<td style="text-align: left;height: 63px" width="123"></td>
+<td style="text-align: left;height: 63px" width="132">5–10 soil cores</td>
+<td style="text-align: left;height: 63px" width="163">If both root biomass and production are available, the root turnover can be calculated</td>
 </tr>
-<tr>
-<td width="92"></td>
-<td width="132"></td>
-<td width="123">Mini-rhizotrons</td>
-<td width="132">5–10 mini-rhizotrons per treatment</td>
-<td width="163">Long-term studies possible</td>
+<tr style="height: 42px">
+<td style="text-align: left;height: 42px" width="92"></td>
+<td style="text-align: left;height: 42px" width="132"></td>
+<td style="text-align: left;height: 42px" width="123">Mini-rhizotrons</td>
+<td style="text-align: left;height: 42px" width="132">5–10 mini-rhizotrons per treatment</td>
+<td style="text-align: left;height: 42px" width="163">Long-term studies possible</td>
 </tr>
-<tr>
-<td width="92"></td>
-<td width="132"></td>
-<td width="123"><sup>14</sup>C radiocarbon</td>
-<td width="132"></td>
-<td width="163">Expert knowledge to sample and interpret data</td>
+<tr style="height: 42px">
+<td style="text-align: left;height: 42px" width="92"></td>
+<td style="text-align: left;height: 42px" width="132"></td>
+<td style="text-align: left;height: 42px" width="123"><sup>14</sup>C radiocarbon</td>
+<td style="text-align: left;height: 42px" width="132"></td>
+<td style="text-align: left;height: 42px" width="163">Expert knowledge to sample and interpret data</td>
 </tr>
 </tbody>
 </table>
@@ -176,9 +170,13 @@ The root nets (preferably 15–30 per sampling time) are extracted from soil as 
 
 Several methods exist to calculate fine-root production from the change in the fine-root biomass and necromass data. The “Maximum-Minimum” method calculates the annual fine-root production by subtracting the lowest biomass from the highest biomass value irrespective of other biomass values recorded during a full year (McClaugherty et al., 1982). The “Decision Matrix” method calculates the annual fine-root production by balancing the living and dead root biomass compartments and summing all calculated productions between each pair of consecutive sampling dates throughout a full year (Fairley &amp; Alexander, 1985).
 
+&nbsp;
+
 <strong><em>Non-destructive methods</em></strong>
 
 <strong>Root imaging: Mini-rhizotrons, flatbed scanners, smartphone solutions.</strong> The most common technique based on direct observations of root growth dynamics <em>in situ</em> is the mini-rhizotron method (see Picture 2.1.2.2), although there are also root windows, rhizotrons, and flatbed scanner or smartphone imaging methods in use. All methods enable following root growth dynamics and phenology from birth to death of the finest, ephemeral, and distal roots (as reviewed in Hendrick &amp; Pregitzer, 1996; Johnson et al., 2001; Rewald &amp; Ephrath, 2013; Mohamed et al., 2017).
+
+[caption id="attachment_332" align="alignright" width="418"]<img class="size-full wp-image-332" src="http://climexhandbook.w.uib.no/files/2019/11/MiniRhizotron.png" alt="" width="418" height="558" /> Photo 2.1.2.2 Installation of a mini-rhizotron. (Photo: Inger Kappel Schmidt)[/caption]
 
 First stage is the installation of permanent transparent tubes of c. 5–7 cm in diameter (mini-rhizotron) or boxes for flatbed scanners or smartphone cameras into the soil (Mohamed et al., 2017), or root windows that are soil profiles covered by transparent plexiglass plates (Stober et al., 2000).
 
@@ -245,9 +243,7 @@ The issue of sample volume is complicated and the same method may not be suitabl
 It is important to measure depth and diameter of the corer for calculation of root biomass on a unit area and soil volume basis.
 
 <strong> </strong>
-
-<strong>2.1.2.3 References</strong>
-
+<h4><strong>2.1.2.3 References</strong></h4>
 <strong><em>Theory, significance, and large datasets</em></strong>
 
 Freschet &amp; Roumet (2017), Iversen et al. (2017): FRED (Fine Root Ecology Database), McCormack et al. (2015)
