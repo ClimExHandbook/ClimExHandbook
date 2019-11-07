@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  http://climexhandbook.w.uib.no/about-us/who-we-are/
+  https://climexhandbook.w.uib.no/about-us/who-we-are/
 published: true
 post_date: 2019-11-02 20:37:43
 ---

@@ -7,7 +7,7 @@ author: jonathans
 post_excerpt: ""
 layout: post
 permalink: >
-  http://climexhandbook.w.uib.no/2019/11/07/geographical-location-and-basic-site-description/
+  https://climexhandbook.w.uib.no/2019/11/07/geographical-location-and-basic-site-description/
 published: true
 post_date: 2019-11-07 05:00:05
 ---

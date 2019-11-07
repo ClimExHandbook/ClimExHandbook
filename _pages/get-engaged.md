@@ -1,11 +1,11 @@
 ---
 ID: 26
 post_title: Get Engaged
-author: Jonathan Soule
+author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  http://climexhandbook.w.uib.no/about-us/get-engaged/
+  https://climexhandbook.w.uib.no/about-us/get-engaged/
 published: true
 post_date: 2019-11-02 20:38:08
 ---

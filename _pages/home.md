@@ -4,7 +4,7 @@ post_title: The Aim of ClimEx Handbook
 author: jonathans
 post_excerpt: ""
 layout: page
-permalink: http://climexhandbook.w.uib.no/
+permalink: https://climexhandbook.w.uib.no/
 published: true
 post_date: 2019-11-02 20:32:23
 ---

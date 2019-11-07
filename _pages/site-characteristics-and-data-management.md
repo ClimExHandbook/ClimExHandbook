@@ -7,7 +7,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  http://climexhandbook.w.uib.no/site-characteristics-and-data-management/
+  https://climexhandbook.w.uib.no/site-characteristics-and-data-management/
 published: true
 post_date: 2019-11-07 09:02:56
 ---
