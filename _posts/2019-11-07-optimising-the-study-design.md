@@ -1,6 +1,6 @@
 ---
 ID: 97
-post_title: Optimising the study design
+post_title: 1.1 Optimising the study design
 author: jonathans
 post_excerpt: ""
 layout: post
