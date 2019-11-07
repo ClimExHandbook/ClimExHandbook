@@ -47,7 +47,7 @@ Camenzind &amp; Rillig (2013), McGonigle et al. (1990), Miller et al. (1995), Ri
 <h4><strong>2.2.2.2 Special cases, emerging issues, and challenges</strong></h4>
 Measurement of hyphal length in soil is simple and cost efficient, but rather time-consuming since it requires an experienced eye in distinguishing AMF hyphae from non-AMF hyphae. Alternative methods, based on photomicrography and image processing offer semi-automated analysis of hyphal length where observer biases are minimised (Shen et al., 2016) but do not distinguish AM and non-AM fungi.
 
-To estimate AMF biomass in the roots and soil, the neutral lipid fatty acid (NLFA) 16: 1ω5 (Olsson, 1999) can be used as an AMF specific biomarker (see protocol 2.2.1. Soil microbial biomass - C, N, and P for a small description of PLFA/NLFA analysis). There is no specific biomarker for EcM fungi, although when EcM tree roots are colonised, the majority of fungal PLFA markers or ergosterol will generally originate from EcM fungi.
+To estimate AMF biomass in the roots and soil, the neutral lipid fatty acid (NLFA) 16: 1ω5 (Olsson, 1999) can be used as an AMF specific biomarker (<a href="https://climexhandbook.w.uib.no/2019/11/06/soil-microbial-biomass-c-n-and-p/">see protocol 2.2.1. Soil microbial biomass - C, N, and P</a> for a small description of PLFA/NLFA analysis). There is no specific biomarker for EcM fungi, although when EcM tree roots are colonised, the majority of fungal PLFA markers or ergosterol will generally originate from EcM fungi.
 
 &nbsp;
 <h4><strong>2.2.2.3 References</strong></h4>
