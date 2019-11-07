@@ -1,7 +1,7 @@
 ---
 ID: 107
 post_title: >
-  Open science practice, reproducible
+  1.6 Open science practice, reproducible
   workflow, and data management
 author: jonathans
 post_excerpt: ""
