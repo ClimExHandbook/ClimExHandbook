@@ -34,7 +34,7 @@ Halbritter et al. (2019) The handbook for standardised field and laboratory meas
 
 &nbsp;
 <h4>How to cite an updated protocol version:</h4>
-E.g. To measure CO<sub>2</sub> efflux, we use the method described in protocol 2.1.4 Plant respiration in the Supporting Information S2 Carbon and nutrient cycling in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: www.climexhandbook.uib.no.
+E.g. To measure CO<sub>2</sub> efflux, we use the method described in protocol 2.1.4 Plant respiration in the Supporting Information S2 Carbon and nutrient cycling in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: climexhandbook.uib.no.
 
 Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.
 
