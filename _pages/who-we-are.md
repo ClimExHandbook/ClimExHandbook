@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-02 20:37:43
 ---
-<span style="font-weight: 400">The ClimEx Handbook was writing by 115 scientists from 21 countries on four continents. See individual protocols for the editor, author and reviewer list.</span>
+The ClimEx Handbook was writing by 115 scientists from 21 countries on four continents. See individual protocols for the editor, author and reviewer list.
 
 &nbsp;
 
