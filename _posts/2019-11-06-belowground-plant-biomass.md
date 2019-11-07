@@ -69,8 +69,8 @@ While root biomass estimates give a good indication of the belowground biomass p
 
 <strong>Table 2.1.2.1</strong> Overview of methods to measure and estimate root biomass, production, and turnover. The table indicates destructive or non-destructive sampling approaches, sample size, and a general assessment.
 <table width="643">
-td {text-align:left;}
 <tbody>
+td {text-align:left;}
 <tr>
 <td width="92"></td>
 <td width="132"><strong>Destructive</strong></td>
