@@ -254,7 +254,7 @@ ANPP = Change in aboveground biomass + mortality + litterfall
 
 An alternative is to focus on woody ANPP, which allows one to use the change in biomass estimated from allometrics (Gough et al., 2013), but it remains necessary to account for any mortality that may have occurred.
 <ol start="2">
- 	<li><strong>e)</strong> <strong>Light Detection And Ranging (LIDAR)</strong>, can be used to derive biome specific AGB estimates (for details see protocol 2.3.3 Upscaling from the plot scale to the ecosystem and beyond).</li>
+ 	<li><strong>e)</strong> <strong>Light Detection And Ranging (LIDAR)</strong>, can be used to derive biome specific AGB estimates (<a href="https://climexhandbook.w.uib.no/2019/11/06/upscaling-from-the-plot-scale-to-the-ecosystem-and-beyond/">for details see protocol 2.3.3 Upscaling from the plot scale to the ecosystem and beyond</a>).</li>
 </ol>
 <strong> </strong>
 <h4><strong>2.1.1.3 References</strong></h4>
