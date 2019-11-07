@@ -10,15 +10,15 @@ published: true
 post_date: 2019-11-07 06:00:19
 ---
 <h2><a name="_Toc23712685"></a><strong>1.1.1 What to measure and report and why?</strong></h2>
-A basic site description for an experimental or observational site includes the location where the study was performed and under what biotic and abiotic conditions. The documentation of the basic characteristics of the system and correct reporting of the basic data facilitates and improves comparisons with other studies and downstream usage of the data in meta-analyses and other data syntheses <a href="https://paperpile.com/c/2Av5rU/nLZA+TNXN+TuFr">(Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017)</a>. For any study it is thus important to report and measure the following information for each site: i) geographical location and basic site description, ii) abiotic and biotic properties of the ecosystem, iii) basic climate and weather data, and iv) experimental set-up, analysis, and results. More specific for climate-change experiments <em>sensu stricto</em>, variables that may be influenced by the manipulation need to be measured in all treatments. These include variables such as soil moisture, temperature, and nutrient availability, along with various biotic responses described in detail in other protocols (see Supporting Information S2 Carbon and nutrient cycling, S3 Water cycling, S4 Species and interactions and S5 Stress physiology). For <em>in situ</em> experiments (e.g. space and time), it is important to measure variables that may be influenced by the spatial or temporal component of the experiment.
+A basic site description for an experimental or observational site includes the location where the study was performed and under what biotic and abiotic conditions. The documentation of the basic characteristics of the system and correct reporting of the basic data facilitates and improves comparisons with other studies and downstream usage of the data in meta-analyses and other data syntheses (Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017). For any study it is thus important to report and measure the following information for each site: i) geographical location and basic site description, ii) abiotic and biotic properties of the ecosystem, iii) basic climate and weather data, and iv) experimental set-up, analysis, and results. More specific for climate-change experiments <em>sensu stricto</em>, variables that may be influenced by the manipulation need to be measured in all treatments. These include variables such as soil moisture, temperature, and nutrient availability, along with various biotic responses described in detail in other protocols (see Supporting Information S2 Carbon and nutrient cycling, S3 Water cycling, S4 Species and interactions and S5 Stress physiology). For <em>in situ</em> experiments (e.g. space and time), it is important to measure variables that may be influenced by the spatial or temporal component of the experiment.
 
-The <strong>geographical location and basic site description</strong> should describe the study location i.e. coordinates, vegetation type, and climate <a href="https://paperpile.com/c/2Av5rU/9hmx+nLZA/?prefix=i.e.%20coordinates%2C%20vegetation%20type%20and%20climate%2C,">(Hillebrand &amp; Gurevitch, 2013; Morueta-Holme et al., 2018)</a>. This effort enables and facilitates further upscaling and modelling of the experiments beyond the observational boundary as well as increasing the potential for the dataset to be used in meta-analysis.
+The <strong>geographical location and basic site description</strong> should describe the study location i.e. coordinates, vegetation type, and climate (Hillebrand &amp; Gurevitch, 2013; Morueta-Holme et al., 2018). This effort enables and facilitates further upscaling and modelling of the experiments beyond the observational boundary as well as increasing the potential for the dataset to be used in meta-analysis.
 
-The pre-treatment measurements of the <strong>abiotic and biotic properties</strong> of the ecosystem report the conditions of the soil–plant–atmosphere system before the experimental manipulation (i.e. baseline ecosystem measurements) and enables between-experimental site comparisons in a global context. It is crucial to measure these key variables before the manipulations start in order to evaluate changes imposed by ambient, non-manipulated environmental conditions. Similarly, for natural experiments and long-term monitoring, baseline data (e.g. pre- and/or post-observational measurements) are important. The key variables that should be reported are of a physical, chemical, and biological nature, and also concern ecosystem services <a href="https://paperpile.com/c/2Av5rU/Kb35/?prefix=e.g.%20water%20quality%2C%20carbon%20and%20nutrient%20cycling%2C%20and%20biodiversity%2C">(e.g. water quality, carbon and nutrient cycling, biodiversity; Costanza et al., 1997)</a>. They are also important for process modelling and data usage in a meta-analysis. In addition to the before-after treatment measurements, it is advisable to have plots in the experimental design that test control vs. impact (Christie et al. 2019).
+The pre-treatment measurements of the <strong>abiotic and biotic properties</strong> of the ecosystem report the conditions of the soil–plant–atmosphere system before the experimental manipulation (i.e. baseline ecosystem measurements) and enables between-experimental site comparisons in a global context. It is crucial to measure these key variables before the manipulations start in order to evaluate changes imposed by ambient, non-manipulated environmental conditions. Similarly, for natural experiments and long-term monitoring, baseline data (e.g. pre- and/or post-observational measurements) are important. The key variables that should be reported are of a physical, chemical, and biological nature, and also concern ecosystem services (e.g. water quality, carbon and nutrient cycling, biodiversity; Costanza et al., 1997). They are also important for process modelling and data usage in a meta-analysis. In addition to the before-after treatment measurements, it is advisable to have plots in the experimental design that test control vs. impact (Christie et al. 2019).
 
-When conducting a climate-change study, it is crucial to measure <strong>environmental conditions </strong>during the study and if applicable in every treatment as these potential drivers of ecosystem functioning may deviate substantially from ambient conditions, and treatments may have effects on other drivers, such as warming leading to changes in the water balance <a href="https://paperpile.com/c/2Av5rU/IJIZ">(Damgaard et al., 2018)</a>. The most important climate variables include air temperature, relative humidity, and precipitation (which may be in the form of irrigation or precipitation removal), as well as soil temperature and moisture.
+When conducting a climate-change study, it is crucial to measure <strong>environmental conditions </strong>during the study and if applicable in every treatment as these potential drivers of ecosystem functioning may deviate substantially from ambient conditions, and treatments may have effects on other drivers, such as warming leading to changes in the water balance (Damgaard et al., 2018). The most important climate variables include air temperature, relative humidity, and precipitation (which may be in the form of irrigation or precipitation removal), as well as soil temperature and moisture.
 
-Finally, for the further use of the data from a climate-change studies, i.e. for a meta-analysis, it is crucial to correctly follow open science practise and report the study design, analysis, and results <a href="https://paperpile.com/c/2Av5rU/TNXN+nLZA+TuFr">(Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017)</a>.
+Finally, for the further use of the data from a climate-change studies, i.e. for a meta-analysis, it is crucial to correctly follow open science practise and report the study design, analysis, and results (Hillebrand &amp; Gurevitch, 2013; Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017).
 
 &nbsp;
 <h2><a name="_Toc23712686"></a><strong>1.1.2 Setting up a sustainable climate-change study</strong></h2>
@@ -44,15 +44,15 @@ Similar considerations should be made for the sampling intervals. The frequency 
 <table width="601">
 <tbody>
 <tr>
-<td width="96"><strong>Scale</strong></td>
-<td width="249"><strong>Question</strong></td>
-<td width="256"><strong>Guidance</strong></td>
+<td style="width: 174px;text-align: left"><strong>Scale</strong></td>
+<td style="width: 439px;text-align: left"><strong>Question</strong></td>
+<td style="width: 453px;text-align: left"><strong>Guidance</strong></td>
 </tr>
 <tr>
-<td rowspan="5" width="96"><strong>Site (selection)</strong>
+<td style="width: 174px;text-align: left" rowspan="5"><strong>Site (selection)</strong>
 
 <strong>Figure 1.1A</strong></td>
-<td width="249"><em>What does the system represent? </em>
+<td style="width: 439px;text-align: left"><em>What does the system represent? </em>
 
 <em> </em>
 
@@ -61,14 +61,14 @@ Similar considerations should be made for the sampling intervals. The frequency 
 <em> </em>
 
 <em>Are there any specific factors like off-site effects (run-off, shade, nutrient inputs etc.) to consider?</em></td>
-<td width="256">Sites should be placed within the limits of the relevant system, avoiding off-site effects when possible. Please note if former land use only affects part of the study area.
+<td style="width: 453px;text-align: left">Sites should be placed within the limits of the relevant system, avoiding off-site effects when possible. Please note if former land use only affects part of the study area.
 
 &nbsp;
 
 Blocks (or other study design features) should be chosen to capture within-site heterogeneity due to environmental or biotic variability, or off-site effects.</td>
 </tr>
 <tr>
-<td width="249"><em>Single-site or multi-site study? </em>
+<td style="width: 439px;text-align: left"><em>Single-site or multi-site study? </em>
 
 <em> </em>
 
@@ -81,26 +81,24 @@ Blocks (or other study design features) should be chosen to capture within-site 
 <em> </em>
 
 <em> </em></td>
-<td width="256"><strong>Single-site studies</strong> are easier and cheaper to maintain, allowing resources to be spent on experimental factors and response variables.
-
-&nbsp;
-
-<strong>Multiple-site studies</strong> allow across site comparisons, but it is then important to consider your “outer design”, i.e. should sites be along gradients or replicates in similar environmental settings, how many replicates are needed (e.g. to fit a regression at site level), etc.
-
-&nbsp;
-
-Multi-site studies increase the costs and effort, but these also depend on the study and location of the different sites.</td>
+<td style="width: 453px;text-align: left">
+<p style="text-align: left"><strong>Single-site studies</strong> are easier and cheaper to maintain, allowing resources to be spent on experimental factors and response variables.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left"><strong>Multiple-site studies</strong> allow across site comparisons, but it is then important to consider your “outer design”, i.e. should sites be along gradients or replicates in similar environmental settings, how many replicates are needed (e.g. to fit a regression at site level), etc.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left">Multi-site studies increase the costs and effort, but these also depend on the study and location of the different sites.</p>
+</td>
 </tr>
 <tr>
-<td width="249"><em>Are any <strong>permits</strong> necessary and contacts to ensure site sustainability?</em></td>
-<td width="256">Obtain permits from the government and landowners well in advance.
+<td style="width: 439px;text-align: left"><em>Are any <strong>permits</strong> necessary and contacts to ensure site sustainability?</em></td>
+<td style="width: 453px;text-align: left">Obtain permits from the government and landowners well in advance.
 
 &nbsp;
 
 Ideally get permits beyond the funding period for potential extension of the study.</td>
 </tr>
 <tr>
-<td width="249"><em>Is any site-scale <strong>maintenance</strong> needed? Fencing, grazing, mowing?</em>
+<td style="width: 439px;text-align: left"><em>Is any site-scale <strong>maintenance</strong> needed? Fencing, grazing, mowing?</em>
 
 <em> </em>
 
@@ -109,7 +107,7 @@ Ideally get permits beyond the funding period for potential extension of the stu
 <em> </em>
 
 <em>Any control needed for that?</em></td>
-<td width="256">Building a fence and moving might need the agreement of the landowner.
+<td style="width: 453px;text-align: left">Building a fence and moving might need the agreement of the landowner.
 
 Calculate enough time and money for maintenance.
 
@@ -118,12 +116,12 @@ Calculate enough time and money for maintenance.
 If the site maintenance affects your responses, you might need (yet) another set of controls.</td>
 </tr>
 <tr>
-<td width="249"><em>What <strong>site-scale data</strong> are needed? </em>
+<td style="width: 439px;text-align: left"><em>What <strong>site-scale data</strong> are needed? </em>
 
 <em> </em>
 
 <em>How many measurements are needed?</em></td>
-<td width="256">Report all the information needed to situate your study in space, time, and in the relevant ecological context. If you have a heterogeneous system, you likely need more than one measuring point in space (horizontal and vertical) and time.
+<td style="width: 453px;text-align: left">Report all the information needed to situate your study in space, time, and in the relevant ecological context. If you have a heterogeneous system, you likely need more than one measuring point in space (horizontal and vertical) and time.
 
 &nbsp;
 
@@ -138,11 +136,11 @@ Draw detailed maps of your study site with all blocks, plots, and installations 
 Take pictures; they are essential to document study set-up and design, for data collection (e.g. relocating samples), and outreach, and can be useful for data quality checks.</td>
 </tr>
 <tr>
-<td rowspan="3" width="96"><strong><em>Within-site study design </em></strong><strong>(blocks)</strong>
+<td style="width: 174px;text-align: left" rowspan="3"><strong><em>Within-site study design </em></strong><strong>(blocks)</strong>
 
 <strong>Figure 1.1B</strong></td>
-<td width="249"><em>How to ensure <strong>sustainable site set-up</strong>?</em></td>
-<td width="256">The area should be large enough to accommodate the study, treatments and the necessary unmanipulated controls / sampling areas for site-level factors.
+<td style="width: 439px;text-align: left"><em>How to ensure <strong>sustainable site set-up</strong>?</em></td>
+<td style="width: 453px;text-align: left">The area should be large enough to accommodate the study, treatments and the necessary unmanipulated controls / sampling areas for site-level factors.
 
 &nbsp;
 
@@ -153,23 +151,23 @@ The site set-up should provide space (buffer area) to avoid contamination of for
 The potential observer effects should always be considered and can be reduced by minimising disturbance, i.e. sampling intensely but not at the expense of statistical power <a href="https://paperpile.com/c/2Av5rU/qDKS">(De Boeck et al., 2008)</a>.</td>
 </tr>
 <tr>
-<td width="249"><em>What <strong>block-scale data</strong> is needed?</em></td>
-<td width="256">Any response, predictor or co-variable that will be used in statistical analyses should be measured at this scale, if at all possible. This maximises the statistical power of the analyses.</td>
+<td style="width: 439px;text-align: left"><em>What <strong>block-scale data</strong> is needed?</em></td>
+<td style="width: 453px;text-align: left">Any response, predictor or co-variable that will be used in statistical analyses should be measured at this scale, if at all possible. This maximises the statistical power of the analyses.</td>
 </tr>
 <tr>
-<td width="249"><em>Is there space for <strong>additional experiments and/or measurements</strong>?</em></td>
-<td width="256">Set aside areas for add-on measurements and project extensions - preferably within blocks, as that maximises opportunities for project integration.</td>
+<td style="width: 439px;text-align: left"><em>Is there space for <strong>additional experiments and/or measurements</strong>?</em></td>
+<td style="width: 453px;text-align: left">Set aside areas for add-on measurements and project extensions - preferably within blocks, as that maximises opportunities for project integration.</td>
 </tr>
 <tr>
-<td rowspan="2" width="96"><strong>Within-block study design (plots)</strong>
+<td style="width: 174px;text-align: left" rowspan="2"><strong>Within-block study design (plots)</strong>
 
 <strong>Figure 1.1C</strong></td>
-<td width="249"><em>How to ensure <strong>sustainability of studies in plot set-up</strong>?</em>
+<td style="width: 439px;text-align: left"><em>How to ensure <strong>sustainability of studies in plot set-up</strong>?</em>
 
 <em> </em>
 
 <em>Where are data measured permanently and where destructively?</em></td>
-<td width="256">Plots should be large enough to encompass the responses of interest, and thus have to match the study aim and study system. The plot size should also take into account the complexity and heterogeneity of the study system <a href="https://paperpile.com/c/2Av5rU/mKds">(De Boeck et al., 2015)</a>. Plots should be large enough for sensor installation and sampling.
+<td style="width: 453px;text-align: left">Plots should be large enough to encompass the responses of interest, and thus have to match the study aim and study system. The plot size should also take into account the complexity and heterogeneity of the study system (De Boeck et al., 2015). Plots should be large enough for sensor installation and sampling.
 
 &nbsp;
 
@@ -180,10 +178,10 @@ It is recommended to divide the plots into destructive and non-destructive sampl
 Permanently mark and map all plots and sub-areas within plots individually, and include back-up marking (e.g. buried metal nails, or similar) in case primary marking is lost. A standardised (systematic) marking and within-plot design regime is easier to relocate if lost.</td>
 </tr>
 <tr>
-<td width="249"><em>What <strong>plot-scale data</strong> are needed?</em>
+<td style="width: 439px;text-align: left"><em>What <strong>plot-scale data</strong> are needed?</em>
 
 &nbsp;</td>
-<td width="256">All variables that are <strong>directly affected by a treatments</strong> should be measured at the plot scale.
+<td style="width: 453px;text-align: left">All variables that are <strong>directly affected by a treatments</strong> should be measured at the plot scale.
 
 &nbsp;
 
@@ -194,31 +192,25 @@ It is advisable to have different <strong>control plots</strong> that control fo
 Pictures of the plots at each sampling date are useful as they document the data collection and can also provide various kinds of additional data.</td>
 </tr>
 <tr>
-<td width="96"><strong>Within-plot study design (sub-plot, sample)</strong>
+<td style="width: 174px;text-align: left"><strong>Within-plot study design (sub-plot, sample)</strong>
 
 <strong>Figure 1.1C</strong></td>
-<td width="249"><em>Where are data measured <strong>permanently</strong> and where <strong>destructively</strong>?</em>
+<td style="width: 439px;text-align: left"><em>Where are data measured <strong>permanently</strong> and where <strong>destructively</strong>?</em>
 
 <em> </em>
 
 <em>What <strong>sub-plot data </strong>are needed?</em></td>
-<td width="256">Sub-plots can be used for dividing plots into zones, for <strong>destructive, non-destructive sampling</strong>.
-
-&nbsp;
-
-Sub-plots can also be used directly for sampling purposes, e.g. <strong>frequency data</strong> or mapping.
-
-&nbsp;
-
-Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron.
-
-&nbsp;
-
-Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared.
-
-&nbsp;
-
-In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling.</td>
+<td style="width: 453px">
+<p style="text-align: left">Sub-plots can be used for dividing plots into zones, for <strong>destructive, non-destructive sampling</strong>.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left">Sub-plots can also be used directly for sampling purposes, e.g. <strong>frequency data</strong> or mapping.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left">Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left">Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared.</p>
+<p style="text-align: left"></p>
+<p style="text-align: left">In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling.</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -236,14 +228,14 @@ Christie, A. P., Amano, T., Martin, P. A., Shackelford, G. E., Simmons, B. I., &
 
 Damgaard, C. F., Holmstrup, M., Schmidt, I. K., Beier, C., &amp; Larsen, K. S. (2018). On the problems of using linear models in ecological manipulation experiments: lessons learned from a climate experiment. <em>Ecosphere, 9</em>(6), e02322.
 
-<a href="http://paperpile.com/b/rZw4Vu/96nos">De Boeck, H. J., Liberloo, M., Gielen, B., Nijs, I., &amp; Ceulemans, R. (2008). The observer effect in plant science. <em>New Phytologist, 177</em>(3), 579–583.</a>
+De Boeck, H. J., Liberloo, M., Gielen, B., Nijs, I., &amp; Ceulemans, R. (2008). The observer effect in plant science. <em>New Phytologist, 177</em>(3), 579–583.
 
-<a href="http://paperpile.com/b/rZw4Vu/31Grj">De Boeck, H. J., Vicca, S., Roy, J., Nijs, I., Milcu, A., Kreyling, J., … Beier, C. (2015). Global change experiments: Challenges and opportunities. <em>Bioscience, 65</em>(9), 922–931.</a>
+De Boeck, H. J., Vicca, S., Roy, J., Nijs, I., Milcu, A., Kreyling, J., … Beier, C. (2015). Global change experiments: Challenges and opportunities. <em>Bioscience, 65</em>(9), 922–931.
 
-<a href="http://paperpile.com/b/rZw4Vu/OD6zU">Gerstner, K., Moreno-Mateos, D., Gurevitch, J., Beckmann, M., Kambach, S., Jones, H. P., &amp; Seppelt, R. (2017). Will your paper be used in a meta-analysis? Make the reach of your research broader and longer lasting. <em>Methods in Ecology and Evolution, 8</em>(6), 777–784.</a>
+Gerstner, K., Moreno-Mateos, D., Gurevitch, J., Beckmann, M., Kambach, S., Jones, H. P., &amp; Seppelt, R. (2017). Will your paper be used in a meta-analysis? Make the reach of your research broader and longer lasting. <em>Methods in Ecology and Evolution, 8</em>(6), 777–784.
 
-<a href="http://paperpile.com/b/rZw4Vu/FV5G6">Haddaway, N. R., &amp; Verhoeven, J. T. A. (2015). Poor methodological detail precludes experimental repeatability and hampers synthesis in ecology. <em>Ecology and Evolution, 5</em>(19), 4451–4454.</a>
+Haddaway, N. R., &amp; Verhoeven, J. T. A. (2015). Poor methodological detail precludes experimental repeatability and hampers synthesis in ecology. <em>Ecology and Evolution, 5</em>(19), 4451–4454.
 
-<a href="http://paperpile.com/b/rZw4Vu/sNBVK">Hillebrand, H., &amp; Gurevitch, J. (2013). Reporting standards in experimental studies. <em>Ecology Letters, 16</em>(12), 1419–1420.</a>
+Hillebrand, H., &amp; Gurevitch, J. (2013). Reporting standards in experimental studies. <em>Ecology Letters, 16</em>(12), 1419–1420.
 
-<a href="http://paperpile.com/b/rZw4Vu/flDk9">Morueta-Holme, N., Oldfather, M. F., Olliff-Yang, R. L., Weitz, A. P., Levine, C. R., Kling, M. M., … Ackerly, D. D. (2018). Best practices for reporting climate data in ecology. <em>Nature Climate Change, 8(</em>2), 92–94.</a>
+Morueta-Holme, N., Oldfather, M. F., Olliff-Yang, R. L., Weitz, A. P., Levine, C. R., Kling, M. M., … Ackerly, D. D. (2018). Best practices for reporting climate data in ecology. <em>Nature Climate Change, 8(</em>2), 92–94.
