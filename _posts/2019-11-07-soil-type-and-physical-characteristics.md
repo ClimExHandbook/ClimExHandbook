@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-07 04:00:48
 ---
-<img class="alignnone size-medium wp-image-217" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.09-300x29.png" alt="" width="300" height="29" />Soils are physically composed of mineral and organic particles in varying sizes. The combined particles form the soil matrix that shapes the structure and pore spaces of soil. In turn, soil physical properties determine many key soil processes from soil water-holding capacity to cation exchange capacity that affect other life forms and ecosystem function. The key soil physical characteristics include soil structure, bulk density, and texture.
+Soils are physically composed of mineral and organic particles in varying sizes. The combined particles form the soil matrix that shapes the structure and pore spaces of soil. In turn, soil physical properties determine many key soil processes from soil water-holding capacity to cation exchange capacity that affect other life forms and ecosystem function. The key soil physical characteristics include soil structure, bulk density, and texture.
 
 For the description of standard methods for soil characterisation we refer the reader to the Soil Science Society of America (SSSA) series on Methods of Soil Analysis; in particular, part 3 – Chemical Methods (Swift &amp; Sparks, 2009) and part 4 – Physical Methods (Dane &amp; Topp, 2002). Although the SSSA - Physical Methods (Dane &amp; Topp, 2002) lists a complete set of methods, note that some of these traditional methods are being replaced by newer technology. In addition, the USDA Soil Survey Field and Laboratory Methods Manual (NRCS, 2014b) can be used as a new and simple guideline for methods in determining soil physical properties.
 
@@ -43,7 +43,7 @@ For some analyses, the <strong>roots and stones (&gt;2 mm)</strong> are removed 
 
 The soil samples are often used fresh, but for some analysis the soil needs to be <strong>dried</strong>. However, this depends largely on what the samples are used for. Soils can be dried at room temperature, low oven temperature or higher temperature. Table 1.3.1 shows how to process soil samples for the most commonly used methods (for more details check individual protocols).
 
-<strong>Table 1.3.1</strong> Temperature for processing soil samples for common methods.
+<span style="font-size: 10pt"><strong>Table 1.3.1</strong> Temperature for processing soil samples for common methods.</span>
 <table>
 <tbody>
 <tr>
@@ -113,17 +113,9 @@ The International Co-operative Programme on Assessment and Monitoring of Air Pol
 <h4><a name="_Toc23712698"></a><strong>1.3.1 Soil types and horizons (layers)</strong></h4>
 Unlike sediments that are deposited over time, soils are developed as horizons from the parent material under the influence of local climate, topography, and biota. There are many soil types based on the composition of the parent material, texture, and organic matter. A soil horizon is a parallel layer to the soil surface with distinctly different physical, chemical, and biological characteristics from the layers above or beneath. A vertical layout of a soil (based on a soil pit) illustrates the different horizons in a soil profile (Figure 1.3.1). Determining soil horizons within a soil profile will provide important information about the life history of the soil as well as different characteristics of soil properties.
 
-<img class="alignnone size-medium wp-image-215" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.17.16-177x300.png" alt="" width="177" height="300" />
-<table width="100%">
-<tbody>
-<tr>
-<td><strong>Fig 1.3.1</strong> Soil profile showing the different soil horizons from the organic layers to the bedrock.</td>
-</tr>
-</tbody>
-</table>
-The soil profile should be described according to a soil classification that is compatible with the World Reference Base (WRB) system. Soil type should be reported according to the World Reference Base for Soil Resources system (ISRIC, 1998; IUSS Working Group WRB, 2006, 2014). This is the international standard taxonomic soil classification system, which is endorsed by the International Union of Soil Sciences (IUSS) and replaces the FAO soil classification. Reporting the depth of soil layers or horizons should be included in any description as this is important for comparison and modelling. Most classification systems recognise six master soil horizons which are designated using the capital letters O, A, E, B, C, and R (Figure 1.3.1). Reporting O to B is usually sufficient for climate-change studies. O = Organic matter, characterised by high levels of organic material: dark in colour; A = Mineral topsoil, often organically stained: contains highly weathered parent material (rocks) and is lighter in colour than the O horizon; E = Eluviated - used to label a horizon that has been highly leached of minerals, clays, and sesquioxides: usually determined as a pale layer below the A horizon and only exists in older, well-developed soils; B = Subsoil, an illuviated layer that accumulates iron, clay, aluminium, and organic compounds: lighter in colour and often may be reddish due to the iron content; C = Broken-down bedrock, also known as substratum; R = Bedrock.
+[caption id="attachment_215" align="alignright" width="308"]<img class="wp-image-215 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.17.16.png" alt="" width="308" height="522" /> Fig 1.3.1 Soil profile showing the different soil horizons from the organic layers to the bedrock.[/caption]
 
-&nbsp;
+The soil profile should be described according to a soil classification that is compatible with the World Reference Base (WRB) system. Soil type should be reported according to the World Reference Base for Soil Resources system (ISRIC, 1998; IUSS Working Group WRB, 2006, 2014). This is the international standard taxonomic soil classification system, which is endorsed by the International Union of Soil Sciences (IUSS) and replaces the FAO soil classification. Reporting the depth of soil layers or horizons should be included in any description as this is important for comparison and modelling. Most classification systems recognise six master soil horizons which are designated using the capital letters O, A, E, B, C, and R (Figure 1.3.1). Reporting O to B is usually sufficient for climate-change studies. O = Organic matter, characterised by high levels of organic material: dark in colour; A = Mineral topsoil, often organically stained: contains highly weathered parent material (rocks) and is lighter in colour than the O horizon; E = Eluviated - used to label a horizon that has been highly leached of minerals, clays, and sesquioxides: usually determined as a pale layer below the A horizon and only exists in older, well-developed soils; B = Subsoil, an illuviated layer that accumulates iron, clay, aluminium, and organic compounds: lighter in colour and often may be reddish due to the iron content; C = Broken-down bedrock, also known as substratum; R = Bedrock.
 
 <strong><em>What and how to measure?</em></strong>
 
