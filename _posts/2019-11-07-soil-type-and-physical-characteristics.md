@@ -1,6 +1,8 @@
 ---
 ID: 101
-post_title: Soil type and physical characteristics
+post_title: >
+  1.3 Soil type and physical
+  characteristics
 author: jonathans
 post_excerpt: ""
 layout: post
