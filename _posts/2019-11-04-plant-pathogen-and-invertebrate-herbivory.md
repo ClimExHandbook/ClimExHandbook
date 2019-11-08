@@ -79,85 +79,84 @@ Assessing the severity and prevalence of belowground plant enemies is highly cha
 <table style="width: 100%;height: 720px" width="623">
 <tbody>
 <tr style="height: 36px">
-<td style="text-align: left;height: 36px" width="123"><strong>Class</strong></td>
-<td style="text-align: left;height: 36px" width="208"><strong>Description</strong></td>
-<td style="text-align: left;height: 36px" width="293"><strong>Picture</strong></td>
+<td style="text-align: left;height: 36px;width: 20.2952%" width="123"><strong>Class</strong></td>
+<td style="text-align: left;height: 36px;width: 43.0812%" width="208"><strong>Description</strong></td>
+<td style="text-align: left;height: 36px;width: 36.5314%" width="293"><strong>Picture</strong></td>
 </tr>
 <tr style="height: 36px">
-<td style="text-align: left;height: 36px" colspan="3" width="623">
+<td style="text-align: left;height: 36px;width: 99.9077%" colspan="3" width="623">
 <p style="text-align: center"><strong>CAUSAL AGENT - MICROBES</strong></p>
 </td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Leaf spot </strong></td>
-<td style="text-align: left;height: 57px" width="208">Small round spots appearing on leaves. Fungal or bacterial.</td>
-<td style="text-align: left;height: 57px" width="293"><span style="font-size: 10pt"><img class="alignnone size-full wp-image-634" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1a.png" alt="" width="322" height="243" /></span>
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Leaf spot </strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">Small round spots appearing on leaves. Fungal or bacterial.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><span style="font-size: 10pt"><img class="alignnone size-full wp-image-634" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1a.png" alt="" width="322" height="243" /></span>
 <span style="font-size: 10pt">Photo: Erin Mordecai</span></td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Powdery mildew</strong></td>
-<td style="text-align: left;height: 57px" width="208">White, powdery spots that appear on leaves and stems. Fungal.</td>
-<td style="text-align: left;height: 57px" width="293"><img class="alignnone size-full wp-image-635" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1b.png" alt="" width="379" height="162" />
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Powdery mildew</strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">White, powdery spots that appear on leaves and stems. Fungal.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-635" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1b.png" alt="" width="379" height="162" />
 <span style="font-size: 10pt">Photo: Anna-Liisa Laine</span></td>
 </tr>
 <tr style="height: 78px">
-<td style="text-align: left;vertical-align: top;height: 78px" width="123"><strong>Downy mildew</strong></td>
-<td style="text-align: left;height: 78px" width="208">Yellow patches on the leaf surface that expand and turn brown. Spores are visible under magnification. Fungal.</td>
-<td style="text-align: left;height: 78px" width="293"><img class="alignnone size-full wp-image-636" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1c.png" alt="" width="331" height="266" />
+<td style="text-align: left;vertical-align: top;height: 78px;width: 20.2952%" width="123"><strong>Downy mildew</strong></td>
+<td style="text-align: left;height: 78px;width: 43.0812%" width="208">Yellow patches on the leaf surface that expand and turn brown. Spores are visible under magnification. Fungal.</td>
+<td style="text-align: left;height: 78px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-636" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1c.png" alt="" width="331" height="266" />
 <span style="font-size: 10pt">Photo: Yawen Lu</span></td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Rust</strong></td>
-<td style="text-align: left;height: 57px" width="208">Yellow to red hair-like structures covering leaves and stems. Often easily rubbed off with fingers. Fungal.</td>
-<td style="text-align: left;height: 57px" width="293"><img class="alignnone size-full wp-image-638" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1d.png" alt="" width="341" height="200" />
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Rust</strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">Yellow to red hair-like structures covering leaves and stems. Often easily rubbed off with fingers. Fungal.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-638" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1d.png" alt="" width="341" height="200" />
 <span style="font-size: 10pt">Photo: Kayleigh O’Keefe</span></td>
 </tr>
 <tr style="height: 78px">
-<td style="text-align: left;vertical-align: top;height: 78px" width="123"><strong>Blight</strong></td>
-<td style="text-align: left;height: 78px" width="208">A general term for lesions that cause rapid chlorosis which expands and may eventually cause necrosis. Fungal, bacterial, or viral.</td>
-<td style="text-align: left;height: 78px" width="293"><img class="alignnone size-full wp-image-631" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1e.png" alt="" width="293" height="343" />
+<td style="text-align: left;vertical-align: top;height: 78px;width: 20.2952%" width="123"><strong>Blight</strong></td>
+<td style="text-align: left;height: 78px;width: 43.0812%" width="208">A general term for lesions that cause rapid chlorosis which expands and may eventually cause necrosis. Fungal, bacterial, or viral.</td>
+<td style="text-align: left;height: 78px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-631" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1e.png" alt="" width="293" height="343" />
 
 <span style="font-size: 10pt">Photo: Xiang Liu</span></td>
 </tr>
 <tr style="height: 36px">
-<td style="text-align: left;vertical-align: top;height: 36px" colspan="3" width="623">
+<td style="text-align: left;vertical-align: top;height: 36px;width: 99.9077%" colspan="3" width="623">
 <p style="text-align: center"><strong>CAUSAL AGENT - INVERTEBRATES</strong></p>
 </td>
 </tr>
 <tr style="height: 114px">
-<td style="text-align: left;vertical-align: top;height: 114px" width="123"><strong>Skeletonised/</strong>
+<td style="text-align: left;vertical-align: top;height: 114px;width: 20.2952%" width="123"><strong>Skeletonised/</strong>
 
 <strong>scraping</strong></td>
-<td style="text-align: left;height: 114px" width="208">Removal of leaf epidermal tissue, causing sections of the leaf to appear translucent.
+<td style="text-align: left;height: 114px;width: 43.0812%" width="208">Removal of leaf epidermal tissue, causing sections of the leaf to appear translucent.
 
 (Image is of leaf with backlight to help identify damaged areas)</td>
-<td style="text-align: left;height: 114px" width="293"><img class="alignnone size-full wp-image-632" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1f.png" alt="" width="379" height="310" />
+<td style="text-align: left;height: 114px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-632" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1f.png" alt="" width="379" height="310" />
 <span style="font-size: 10pt">Photo: Isabel Barrio</span></td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Chewing</strong></td>
-<td style="text-align: left;height: 57px" width="208">Missing segments of leaf either as sporadic spots across the leaf or large sections.</td>
-<td style="text-align: left;height: 57px" width="293"><img class="alignnone size-full wp-image-633" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1g.png" alt="" width="385" height="314" />
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Chewing</strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">Missing segments of leaf either as sporadic spots across the leaf or large sections.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-633" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1g.png" alt="" width="385" height="314" />
 <span style="font-size: 10pt">Photo: Isabel Barrio</span></td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Galling</strong></td>
-<td style="text-align: left;height: 57px" width="208">Abnormal growths on plant tissue.</td>
-<td style="text-align: left;height: 57px" width="293"><img class="alignnone size-full wp-image-637" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1h.png" alt="" width="364" height="291" />
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Galling</strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">Abnormal growths on plant tissue.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-637" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.1h.png" alt="" width="364" height="291" />
 <span style="font-size: 10pt">Photo: Isabel Barrio</span></td>
 </tr>
 <tr style="height: 57px">
-<td style="text-align: left;vertical-align: top;height: 57px" width="123"><strong>Mining</strong></td>
-<td style="text-align: left;height: 57px" width="208">Visible, unbroken trail on the leaf surface, often moving erratically.</td>
-<td style="text-align: left;height: 57px" width="293">
+<td style="text-align: left;vertical-align: top;height: 57px;width: 20.2952%" width="123"><strong>Mining</strong></td>
+<td style="text-align: left;height: 57px;width: 43.0812%" width="208">Visible, unbroken trail on the leaf surface, often moving erratically.</td>
+<td style="text-align: left;height: 57px;width: 36.5314%" width="293"><img class="alignnone size-full wp-image-640" src="http://climexhandbook.w.uib.no/files/2019/11/4.14.i.png" alt="" width="358" height="281" />
+
 <span style="font-size: 10pt">Photo: Isabel Barrio</span></td>
 </tr>
 </tbody>
 </table>
 &nbsp;
-
-<strong>4.14.3 References</strong>
-
+<h4><strong>4.14.3 References</strong></h4>
 <strong><em>Theory, significance, and large datasets</em></strong>
 
 Kozlov et al. (2015a), Mitchell et al. (2003), Mordecai (2011), Nguyen et al. (2016)
