@@ -22,24 +22,18 @@ Thorough data documentation and metadata ensures that the data are available in 
 Here we provide a list for how to correctly report study design, data analysis, and results from climate-change studies to make research reproducible and for synthesis (Table 1.6.1). This table was compiled from Hillbrand &amp; Gurevitch (2013), Haddaway &amp; Verhoeven (2015), and Gerstner et al. (2017).
 
 <strong>Table 1.6.1</strong> Issues and guidance for how to correctly report study design, data analysis, and results from climate-change studies. Adapted from Hillbrand &amp; Gurevitch (2013), Haddaway &amp; Verhoeven (2015), and Gerstner et al. (2017).
-<table width="603">
+<table style="width: 100%" width="603">
 <tbody>
 <tr>
-<td width="120"><strong> </strong></td>
-<td style="text-align: left" width="167"><strong>Issue</strong></td>
-<td style="text-align: left" width="316"><strong>Guidance</strong></td>
+<td style="vertical-align: top;width: 19.0037%" width="120"><strong> </strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><strong>Issue</strong></td>
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316"><strong>Guidance</strong></td>
 </tr>
 <tr>
-<td style="text-align: left" width="120"><strong>General</strong></td>
-<td style="text-align: left" width="167"><em>Methodology </em>
+<td style="text-align: left;vertical-align: top;width: 19.0037%" width="120"><strong>General</strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><em>Methodology </em>
 
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
+<em> </em><em> </em>
 
 <em>Necessary meta-data provided</em>
 
@@ -47,118 +41,74 @@ Here we provide a list for how to correctly report study design, data analysis, 
 
 <em> </em>
 
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
+<em> </em><em> </em>
 
 <em>Data and study should be easy to find, and be accessible.</em></td>
-<td style="text-align: left" width="316">Each study and dataset should be described in detail in a readme file, including a data dictionary and annotated dataset (Table 1.6.2; British Ecological Society, 2018).
-
-&nbsp;
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316">Each study and dataset should be described in detail in a readme file, including a data dictionary and annotated dataset (Table 1.6.2; British Ecological Society, 2018).
 
 Correctly report site characteristics: i.e. geographic location, elevation, vegetation type, soil physical and chemical properties, meteorological data (see protocols 1.2 - 1.5), and author information.
 
-&nbsp;
-
 Results (including master theses, internal reports, etc.) should be publicly available.
 
-&nbsp;
-
 Data should be publicly available in a data repository. Funding bodies and journals are increasingly requiring this.
-
-&nbsp;
 
 Publications should have useful keywords and titles to enable them to be easily found.</td>
 </tr>
 <tr>
-<td style="text-align: left" width="120"><strong>Study design</strong></td>
-<td style="text-align: left" width="167"><em>Study design is reported in sufficient detail</em></td>
-<td style="text-align: left" width="316">The description of the study design should be thorough; parts of it can be reported in the appendix if there is limited space. Correctly report:
-
-●   start, end date, and duration of the study
-
-●   treatment factors, levels, and interactions, design structure, e.g. factorial, nested, hierarchical
-
-●   level of replication: number of sites, blocks, plots, and sub-plots; including selection and randomisation process at each level
-
-●   spatial scale: size of the study unit, distance between sites, populations
-
-●   type of data sampled (predictors and covariates), and sampling precision for each (including any within‐replicate sampling or pseudoreplication)
-
-●   sampling schedule: timing, frequency, including study design aspects such as treatment-control, before-after-control-impact, etc. (also see Table 1.1)
-
-●   description of the manipulated organism, population, or community should follow accepted taxonomic literature, e.g. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al., 2013) and national or international classification schemes.</td>
+<td style="text-align: left;vertical-align: top;width: 19.0037%" width="120"><strong>Study design</strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><em>Study design is reported in sufficient detail</em></td>
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316">The description of the study design should be thorough; parts of it can be reported in the appendix if there is limited space. Correctly report:
+<p style="padding-left: 40px">●   start, end date, and duration of the study</p>
+<p style="padding-left: 40px">●   treatment factors, levels, and interactions, design structure, e.g. factorial, nested, hierarchical</p>
+<p style="padding-left: 40px">●   level of replication: number of sites, blocks, plots, and sub-plots; including selection and randomisation process at each level</p>
+<p style="padding-left: 40px">●   spatial scale: size of the study unit, distance between sites, populations</p>
+<p style="padding-left: 40px">●   type of data sampled (predictors and covariates), and sampling precision for each (including any within‐replicate sampling or pseudoreplication)</p>
+<p style="padding-left: 40px">●   sampling schedule: timing, frequency, including study design aspects such as treatment-control, before-after-control-impact, etc. (also see Table 1.1)</p>
+<p style="padding-left: 40px">●   description of the manipulated organism, population, or community should follow accepted taxonomic literature, e.g. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al., 2013) and national or international classification schemes.</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: left" width="120"><strong>Response variables, predictors, and covariates</strong></td>
-<td style="text-align: left" width="167"><em>Measurements should be relevant, reproducible, and convertible</em></td>
-<td style="text-align: left" width="316">Follow established protocols, and guidance on which and how to measure predictors, response variables, and covariates.
-
-&nbsp;
+<td style="text-align: left;vertical-align: top;width: 19.0037%" width="120"><strong>Response variables, predictors, and covariates</strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><em>Measurements should be relevant, reproducible, and convertible</em></td>
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316">Follow established protocols, and guidance on which and how to measure predictors, response variables, and covariates.
 
 Report which protocols are used, and describe any adjustments that are made.
 
-&nbsp;
-
 Describe all variables fully and report in readme files, data dictionaries, and datasets.
-
-&nbsp;
 
 Measure useful covariates for synthesis and upscaling (see Table 2 in the main paper).</td>
 </tr>
 <tr>
-<td style="text-align: left" width="120"><strong>Data handling and analysis</strong></td>
-<td style="text-align: left" width="167"><em>Data manipulation is described in sufficient detail</em>
+<td style="text-align: left;vertical-align: top;width: 19.0037%" width="120"><strong>Data handling and analysis</strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><em>Data manipulation is described in sufficient detail</em>
 
-<em> </em>
+<em>Comprehensive description of data analysis</em><em> </em>
 
-<em>Comprehensive description of data analysis</em>
-
-<em> </em>
-
-<em> </em>
+&nbsp;
 
 <em> </em><em> </em>
 
 <em>Reproducible workflow</em></td>
-<td style="text-align: left" width="316">Each step of data manipulation should be described and explained and be repeatable and reproducible (British Ecological Society, 2017).
-
-&nbsp;
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316">Each step of data manipulation should be described and explained and be repeatable and reproducible (British Ecological Society, 2017).
 
 Type of statistical tests used, response variables, covariates (explanatory factors) tested, posthoc or planned comparisons carried out, definition of statistical metrics if different from commonly accepted terms should be described.
 
-&nbsp;
-
 Statistical software, packages, and versions used need to be reported.
-
-&nbsp;
 
 The workflow from data manipulation, coding, analysing, and results output should be repeatable and reproducible (Lind 2013, British Ecological Society, 2017).</td>
 </tr>
 <tr>
-<td style="text-align: left" width="120"><strong>Results</strong></td>
-<td style="text-align: left" width="167"><em>Units need to be reported</em>
-
-<em> </em>
+<td style="text-align: left;vertical-align: top;width: 19.0037%" width="120"><strong>Results</strong></td>
+<td style="text-align: left;vertical-align: top;width: 26.6605%" width="167"><em>Units need to be reported</em>
 
 <em>Raw data should be provided</em>
 
-<em> </em>
-
-<em> </em>
+&nbsp;
 
 <em>Negative results should be reported</em></td>
-<td style="text-align: left" width="316">Units for each variable should be reported.
-
-&nbsp;
+<td style="text-align: left;vertical-align: top;width: 54.2436%" width="316">Units for each variable should be reported.
 
 Raw data or summary statistics with mean (or median), variation around the mean and sample size should be reported.
-
-&nbsp;
 
 Report negative results.</td>
 </tr>
@@ -167,10 +117,15 @@ Report negative results.</td>
 &nbsp;
 
 <span style="font-size: 10pt"><strong>Table 1.6.2</strong> Content for a readme file for a research project and a data dictionary.</span>
+<table style="border-collapse: collapse;width: 82.6568%">
+<tbody>
+<tr>
+<td style="width: 100%;text-align: left"><strong>a) Readme file</strong>
 <ol>
- 	<li><strong>a) Readme file</strong></li>
+ 	<li style="list-style-type: none">
+<ol>
  	<li>Project information
-<ol>
+<ol style="list-style-type: lower-alpha">
  	<li>Project summary</li>
  	<li>Funding information</li>
  	<li>Primary contact information</li>
@@ -183,13 +138,22 @@ Report negative results.</td>
 </li>
  	<li>Studies and/or experiments</li>
  	<li>Publications
-<ol>
+<ol style="list-style-type: lower-alpha">
  	<li>Publications</li>
  	<li>Master/doctoral theses, reports etc.</li>
 </ol>
 </li>
  	<li>References</li>
- 	<li>b) Data dictionary</li>
+</ol>
+</li>
+</ol>
+&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%;text-align: left"><strong>b) Data dictionary</strong>
+<ol>
+ 	<li style="list-style-type: none">
+<ol>
  	<li>Content of the dataset</li>
  	<li>Data collection methods</li>
  	<li>Dataset authors and collaborators</li>
@@ -201,6 +165,12 @@ Report negative results.</td>
  	<li>Data usage – publications</li>
  	<li>Data dictionary (variable name, type, range, factor level, measurement type and unit/format)</li>
 </ol>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 &nbsp;
 
 <strong><em>Where to start?</em></strong>
@@ -208,7 +178,7 @@ Report negative results.</td>
 Gerstner et al. (2017) give guidance on how to make the reach of your research broader and longer lasting; Haddaway &amp; Verhoeven (2015) explain how to correctly describe methodology in ecology to make the research repeatable; Hillebrand and Gurevitch (2013) provide a checklist for reporting study details in manuscripts. The British Ecological Society (2017) have produced a useful guide for Reproducible Code in Ecology and Evolution. Lind (2013) presents lessons learned about data management in NutNet.
 
 &nbsp;
-<h2><a name="_Toc23712722"></a><strong>1.6.1 References</strong></h2>
+<h4><a name="_Toc23712722"></a><strong>1.6.1 References</strong></h4>
 Boyle, B., Hopkins, N., Lu, Z., Raygoza Garay, J. A., Mozzherin, D., Rees, T., … Enquist, B. J. (2013). The taxonomic name resolution service: an online tool for automated standardization of plant names.<em> BMC Bioinformatics</em>, 14, 16.
 
 British Ecological Society. (2017). <em>A Guide to Reproducible Code in Ecology and Evolution</em>. (K. Harrison, Ed.). British Ecological Society. Retrieved from www.britishecologicalsociety.org/publications/guides-to/
