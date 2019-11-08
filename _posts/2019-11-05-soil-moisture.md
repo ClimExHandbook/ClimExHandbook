@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-05 08:00:21
 ---
-<a name="_Toc504311282"></a><strong>Authors:</strong> Robinson DA<sup>1</sup>, Jones SB<sup>2</sup>
+<strong>Authors:</strong> Robinson DA<sup>1</sup>, Jones SB<sup>2</sup>
 
 <strong>Reviewer:</strong> Reinsch, S<sup>1</sup>
 
