@@ -21,137 +21,135 @@ post_date: 2019-11-04 06:00:12
 
 Terrestrial macroinvertebrates, that is invertebrates generally above 2 mm in size, mainly include insects, spiders, millipedes, centipedes, molluscs, and crustaceans (isopods), and most assemblages are functionally diverse, with high numbers of detritivores, fungivores, herbivores, and predators. Invertebrates, therefore, can significantly affect primary production, nutrient cycling, and decomposition. From a global perspective, macroinvertebrates are likely to modify responses of ecosystem processes to climate and global change. The high functional diversity and large number of interactions between macroinvertebrates and vegetation, fungi, and dead organic matter strongly suggest incorporating these into studies of terrestrial ecosystems and certainly into ongoing climate-change studies.
 
-Macroinvertebrates vary from millimetres to centimetres in size and range from sedate species living their entire life on a few square metres to highly active species covering many kilometres during their lifetime. Many species also have life stages with highly different habitat requirements, such as some Lepidoptera that have herbivorous larvae but adults that feed on floral nectar. The effect of macroinvertebrates on vegetation or ecosystem processes is therefore highly dependent on the geographical and temporal scale of measurement. Pollinators, herbivores, detritivores, and predators forage on available flowers, plants, dead organic matter, or prey, respectively. Suitable food items may change during the arthropod life stages and species-specific phenology results in large variation in species composition throughout the year. Pollinators are discussed in protocol 4.12 Pollinator composition.
+Macroinvertebrates vary from millimetres to centimetres in size and range from sedate species living their entire life on a few square metres to highly active species covering many kilometres during their lifetime. Many species also have life stages with highly different habitat requirements, such as some Lepidoptera that have herbivorous larvae but adults that feed on floral nectar. The effect of macroinvertebrates on vegetation or ecosystem processes is therefore highly dependent on the geographical and temporal scale of measurement. Pollinators, herbivores, detritivores, and predators forage on available flowers, plants, dead organic matter, or prey, respectively. Suitable food items may change during the arthropod life stages and species-specific phenology results in large variation in species composition throughout the year. Pollinators are discussed in <a href="http://climexhandbook.w.uib.no/2019/11/04/pollinator-composition/">protocol 4.12 Pollinator composition</a>.
 
 &nbsp;
-
-<strong>4.11.1 What and how to measure? </strong>
-
+<h4><strong>4.11.1 What and how to measure? </strong></h4>
 There are two main strategies for quantifying macroinvertebrates: i) estimate densities per area or ii) use relative measurements based on arthropod activity (Southwood &amp; Henderson, 2000). The distinction between these two strategies is not always clear, however, as absolute estimates are rarely obtained. Use of traps can also be further divided into passive and active trapping – passive traps catch insects by chance and active traps attract species by bait, colour, chemical lures, or light (Leather, 2004). As this protocol strives to describe methods that quantify invertebrates in climate-manipulated plots, attraction of species from larger areas is likely to include higher densities or species that are not strictly relevant to the plot. This limitation also applies to other studies focussing on local species composition. For a thorough discussion of all sampling techniques, see Southwood &amp; Henderson (2000) and Leather (2004).
 
 When estimating macroinvertebrates it is essential to recognise that their behaviour changes with time of day, season, weather conditions, and life stage, influencing activity and habitat use. Care should therefore be taken to minimise this variation (i.e. sample in equal conditions or preferably at the same time) when communities are compared between different sites. As there is no method that catches all macroinvertebrate groups, we will not define a gold standard, but rather describe the options related to the scale of plots and microhabitat of sampling.
 
 &nbsp;
 
-<strong>Table 4.11.1.</strong> Overview of methods of macroinvertebrate sampling. Suggested plot size is noted with an x. Subplots indicate that the sampling may need to be repeated in order to represent the plot scale.
-<table width="605">
+<span style="font-size: 10pt"><strong>Table 4.11.1.</strong> Overview of methods of macroinvertebrate sampling. Suggested plot size is noted with an x. Subplots indicate that the sampling may need to be repeated in order to represent the plot scale.</span>
+<table style="width: 100%;height: 315px" width="605">
 <tbody>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237"><strong> </strong></td>
-<td colspan="4" width="283"><strong>Plot scale</strong></td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="height: 21px" width="237"><strong> </strong></td>
+<td style="height: 21px" colspan="4" width="283"><strong>Plot scale</strong></td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237"><strong>Methods</strong></td>
-<td width="76"><strong>≤ 0.25 m<sup>2</sup></strong></td>
-<td width="66"><strong>0.25 m<sup>2</sup> – 1 m<sup>2</sup></strong></td>
-<td width="76"><strong>1 m<sup>2</sup> – 10 m<sup>2</sup></strong></td>
-<td width="66"><strong>≥ 10 m<sup>2</sup></strong></td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237"><strong>Methods</strong></td>
+<td style="height: 21px" width="76"><strong>≤ 0.25 m<sup>2</sup></strong></td>
+<td style="height: 21px" width="66"><strong>0.25 m<sup>2</sup> – 1 m<sup>2</sup></strong></td>
+<td style="height: 21px" width="76"><strong>1 m<sup>2</sup> – 10 m<sup>2</sup></strong></td>
+<td style="height: 21px" width="66"><strong>≥ 10 m<sup>2</sup></strong></td>
 </tr>
-<tr>
-<td width="84"><strong>Vegetation</strong></td>
-<td width="237">Suction</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong>Vegetation</strong></td>
+<td style="text-align: left;height: 21px" width="237">Suction</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Visual search</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Visual search</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Removal of vegetation for extraction</td>
-<td width="76">-</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Removal of vegetation for extraction</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Vegetation beating</td>
-<td width="76">-</td>
-<td width="66">-</td>
-<td width="76">x</td>
-<td width="66">x</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Vegetation beating</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">-</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Sweep-netting</td>
-<td width="76">-</td>
-<td width="66">-</td>
-<td width="76">x</td>
-<td width="66">x</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Sweep-netting</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">-</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Emergence traps</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Emergence traps</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Malaise, window, and sticky traps</td>
-<td width="76">-</td>
-<td width="66">-</td>
-<td width="76">-</td>
-<td width="66">x</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Malaise, window, and sticky traps</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">-</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">x</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Fogging</td>
-<td width="76">-</td>
-<td width="66">-</td>
-<td width="76">-</td>
-<td width="66">x</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Fogging</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">-</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">x</td>
 </tr>
-<tr>
-<td width="84"><strong>Soil surface </strong></td>
-<td width="237">Suction</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong>Soil surface </strong></td>
+<td style="text-align: left;height: 21px" width="237">Suction</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong>and litter</strong></td>
-<td width="237">Visual search</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="text-align: left;height: 21px" width="84"><strong>and litter</strong></td>
+<td style="text-align: left;height: 21px" width="237">Visual search</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Pitfall traps</td>
-<td width="76">-</td>
-<td width="66">x</td>
-<td width="76">x</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Pitfall traps</td>
+<td style="height: 21px" width="76">-</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Removal of litter for sieving/extraction</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Removal of litter for sieving/extraction</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
-<tr>
-<td width="84"><strong> </strong></td>
-<td width="237">Emergence traps</td>
-<td width="76">x</td>
-<td width="66">x</td>
-<td width="76">subplots</td>
-<td width="66">subplots</td>
+<tr style="height: 21px">
+<td style="height: 21px" width="84"><strong> </strong></td>
+<td style="text-align: left;height: 21px" width="237">Emergence traps</td>
+<td style="height: 21px" width="76">x</td>
+<td style="height: 21px" width="66">x</td>
+<td style="height: 21px" width="76">subplots</td>
+<td style="height: 21px" width="66">subplots</td>
 </tr>
 </tbody>
 </table>
