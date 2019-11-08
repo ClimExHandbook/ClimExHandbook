@@ -181,6 +181,8 @@ In the methods described here, the sampling area is generally known and the inve
 
 In the methods described above, the relative abundance of invertebrates is estimated per unit area. With the trapping devices described below, the sampling area is generally unknown as the species composition and abundances depend on invertebrates actively entering the trap. Thus, when interpreting the data, differences in numbers of the same species should be considered.
 
+[caption id="attachment_616" align="alignright" width="314"]<img class="wp-image-616 " src="http://climexhandbook.w.uib.no/files/2019/11/4.11.4.png" alt="" width="314" height="417" /> <span style="font-size: 10pt"><strong>Figure 4.11.4</strong> Pitfall trap. Photo: Anne Sverdrup-Thygeson, NMBU, Norway.</span>[/caption]
+
 <strong>Pitfall traps</strong> catch active, mainly polyphagous predators, foraging on the soil surface. The major taxonomic groups caught are ants, wandering spiders (Aranae: Lycosidae, Clubionidae), rove beetles (Coleoptera: Staphylinidae), and ground beetles (Coleoptera: Carabidae) (Southwood &amp; Henderson, 2000; Woodcock, 2004). In polar areas where several insect groups tend to stay close to the soil surface, pitfall trapping has also been used to compare catches of butterflies, midges, and flies (Høye et al., 2013). Pitfall trapping is one of the oldest and most-used techniques and a large number of studies have focused on trapping efficiency relative to trap construction and placement (Woodcock, 2004). Generally, a pitfall trap (Figure 4.11.4) consists of a jar dug into the ground so that the rim is level with the soil surface and half filled with some sort of liquid preservative (saline solution or propylene glycol are the least attractive to animals and have low toxicity, to which a few drops of detergent is added to break the surface tension). An upper jar diameter of 6–9 cm and a 6–7 cm depth works well. A roof, 3–4 cm above the trap entrance, prevents overflowing during rain and dilution of preservative as well as blocking debris which could create insect escape routes from falling in.
 
 Use of a transparent roof minimises the influence of roofs on trap catches (Woodcock, 2004). Trapping periods depend on the rate of preservative evaporation (heat) and dilution (rain), number of animals caught (traps can fill up), and the research question, but generally range from 2 days in the tropics to a maximum of 4 weeks in colder areas. Use of two layers of traps, with only the inner trap removed during each emptying session, ensures minimal soil disturbance. The trap catches depend on the vegetation structure immediately surrounding the traps and, if comparing sites with highly different structure, removing vegetation immediately around the trap should be considered (Woodcock, 2004). Digging pitfall traps is destructive to plots and affects trap catches for a few days after installation. Pitfall traps can work on small to large plot sizes (Table 4.11.1).
@@ -194,9 +196,7 @@ Use of a transparent roof minimises the influence of roofs on trap catches (Wood
 Leather (2004), Samways et al. (2009), Southwood &amp; Henderson (2000)
 
 <strong><em> </em></strong>
-
-<strong>4.11.2 Special cases, emerging issues, and challenges</strong>
-
+<h4><strong>4.11.2 Special cases, emerging issues, and challenges</strong></h4>
 The use of image-based observations for estimating animals and plants is an emerging and highly interesting method (Burton et al., 2015; Steenweg et al., 2017). Combined with effective image-analysis, this has a large potential for future species monitoring at least of the larger and easily identified macroinvertebrates. The use of environmental DNA (eDNA), that is sampling of DNA from the environment, also has a high potential for identification and monitoring of elusive and small species such as invertebrates (Bohmann et al., 2014). Invertebrates might also be pulverised and identified by DNA-barcoding. This can be time-efficient as compared with sorting and visual identification. To ensure the best material for barcoding, the macroinvertebrates should preferably be stored in 96% ethanol.
 
 We have not included canopy invertebrates in this protocol as they are outside the usual plot size for climate manipulation experiments. To sample these structures, traps (for example interception traps or sticky traps) could be mounted hanging from branches. If the canopy is very high, walkways, cranes, drones or other devices might be needed to access the area. Chemical knockdown can be used from the ground. Fogging or misting include insecticides (natural pyrethrum or synthetic pyrethroids, the first is most quickly broken down by UV-radiation) and can only be carried out under calm and dry conditions. The macroinvertebrates are collected at the ground, or higher up, by collection mats or trays. For more information about canopy sampling, see Ozanne (2014) and Samways et al. (2009).
@@ -204,9 +204,7 @@ We have not included canopy invertebrates in this protocol as they are outside t
 &nbsp;
 
 <em> </em>
-
-<strong>4.11.3 References</strong>
-
+<h4><strong>4.11.3 References</strong></h4>
 <strong><em>Theory, significance, and large datasets</em></strong>
 
 Leather (2004), Samways et al. (2009), Southwood &amp; Henderson (2000)
