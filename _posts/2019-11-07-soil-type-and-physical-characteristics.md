@@ -17,7 +17,7 @@ For the description of standard methods for soil characterisation we refer the r
 
 In this protocol, we focus on providing a basic guideline and starting point for determining soil physical properties in the context of climate-change studies as our main focus is on understanding ecosystem processes and plant behaviour.
 
-Other variables that can be of relevance in some cases are described in Supporting Information S4. Water cycling (for example water potential and water repellency).
+Other variables that can be of relevance in some cases are described in <a href="http://climexhandbook.w.uib.no/handbook/s3-water-cycling/">Supporting Information S4. Water cycling</a> (for example water potential and water repellency).
 
 &nbsp;
 
@@ -54,7 +54,7 @@ The soil samples are often used fresh, but for some analysis the soil needs to b
 <td style="text-align: left" width="91"><strong>Protocol</strong></td>
 </tr>
 <tr>
-<td style="text-align: left" width="291">Fresh soil kept in fridge (4°C)
+<td style="width: 291px;text-align: left;vertical-align: top" width="291">Fresh soil kept in fridge (4°C)
 
 &nbsp;
 
@@ -115,7 +115,7 @@ The International Co-operative Programme on Assessment and Monitoring of Air Pol
 <h4><a name="_Toc23712698"></a><strong>1.3.1 Soil types and horizons (layers)</strong></h4>
 Unlike sediments that are deposited over time, soils are developed as horizons from the parent material under the influence of local climate, topography, and biota. There are many soil types based on the composition of the parent material, texture, and organic matter. A soil horizon is a parallel layer to the soil surface with distinctly different physical, chemical, and biological characteristics from the layers above or beneath. A vertical layout of a soil (based on a soil pit) illustrates the different horizons in a soil profile (Figure 1.3.1). Determining soil horizons within a soil profile will provide important information about the life history of the soil as well as different characteristics of soil properties.
 
-[caption id="attachment_215" align="alignright" width="308"]<img class="wp-image-215 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.17.16.png" alt="" width="308" height="522" /> Fig 1.3.1 Soil profile showing the different soil horizons from the organic layers to the bedrock.[/caption]
+[caption id="attachment_215" align="alignright" width="308"]<img class="wp-image-215 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.17.16.png" alt="" width="308" height="522" /> <span style="font-size: 10pt"><strong>Figure 1.3.1</strong> Soil profile showing the different soil horizons from the organic layers to the bedrock.</span>[/caption]
 
 The soil profile should be described according to a soil classification that is compatible with the World Reference Base (WRB) system. Soil type should be reported according to the World Reference Base for Soil Resources system (ISRIC, 1998; IUSS Working Group WRB, 2006, 2014). This is the international standard taxonomic soil classification system, which is endorsed by the International Union of Soil Sciences (IUSS) and replaces the FAO soil classification. Reporting the depth of soil layers or horizons should be included in any description as this is important for comparison and modelling. Most classification systems recognise six master soil horizons which are designated using the capital letters O, A, E, B, C, and R (Figure 1.3.1). Reporting O to B is usually sufficient for climate-change studies. O = Organic matter, characterised by high levels of organic material: dark in colour; A = Mineral topsoil, often organically stained: contains highly weathered parent material (rocks) and is lighter in colour than the O horizon; E = Eluviated - used to label a horizon that has been highly leached of minerals, clays, and sesquioxides: usually determined as a pale layer below the A horizon and only exists in older, well-developed soils; B = Subsoil, an illuviated layer that accumulates iron, clay, aluminium, and organic compounds: lighter in colour and often may be reddish due to the iron content; C = Broken-down bedrock, also known as substratum; R = Bedrock.
 
@@ -133,7 +133,7 @@ Stone content defines the volume and mass in the soil containing stones &gt; 2 m
 
 &nbsp;
 <h4><a name="_Toc23712701"></a><strong>1.3.4 Bulk density (g cm</strong><strong><sup>-</sup></strong><strong>³)</strong></h4>
-Bulk density is a measure of the amount of soil per unit volume of oven dried soil and gives information on the physical status of the soil. The soil organic matter content, soil texture,  the minerals in the soil and degree of compaction define the bulk density. Bulk density varies substantially among soils. Mineral soils have a bulk density of around 1–1.6 g cm<sup>–</sup>³, while in organic soils and friable clay it is well below 1 g cm<sup>–</sup>³. Bulk density values are essential when determining soil carbon and nutrient stocks, as they allow a conversion from concentrations to mass per area (see also protocol 2.2.4 Soil carbon and nutrient stocks).
+Bulk density is a measure of the amount of soil per unit volume of oven dried soil and gives information on the physical status of the soil. The soil organic matter content, soil texture,  the minerals in the soil and degree of compaction define the bulk density. Bulk density varies substantially among soils. Mineral soils have a bulk density of around 1–1.6 g cm<sup>–</sup>³, while in organic soils and friable clay it is well below 1 g cm<sup>–</sup>³. Bulk density values are essential when determining soil carbon and nutrient stocks, as they allow a conversion from concentrations to mass per area (<a href="http://climexhandbook.w.uib.no/2019/11/06/soil-carbon-and-nutrient-stocks/">see also protocol 2.2.4 Soil carbon and nutrient stocks</a>).
 
 <strong><em> </em></strong>
 
@@ -143,12 +143,12 @@ A range of equipment is available for the determination of bulk density and gene
 
 Dry bulk density is calculated using the following equation:
 
-<img class="alignnone wp-image-217 size-full" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.09.png" alt="" width="660" height="64" />
+<img class="wp-image-217 size-full aligncenter" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.09.png" alt="" width="660" height="64" />
 
 The stone volume can be determined through the water displacement method using this equation:
-
-<img class="alignnone size-full wp-image-218" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-07-um-11.22.15.png" alt="" width="413" height="63" />
-
+<p style="text-align: center"><img class="alignnone size-full wp-image-652" src="http://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-08-um-15.21.37.png" alt="" width="409" height="67" /></p>
+&nbsp;
+<p style="text-align: center"></p>
 The stone density is usually assumed to be ~2.65 g cm<sup>–</sup>³.
 
 Resampling of bulk density is normally not required. However, especially severe drought may change the bulk density and resampling of bulk density is recommended after 3–5 years.
