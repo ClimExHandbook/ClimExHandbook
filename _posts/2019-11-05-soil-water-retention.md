@@ -31,8 +31,6 @@ To determine the impact of climate change on soil hydraulic properties we need t
 
 d of the WRC. The method works by calculating the WRC and unsaturated hydraulic conductivity simultaneously from measuring the changes in weight and tension of a saturated soil sample dried by evaporation. Tensiometer measurement limitations mean that the method only works between 0 to ~-80 kPa (Schindler et al., 2010).
 
-&nbsp;
-
 [caption id="attachment_531" align="alignleft" width="517"]<img class="wp-image-531 " src="http://climexhandbook.w.uib.no/files/2019/11/Hyprop2.png" alt="" width="517" height="347" /> Figure 3.3.1b Laboratory setup for demonstration showing three balances with the HYPROP pressure transducers and the soil cores on top. Note: soil core remains in the cylinder during water loss but was removed for demonstration. Photo: Inma Lebron (Centre for Ecology &amp; Hydrology).[/caption]
 
 &nbsp;
