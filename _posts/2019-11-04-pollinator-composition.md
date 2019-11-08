@@ -41,11 +41,9 @@ More recently, studies have shown that vane-traps (hanging bowls or bottles with
 </tr>
 </tbody>
 </table>
-&nbsp;
-
 A further consideration for method choice and sampling schedule is the expense of post-capture identification. While some netted insects can be identified to species in the field depending on collector skill, all methods often require a large post-trapping effort to identify all specimens to species level. Depending on the trapping effort and availability of skilled taxonomists, this can be time-consuming and expensive. For this reason, all sampled insects must be placed in a preservation medium (e.g. &gt;80% ethanol) or frozen for storage before pinning, labelling, and identification.
 
-Following the identification of insect material, several variables can be derived: total number of insects and of each species group, species richness and diversity indices of the total catch and for each group, and species composition are the most common. Species composition data are the most detailed as they do not require the data to be summarised into a single metric, but these matrices are also sometimes the most challenging to interpret and analyse. A number of multivariate statistical approaches exist to analyse compositional data, from exploratory approaches such as principal component analysis to more comparative approaches such as canonical analysis (Legendre &amp; Legendre, 2012). Conversely, species abundance, richness, and diversity data can be used as dependent variables in most univariate statistical approaches. However, while diversity indices (see also protocol 4.8. Plant community composition) are designed to try and capture aspects of abundance and species richness in a single figure, each index is thought to be biased in some way and is the subject of debate (Loreau, 2010). The researcher should therefore consider carefully which index is most relevant to the research question. Furthermore, care should be taken when interpreting data from pan traps as it is difficult to ascertain the boundaries of the trapping area.
+Following the identification of insect material, several variables can be derived: total number of insects and of each species group, species richness and diversity indices of the total catch and for each group, and species composition are the most common. Species composition data are the most detailed as they do not require the data to be summarised into a single metric, but these matrices are also sometimes the most challenging to interpret and analyse. A number of multivariate statistical approaches exist to analyse compositional data, from exploratory approaches such as principal component analysis to more comparative approaches such as canonical analysis (Legendre &amp; Legendre, 2012). Conversely, species abundance, richness, and diversity data can be used as dependent variables in most univariate statistical approaches. However, while diversity indices (<a href="http://climexhandbook.w.uib.no/2019/11/04/plant-community-composition/">see also protocol 4.8. Plant community composition</a>) are designed to try and capture aspects of abundance and species richness in a single figure, each index is thought to be biased in some way and is the subject of debate (Loreau, 2010). The researcher should therefore consider carefully which index is most relevant to the research question. Furthermore, care should be taken when interpreting data from pan traps as it is difficult to ascertain the boundaries of the trapping area.
 
 &nbsp;
 
@@ -55,14 +53,12 @@ Pollinators of some species can be sampled by visual observation or via netting 
 
 &nbsp;
 
-<a name="_Toc520972434"></a><strong><em>Where to start</em></strong>
+<strong><em>Where to start</em></strong>
 
 Gezon et al. (2015), Gillespie et al. (2017), Hegland &amp; Totland (2012), Westphal et al. (2008)
 
 &nbsp;
-
-<a name="_Toc520972435"></a><strong>4.12.2 Special cases, emerging issues, and challenges</strong>
-
+<h4><strong>4.12.2 Special cases, emerging issues, and challenges</strong></h4>
 Perhaps one of the main issues with this protocol is that it is often not possible to define the scale of the study. As flying insects are mobile organisms with ranges that vary from species to species (10 km for honey bees, 100 m for some parasitoid wasp species), it can be impossible to determine the boundary of the study area. This may be less of a problem for central-place foragers (e.g. bees) that show steep decay curves in abundance as the distance to source habitats increase than for non-central-place foragers (e.g. hoverflies) which are more ephemerally distributed throughout the landscape (Jauker et al., 2009). For single site, plot-level studies this renders the protocol to be more of a background data-gathering procedure. For wider, landscape scale studies the protocol can be a useful sampling procedure, but it is important that the study landscapes are sufficiently separated in space to avoid overlapping populations. Gillespie et al. (2017), for example, ensured that study landscapes were at least 6 km apart.
 
 A further challenge to researchers is the placement of traps on site, which is also dependent on the research question. For example, to attempt to complete a census of a single site, Westphal et al. (2008) set out 5 traps spaced 15 m apart. In contrast, to compare pollinator composition between field sites, Gillespie et al. (2017) placed 5 traps within a 660 x 660 m study square, with traps no closer than 50 m apart. Furthermore, the capture of pollinating insects in pan traps depends in part on the amount of floral resources in the local area (Dafni et al., 2005). Pan traps are supposed to simulate a food source to adult insects, so if there are a lot of floral resources available in the landscape, the appearance and attraction of the traps may be diminished compared to landscapes with fewer floral resources. In any case, it is recommended to record the number and types of flowers in the immediate (1 m radius) vicinity of the trap to use as a covariate in analysis. Vegetation information on wider scales may also be needed, although this has not been explored adequately to date.
@@ -70,22 +66,20 @@ A further challenge to researchers is the placement of traps on site, which is a
 Despite the above uncertainties, these methods often result in a large number of specimens and any collection will contain an enormous range of information. For example, many non-target species will be caught in pan traps and these specimens can themselves hold important information about the study areas. It is recommended that they are preserved and expertise sought to identify these insects further. For example, following a pollination study in the UK comparing organic and conventional agricultural landscapes (Gabriel et al., 2013), the “by-catch” was examined for tachinid fly specimens and a further paper published addressing a similar research question (Inclan et al., 2014).
 
 &nbsp;
-
-<a name="_Toc520972436"></a><strong>4.12.3 References</strong>
-
-<a name="_Toc520972437"></a><strong><em>Theory, significance, and large datasets</em></strong>
+<h4><strong>4.12.3 References</strong></h4>
+<strong><em>Theory, significance, and large datasets</em></strong>
 
 Dafni et al. (2005), Droege et al. (2010), Gezon et al. (2015), Legendre &amp; Legendre (2012), Westphal et al. (2008)
 
 &nbsp;
 
-<a name="_Toc520972438"></a><strong><em>More on methods and existing protocols</em></strong>
+<strong><em>More on methods and existing protocols</em></strong>
 
 Bartomeus et al. (2013), Cane et al. (2000), Gillespie et al. (2017), Rhoades et al. (2017), Rubene et al. (2015), Saunders &amp; Luck (2013)
 
 &nbsp;
 
-<a name="_Toc520972439"></a><strong><em>All references</em></strong>
+<strong><em>All references</em></strong>
 
 Allen-Wardell, G., Bernhardt, P., Bitner, R., Burquez, A., Buchmann, S., Cane, J., … Walker, S. (1998). The potential consequences of pollinator declines on the conservation of biodiversity and stability of food crop yields. <em>Conservation Biology, 12</em>, 8-17.
 
