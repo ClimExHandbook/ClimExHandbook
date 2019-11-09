@@ -75,9 +75,7 @@ Interpretation: survival of plants is a clear binary response, dead or alive. Ho
 The usefulness of LT<sub>50</sub>, or the more general LD<sub>50</sub>, is the fact that one obtains a single value in units of the studied stress factor, which has ecological importance and can (at least within one study) be compared among species and organs. It should be noted, however, that this value depends not only on the dose, i.e. the minimum temperature, but also on duration of exposure, rate of cooling and warming, and the equation used. These facts therefore need to be reported alongside the results, but make a comparison among studies applying different protocols problematic.
 
 &nbsp;
-
-<a name="_Toc504134851"></a><em><strong>5.4.2 Special cases, emerging issues, and challenges</strong></em>
-
+<h4><em><strong>5.4.2 Special cases, emerging issues, and challenges</strong></em></h4>
 Applying LD<sub>50</sub> concepts to other stress factors in ecology beyond low temperature stress will not only advance stress ecology but, in the long run, also facilitate process-based projections of shifts in species composition with global change. Temporal dynamics in stress tolerance, however, need to be taken into account. Frost tolerance, for instance, does not only differ among species and populations, but also temporally over the course of the year (Lenz et al., 2013; Kreyling et al., 2015) and the phenological stage of a plant (Lenz et al., 2016b). In fact, frost tolerance responds dynamically to ambient temperatures within days (Kalberer et al., 2006; Lenz et al., 2016a; Vitra et al. 2017).
 
 Concerning other stress factors, similar protocols as for frost tolerance can be applied. Drought tolerance, for instance, can be assessed by relative electrolyte leakage of plants or organs kept under osmotic stress which is caused experimentally by varying concentrations of polyethylene glycol in water solutions (PEG method; Premachandra &amp; Shimada, 1987; Bajji et al., 2002).
@@ -86,10 +84,8 @@ Beyond the commonly reported LD<sub>50</sub>, other percentiles (e.g. LD<sub>10<
 
 Finally, it should be emphasised that accurate and correct measurements of the environmental variable studied is crucial. For instance, plant tissue temperature determines stress levels with regards to frost or heat. These tissue temperatures may deviate considerably from air temperatures. Using air temperatures might consequently lead to fairly nonsensical conclusions.
 
-<a name="_Toc504134852"></a>
-
-<strong>5.4.3 References</strong>
-
+&nbsp;
+<h4><strong>5.4.3 References</strong></h4>
 <strong>Theory, significance, and large datasets</strong>
 
 Bigras et al. (2001), Chapter 4 in Snyder &amp; de Melo-Abreu (2005), Sakai &amp; Larcher (1987), Sakai &amp; Weiser (1973), Thomashow (1999)
