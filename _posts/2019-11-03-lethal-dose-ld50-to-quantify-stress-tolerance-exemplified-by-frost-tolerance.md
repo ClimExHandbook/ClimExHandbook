@@ -1,8 +1,9 @@
 ---
 ID: 425
 post_title: >
-  Lethal dose (LD50) to quantify stress
-  tolerance exemplified by frost tolerance
+  5.4 Lethal dose (LD50) to quantify
+  stress tolerance exemplified by frost
+  tolerance
 author: jonathans
 post_excerpt: ""
 layout: post
