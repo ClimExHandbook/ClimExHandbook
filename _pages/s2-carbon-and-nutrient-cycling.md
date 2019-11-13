@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  http://climexhandbook.w.uib.no/handbook/s2-carbon-and-nutrient-cycling/
+  https://climexhandbook.w.uib.no/handbook/s2-carbon-and-nutrient-cycling/
 published: true
 post_date: 2019-11-07 10:03:19
 ---

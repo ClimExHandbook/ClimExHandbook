@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: post
 permalink: >
-  http://climexhandbook.w.uib.no/2019/11/05/soil-moisture/
+  https://climexhandbook.w.uib.no/2019/11/05/soil-moisture/
 published: true
 post_date: 2019-11-05 08:00:21
 ---

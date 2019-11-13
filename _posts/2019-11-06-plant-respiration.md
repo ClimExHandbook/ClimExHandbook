@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: post
 permalink: >
-  http://climexhandbook.w.uib.no/2019/11/06/plant-respiration/
+  https://climexhandbook.w.uib.no/2019/11/06/plant-respiration/
 published: true
 post_date: 2019-11-06 17:00:03
 ---
