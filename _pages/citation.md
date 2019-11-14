@@ -1,14 +1,15 @@
 ---
 ID: 37
-post_title: Citation
+post_title: How to cite?
 author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  https://climexhandbook.w.uib.no/home/citation/
+  http://climexhandbook.w.uib.no/home/citation/
 published: true
 post_date: 2019-11-02 20:43:21
 ---
+<h2>How to cite?</h2>
 How to cite cite a protocol:
 
 E.g. To measure soil organic matter (SOM) we used the method described in protocol 1.3.2 Soil nutrients in the Supporting Information S1 Site characteristics and data management in Halbritter et al. (2019).
