@@ -10,9 +10,11 @@ published: true
 post_date: 2019-11-02 20:42:49
 ---
 <h2>Scope</h2>
-Plants are key players in our ecosystems: they make up the majority of biomass globally, are the main source of photosynthetically fixed carbon, and serve as habitat, food sources, and hosts for other organismal groups, while also competing with them for resources (Bar-On, Phillips &amp; Milo, 2018; Fanin et al., 2019).
+Plants are key players in our ecosystems: they make up the majority of biomass globally, are the main source of
 
 [caption id="attachment_757" align="alignright" width="300"]<img class="size-medium wp-image-757" src="http://climexhandbook.w.uib.no/files/2019/11/MG_8678-300x200.jpg" alt="" width="300" height="200" /> Amazon, Peru. Photo Aud Halbritter[/caption]
+
+photosynthetically fixed carbon, and serve as habitat, food sources, and hosts for other organismal groups, while also competing with them for resources (Bar-On, Phillips &amp; Milo, 2018; Fanin et al., 2019).
 
 Plants interact with other plants, microbes, invertebrates, and other organisms in multiple ways and on different trophic levels (e.g. decomposers, mutualists, pathogens, herbivores, predators).
 
