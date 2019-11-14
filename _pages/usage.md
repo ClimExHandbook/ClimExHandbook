@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2019-11-02 20:43:08
 ---
-<h2>Usage</h2>
-For each protocol, we provide a short overview of the equipment and running costs,  installation and maintenance effort, knowledge-needs, and the type of measurements conducted. Note that this overview is to a certain extent country-, habitat-, and project-dependent (i.e. costs differ between countries, knowledge-needs for species identification might differ between a rainforest and a temperate bog, etc.).<img class="wp-image-77 size-medium alignright" src="http://climexhandbook.w.uib.no/files/2019/11/ClimEx-300x300.jpg" alt="" width="300" height="300" />
+<h2>Usage<img class="wp-image-77 size-medium alignright" src="http://climexhandbook.w.uib.no/files/2019/11/ClimEx-300x300.jpg" alt="" width="300" height="300" /></h2>
+For each protocol, we provide a short overview of the equipment and running costs,  installation and maintenance effort, knowledge-needs, and the type of measurements conducted. Note that this overvie<span style="font-size: 0.9375rem">w is to a certain extent country-, habitat-, and project-dependent (i.e. costs differ between countries, knowledge-needs for species identification might differ between a rainforest and a temperate bog, etc.).</span>
 
 We give a short summary of the ecological background and its relevance to terrestrial climate-change studies. We succinctly describe <em>What and how to measure</em>, providing sufficient detail to ensure reproducibility, and provide a reference list with more extensive literature on each method. We describe a <em>Gold standard</em>, that is the optimal measurement irrespective of economic, technical, and practical constraints, and (if applicable) a <em>Bronze standard,</em> that is the minimal requirement for data of adequate quality which can be advisable in specific situations.
 
