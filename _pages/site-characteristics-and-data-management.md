@@ -7,17 +7,17 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  https://climexhandbook.w.uib.no/handbook/site-characteristics-and-data-management/
+  http://climexhandbook.w.uib.no/handbook/site-characteristics-and-data-management/
 published: true
 post_date: 2019-11-07 09:02:56
 ---
 <div id="pl-109" class="panel-layout"><div id="pg-109-0" class="panel-grid panel-no-style" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"><div id="pgc-109-0-0" class="panel-grid-cell" data-weight="0.8"><div id="panel-109-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<strong>Editor:</strong> Halbritter AH
-
-<strong>Authors:</strong> Halbritter AH<sup>1</sup>, Robinson DA<sup>2</sup>, Reinsch S<sup>2</sup>, Lebron I<sup>2</sup>, Abrantes N<sup>3</sup>, Campos I<sup>3</sup>, Zurba K<sup>4</sup>, Vicca S<sup>5</sup>, Cosby J<sup>2</sup>, van der Ploeg M<sup>6</sup>, Richard J. Telford<sup>1</sup> and Vandvik V<sup>1</sup>
-
-<strong>Reviewers:</strong> Chojnicki BH<sup>7</sup>, Lee H<sup>8</sup>, Stuart-Haëntjens E<sup>9</sup>, De Boeck HJ<sup>5</sup></div>
+	<h2>S1 Site Characteristics and Data Management</h2>
+<p><strong>Editor:</strong> Halbritter AH</p>
+<p><strong>Authors:</strong> Halbritter AH<sup>1</sup>, Robinson DA<sup>2</sup>, Reinsch S<sup>2</sup>, Lebron I<sup>2</sup>, Abrantes N<sup>3</sup>, Campos I<sup>3</sup>, Zurba K<sup>4</sup>, Vicca S<sup>5</sup>, Cosby J<sup>2</sup>, van der Ploeg M<sup>6</sup>, Richard J. Telford<sup>1</sup> and Vandvik V<sup>1</sup></p>
+<p><strong>Reviewers:</strong> Chojnicki BH<sup>7</sup>, Lee H<sup>8</sup>, Stuart-Haëntjens E<sup>9</sup>, De Boeck HJ<sup>5</sup></p>
+</div>
 </div></div></div><div id="pgc-109-0-1" class="panel-grid-cell" data-weight="0.2"><div id="panel-109-0-1-0" class="so-panel widget widget_sow-button panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Button_Widget"][/siteorigin_widget]</div></div></div><div id="pg-109-1" class="panel-grid panel-no-style"><div id="pgc-109-1-0" class="panel-grid-cell" data-weight="1"><div id="panel-109-1-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	Systematic reporting of basic site information of the studied system is necessary to ensure that studies are repeatable and to enable data re-use across studies, syntheses, modelling, and upscaling (Haddaway &amp; Verhoeven, 2015; Gerstner et al., 2017). In climate change research, there are experiments <em>sensu stricto</em> and natural experiments in space (i.e. gradient studies) and time (i.e. observational studies). This chapter on reporting and documentation is applicable to all these types of studies (if not otherwise specified). In addition, many of the principles discussed in this chapter are not exclusively relevant for climate-change studies, but also apply to global-change studies in general.
