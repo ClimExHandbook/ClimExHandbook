@@ -16,6 +16,6 @@ We give a short summary of the ecological background and its relevance to terres
 
 In the section on <em>Special cases, emerging issues, and challenges, </em>we explain how the method can be adapted in specific cases and provide guidance on relevant challenges and opportunities<em>.</em>
 
-We further provide an extensive list of key references on the underlying theories, assumptions, and applications of each method in the section on <em>Theory, significance, and large datasets</em>, as well as under <em>More on methods and existing protocols</em>. These references may be especially useful for students, early-career scientists, or research teams getting started in setting up new studies, and more generally for readers interested in exploring the wider literature related to a specific ecological response variable.
+<img class="size-medium wp-image-755 alignleft" src="http://climexhandbook.w.uib.no/files/2019/11/MG_8590-300x200.jpg" alt="" width="300" height="200" />We further provide an extensive list of key references on the underlying theories, assumptions, and applications of each method in the section on <em>Theory, significance, and large datasets</em>, as well as under <em>More on methods and existing protocols</em>. These references may be especially useful for students, early-career scientists, or research teams getting started in setting up new studies, and more generally for readers interested in exploring the wider literature related to a specific ecological response variable.
 
 &nbsp;
