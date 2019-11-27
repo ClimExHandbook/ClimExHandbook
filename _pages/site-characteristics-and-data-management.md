@@ -25,7 +25,7 @@ post_date: 2019-11-07 09:02:56
 <p>[caption id="attachment_207" align="alignright" width="564"]<img class=" wp-image-207" src="http://climexhandbook.w.uib.no/files/2019/11/SiteBlockPlot2-300x140.jpg" alt="" width="564" height="263" /> Experimental set up[/caption]</p>
 <p>We first discuss how to design and set up an experiment or observational study that may serve multiple uses beyond the needs of the particular project. Then we describe basic geographical location and basic site description (e.g. coordinates, elevation, land-use history, vegetation), physical (e.g. soil horizon, pH), chemical (e.g. nutrient availability), and meteorological variables, and finally how to report your data. Although some of this information may not directly relate to the particular research question or hypotheses, reporting all relevant site information is essential as it puts the study in a larger context and is the key to making data and results useful beyond the particular research for which they were designed.</p>
 </div>
-</div></div><div id="panel-109-1-0-1" class="so-panel widget widget_sow-editor panel-last-child" data-index="3" data-style="{&quot;padding&quot;:&quot;30px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="panel-widget-style panel-widget-style-for-109-1-0-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+</div></div><div id="panel-109-1-0-1" class="so-panel widget widget_sow-editor" data-index="3" data-style="{&quot;padding&quot;:&quot;30px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="panel-widget-style panel-widget-style-for-109-1-0-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h4>References</h4>
 <p>Gerstner, K., Moreno-Mateos, D., Gurevitch, J., Beckmann, M., Kambach, S., Jones, H. P., &amp; Seppelt, R. (2017). Will your paper be used in a meta-analysis? Make the reach of your research broader and longer lasting. <em>Methods in Ecology and Evolution</em>, <em>8</em>(6), 777-784.</p>
@@ -52,4 +52,4 @@ post_date: 2019-11-07 09:02:56
 <p><sup>9</sup> Department of Biology, Virginia Commonwealth University, Richmond, VA USA</p>
 <p>&nbsp;</p>
 </div>
-</div></div></div></div></div></div>
+</div></div></div><div id="panel-109-1-0-2" class="so-panel widget widget_media_image panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]</div></div></div></div>
