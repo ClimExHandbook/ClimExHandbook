@@ -28,15 +28,5 @@ post_date: 2019-11-07 10:03:19
 <p>Bai, E., Li, S., Xu, W., Li, W., Dai, W., &amp; Jiang, P. (2013). A meta-analysis of experimental warming effects on terrestrial nitrogen pools and dynamics. New Phytologist, 199(2), 441-451.</p>
 <p>Trumbore, S. E., Brando, P., &amp; Hartmann, H. (2015). Forest health and global change. Science, 349(6250), 814-818.</p>
 <p>Yue, K., Fornara, D. A., Yang, W., Peng, Y., Peng, C., Liu, Z., &amp; Wu, F. (2017). Influence of multiple global change drivers on terrestrial carbon storage: additive effects are common. Ecology Letters, 20(5), 663-72.</p>
-<p>&nbsp;</p>
-<h4>How to cite cite a protocol:</h4>
-<p>E.g. To measure CO<sub>2</sub> efflux, we use the method described in protocol 2.1.4 Plant respiration in the Supporting Information S2 Carbon and nutrient cycling in Halbritter et al. (2019).</p>
-<p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
-<p>&nbsp;</p>
-<h4>How to cite an updated protocol version:</h4>
-<p>E.g. To measure CO<sub>2</sub> efflux, we use the method described in protocol 2.1.4 Plant respiration in the Supporting Information S2 Carbon and nutrient cycling in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: climexhandbook.uib.no.</p>
-<p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </div>
 </div></div></div></div></div></div>
