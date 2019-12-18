@@ -11,7 +11,8 @@ post_date: 2019-11-07 10:07:08
 ---
 <div id="pl-153" class="panel-layout"><div id="pg-153-0" class="panel-grid panel-no-style" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"><div id="pgc-153-0-0" class="panel-grid-cell" data-weight="0.7"><div id="panel-153-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<strong>Editor:</strong> De Boeck HJ
+	<h2>S5 Stress physiology</h2>
+<p><strong>Editor:</strong> De Boeck HJ</p>
 </div>
 </div></div></div><div id="pgc-153-0-1" class="panel-grid-cell" data-weight="0.3"><div id="panel-153-0-1-0" class="so-panel widget widget_sow-button panel-first-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Button_Widget"][/siteorigin_widget]</div><div id="panel-153-0-1-1" class="so-panel widget widget_sow-button panel-last-child" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Button_Widget"][/siteorigin_widget]</div></div></div><div id="pg-153-1" class="panel-grid panel-no-style"><div id="pgc-153-1-0" class="panel-grid-cell" data-weight="1"><div id="panel-153-1-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
