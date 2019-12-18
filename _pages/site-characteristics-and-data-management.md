@@ -32,14 +32,6 @@ post_date: 2019-11-07 09:02:56
 <p>Haddaway, N. R., &amp; Verhoeven, J. T. A. (2015). Poor methodological detail precludes experimental repeatability and hampers synthesis in ecology. <em>Ecology and Evolution</em>, <em>5</em>(19), 4451-4454.</p>
 <p>Hillebrand, H., &amp; Gurevitch, J. (2013). Reporting standards in experimental studies. <em>Ecology Letters</em>, <em>16</em>(12), 1419-1420.</p>
 <p>&nbsp;</p>
-<h4>How to cite cite a protocol:</h4>
-<p>E.g. To measure soil organic matter (SOM) we used the method described in protocol 1.3.2 Soil nutrients in the Supporting Information S1 Site characteristics and data management in Halbritter et al. (2019).</p>
-<p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
-<p>&nbsp;</p>
-<h4>How to cite an updated protocol version:</h4>
-<p>E.g. To measure soil organic matter (SOM) we used the method described in protocol 1.3.2 Soil nutrients in the Supporting Information S1 Site characteristics and data management in Halbritter et al. (2019), using the updated protocol version, Date, available in the online version: climexhandbook.uib.no.</p>
-<p>Halbritter et al. (2019) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>Volume</em>(Issue) pages.</p>
-<p>&nbsp;</p>
 <h4>Affiliations</h4>
 <p><sup>1</sup> Department of Biological Sciences and Bjerknes Centre for Climate Research, University of Bergen, Bergen, Norway</p>
 <p><sup>2</sup> Centre for Ecology &amp; Hydrology, Environment Centre Wales, Bangor, UK</p>
