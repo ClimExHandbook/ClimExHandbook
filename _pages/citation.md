@@ -14,7 +14,7 @@ How to cite a protocol:
 
 E.g. To measure soil organic matter (SOM) we used the method described in protocol 1.3.2 Soil nutrients in the Supporting Information S1 Site characteristics and data management in Halbritter et al. (2020).
 
-Halbritter et al. (2020) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>11</em>(Issue) pages.
+Halbritter et al. (2020) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>11 (1):22–37</em>.
 
 <strong> </strong>
 
@@ -22,4 +22,4 @@ How to cite an updated protocol version:
 
 E.g. To measure soil organic matter (SOM) we used the method described in protocol 1.3.2 Soil nutrients in the Supporting Information S1 Site characteristics and data management in Halbritter et al. (2020), using the updated protocol version, Date, available in the online version: www.climexhandbook.uib.no.
 
-Halbritter et al. (2020) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, 1<em>1</em>(Issue) pages.
+Halbritter et al. (2020) The handbook for standardised field and laboratory measurements in terrestrial climate-change experiments and observational studies (ClimEx). <em>Methods in Ecology and Evolution</em>, <em>11 (1):22–37</em>.
