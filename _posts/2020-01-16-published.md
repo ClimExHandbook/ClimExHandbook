@@ -5,7 +5,7 @@ author: audhalbritter
 post_excerpt: ""
 layout: post
 permalink: >
-  http://climexhandbook.w.uib.no/2020/01/16/published/
+  https://climexhandbook.w.uib.no/2020/01/16/published/
 published: true
 post_date: 2020-01-16 10:39:01
 ---

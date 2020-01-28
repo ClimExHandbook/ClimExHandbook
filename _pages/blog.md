@@ -4,7 +4,7 @@ post_title: Blog
 author: jonathans
 post_excerpt: ""
 layout: page
-permalink: http://climexhandbook.w.uib.no/blog/
+permalink: https://climexhandbook.w.uib.no/blog/
 published: true
 post_date: 2019-11-02 20:50:48
 ---

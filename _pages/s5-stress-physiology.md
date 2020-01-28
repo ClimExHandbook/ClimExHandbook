@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  http://climexhandbook.w.uib.no/handbook/s5-stress-physiology/
+  https://climexhandbook.w.uib.no/handbook/s5-stress-physiology/
 published: true
 post_date: 2019-11-07 10:07:08
 ---
