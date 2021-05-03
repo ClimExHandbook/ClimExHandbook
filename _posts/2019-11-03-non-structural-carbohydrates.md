@@ -129,9 +129,10 @@ Therefore, this method is mainly applicable for investigations of large numbers 
 
 <strong><em>Next steps towards standard procedures for NSC quantification</em></strong>
 
-Until recently there were no unified standard procedures for sample collection, handling, NSC extraction, or starch digestion that could be used by scientists (Smith &amp; Zeeman, 2006). 
-However Landhäusser et al. (2018) provide very detailed step-by-step procedures and protocols for the three soluble sugar quantification methods and enzymatic starch quantification described earlier, which should help reduce inconsistencies in laboratory procedures that have been responsible for the large variability and erroneous results. 
-There are currently no universal and international NSC sample standards for plant material with precisely known starch and sugar concentrations. 
+Up till now there were no unified standard procedures for sample collection, handling, NSC extraction, or starch digestion that could be used by scientists (Smith &amp; Zeeman, 2006). 
+However Landhäusser et al. (2018) provide very detailed step-by-step procedures and protocols for the three dominant methods for the quantification of soluble sugars and starch described above earlier.
+Using these protocols should aid in the reduction of the inconsistencies among laboratory procedures (Quentin et al. 2015) that have produced very variable and sometimes and erroneous results, making direct comparisons among research studies difficult.
+Further, there are currently no universal and international NSC sample standards for plant material with precisely known starch and sugar concentrations. 
 To improve comparability of NSC among different laboratories, international plant standards for NSC are highly desirable.
 
 <strong> </strong>
@@ -144,7 +145,8 @@ Chapin et al. (1990), Landhäusser et al. (2018), Martinez-Vilalta et al. (2016)
 
 <strong><em>More on methods and existing protocols</em></strong>
 
-Chow &amp; Landhäusser (2004), Dickman et al. (2015), Hoch et al. (2003), Landhäusser et al. (2018), Raessler et al. (2010)
+The detailed quantification protocols from Landhäusser et al. (2018) can be accessed <a href="https://bioceed.uib.no/dropfolder/Climex/NSC%20Protocols%20Handbook%20rev%2026.04.2021.pdf">here</a>.
+Other sources are Chow &amp; Landhäusser (2004), Dickman et al. (2015), Hoch et al. (2003), Raessler et al. (2010)
 
 &nbsp;
 
@@ -228,7 +230,7 @@ Smith, A. M. &amp; Zeeman, S. C. (2006). Quantification of starch in plant tissu
 
 Sulpice, R., Pyl, E. T., Ishihara, H., Trenkamp, S., Steinfath, M., Witucka-Wall, H., … Stitt, M. (2009). Starch as a major integrator in the regulation of plant growth. <em>Proceedings of the National Academy of Sciences USA,</em> <em>106</em>(25), 10348-10353.
 
-<u>Trifilò, P., Kiorapostolou, N., Petruzzellis, F., Vitti, S., Petit, G., Lo Gullo, M. A., … Casolo, V</u><u>. (2019). </u><u>Hydraulic recovery from xylem embolism in excised branches of twelve woody species: relationships with parenchyma cells and non-structural carbohydrates. </u><em><u>Plant Physiology and Biochemistry,</u></em><em><u> 139</u></em><u>, 513-520.</u>
+Trifilò, P., Kiorapostolou, N., Petruzzellis, F., Vitti, S., Petit, G., Lo Gullo, M. A., … Casolo, V. (2019). Hydraulic recovery from xylem embolism in excised branches of twelve woody species: relationships with parenchyma cells and non-structural carbohydrates. <em>Plant Physiology and Biochemistry</em>, <em>139</em>, 513-520.
 
 Weber, R., Gessler, A., &amp; Hoch G. (2019). High carbon storage in carbon-limited trees. <em>New Phytologist, 222</em>(1), 171-182.
 
