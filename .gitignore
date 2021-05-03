@@ -12,6 +12,9 @@
 .httr-oauth
 .Rproj.user
 
+# html outputs
+*.html
+
 #data (excludes everything in the folder data)
 
 
