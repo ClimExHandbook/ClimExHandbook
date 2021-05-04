@@ -17,11 +17,21 @@ post_date: 2019-11-04 09:00:08
 
 <strong>Measurement unit: percentage cover, counts, presence/absence; Measurement scale: plot; Equipment costs: €; Running costs: -; Installation effort: low to medium; Maintenance effort: -; Knowledge need: high (species identification); Measurement mode: manual </strong>
 
-Plant community composition is the description of the vegetation in a fixed area by the species present and, often, their abundance. Plant community composition is commonly recorded in vegetation science and is frequently assessed in climate-manipulation studies (Elmendorf et al., 2015; Kröel-Dulay et al., 2015) as well as in other global-change studies (Borer et al., 2014) and along climate and other environmental gradients (e.g. Stevens et al., 2004). Measurements of vegetation composition indicate the plant species’ responses to experimental treatments and environmental gradients in space and time, for example by changes in extinction, colonisation, and/or abundance. Plant communities can respond relatively rapidly (over a timeframe of a few years) and reasonably consistently to a range of different types of climate-manipulation experiments (Elmendorf et al., 2015). Differences between plots, treatments, and sites can be quantified by standardising compositional measurements. Plant community composition provides information on plant−plant interactions (competition, facilitation, etc.), trophic interactions such as herbivory, and more general aspects of ecosystem function (e.g. seasonality, carbon dynamics, or disturbance intensity). Combining compositional data with species functional traits is a powerful tool for inferring more mechanistic changes to communities and their function (<a href="http://climexhandbook.w.uib.no/2019/11/04/functional-traits/">see protocol 4.16 Functional traits</a>; Díaz et al., 2004; Garnier et al., 2007; Enquist et al., 2015).
+Plant community composition is the description of the vegetation in a fixed area by the species present and, often, their abundance.
+Plant community composition is commonly recorded in vegetation science and is frequently assessed in climate-manipulation studies (Elmendorf et al., 2015; Kröel-Dulay et al., 2015) as well as in other global-change studies (Borer et al., 2014) and along climate and other environmental gradients (e.g. Stevens et al., 2004).
+Measurements of vegetation composition indicate the plant species’ responses to experimental treatments and environmental gradients in space and time, for example by changes in extinction, colonisation, and/or abundance.
+Plant communities can respond relatively rapidly (over a timeframe of a few years) and reasonably consistently to a range of different types of climate-manipulation experiments (Elmendorf et al., 2015).
+Differences between plots, treatments, and sites can be quantified by standardising compositional measurements.
+Plant community composition provides information on plant−plant interactions (competition, facilitation, etc.), trophic interactions such as herbivory, and more general aspects of ecosystem function (e.g. seasonality, carbon dynamics, or disturbance intensity).
+Combining compositional data with species functional traits is a powerful tool for inferring more mechanistic changes to communities and their function (<a href="http://climexhandbook.w.uib.no/2019/11/04/functional-traits/">see protocol 4.16 Functional traits</a>; Díaz et al., 2004; Garnier et al., 2007; Enquist et al., 2015).
 
 &nbsp;
 <h4><strong>4.8.1 What and how to measure?</strong></h4>
-There are three main methods of estimating species composition in climate-change studies: i) visual estimation of the proportion of the sample area covered by each species, either as percent or cover classes, ii) the point-intercept method, and iii) direct estimation of the number of individuals of each species. The choice of method depends on the ecosystem and the scientific question. For example, to estimate species' percentage cover or to apply the point-intercept method, a clear view from directly above the vegetation is needed. In all cases, plots should be permanently marked at the corners or given precise GPS coordinates for revisitation purposes (for information on plot selection and marking, <a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). The plot should be located in representative vegetation, by which we mean that areas with unusually tall, short, species-rich, or species-poor vegetation in relation to the surroundings should be avoided.
+There are three main methods of estimating species composition in climate-change studies: i) visual estimation of the proportion of the sample area covered by each species, either as percent or cover classes, ii) the point-intercept method, and iii) direct estimation of the number of individuals of each species.
+The choice of method depends on the ecosystem and the scientific question.
+For example, to estimate species' percentage cover or to apply the point-intercept method, a clear view from directly above the vegetation is needed.
+In all cases, plots should be permanently marked at the corners or given precise GPS coordinates for revisitation purposes (for information on plot selection and marking, <a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>).
+The plot should be located in representative vegetation, by which we mean that areas with unusually tall, short, species-rich, or species-poor vegetation in relation to the surroundings should be avoided.
 
 We suggest the following for selecting which method is best.
 <ol>
@@ -75,16 +85,23 @@ We suggest the following for selecting which method is best.
 </ul>
 &nbsp;
 
-<strong>Plot size</strong>. As a minimum, this should be the smallest area which makes it possible to recognise the ecosystem or habitat type. Even though rules have been developed over several decades for minimal areas of vegetation types in the context of phytosociology (e.g. Mueller-Dombois &amp; Ellenberg, 1974), no set rules have emerged for wider use. A reasonable plot size depends on the organism size, the research question, and the focal response variables, and can range from a few square centimetres to hectares. Here is a list of things to consider:
+<strong>Plot size</strong>. As a minimum, this should be the smallest area which makes it possible to recognise the ecosystem or habitat type. 
+Even though rules have been developed over several decades for minimal areas of vegetation types in the context of phytosociology (e.g. Mueller-Dombois &amp; Ellenberg, 1974), no set rules have emerged for wider use. 
+A reasonable plot size depends on the organism size, the research question, and the focal response variables, and can range from a few square centimetres to hectares. 
+Here is a list of things to consider:
 <ul>
  	<li style="list-style-type: none">
 <ul>
  	<li style="list-style-type: none">
 <ul>
- 	<li>Larger individual constituent plants (e.g. trees) require larger plots, whereas small or fine-scaled organisms (e.g. bryophytes or grasses) require smaller plots. At the very least, a plot should contain several individuals.</li>
- 	<li>Plots should neither be so small as to miss frequent species altogether, nor so large that it becomes easy to overlook occasional or rare species. This implies differently-sized plots for different organisms and habitats, ranging from tens-of-centimetre scales for small-statured organisms and fine-scaled habitats (bryophytes, small vascular plants, low-productive grasslands, tundra, mire structures) via approximately metre-scaled plots (more productive grasslands, heathlands, forest understorey) to tens of metres (trees, forest).</li>
+ 	<li>Larger individual constituent plants (e.g. trees) require larger plots, whereas small or fine-scaled organisms (e.g. bryophytes or grasses) require smaller plots. 
+ 	At the very least, a plot should contain several individuals.</li>
+ 	<li>Plots should neither be so small as to miss frequent species altogether, nor so large that it becomes easy to overlook occasional or rare species. 
+ 	This implies differently-sized plots for different organisms and habitats, ranging from tens-of-centimetre scales for small-statured organisms and fine-scaled habitats (bryophytes, small vascular plants, low-productive grasslands, tundra, mire structures) via approximately metre-scaled plots (more productive grasslands, heathlands, forest understorey) to tens of metres (trees, forest).</li>
  	<li>Plot size should not exceed treatment area and there should ideally be a buffer zone (an area around the edge which is treated but not recorded).</li>
- 	<li>If the plot size is large compared to the constituent individuals, it may be helpful to record community data in subplots (Figure 4.8.1) by dividing the whole plot up and either recording all subplots or by taking a randomly assigned subset. Subplot analyses can also be useful if there are likely (and potentially interesting) edge effects in the experiment, or if particular species groups or life-history stages differ considerably in size and spatial structure – in this case not all life-stages are recorded at all sampling scales (see Vandvik, 2004). Patterns can be captured more consistently by averaging over several subplots, i.e. using smaller subplots spread over the area, than by using a single large subplot of equivalent total area (Green, 1979).</li>
+ 	<li>If the plot size is large compared to the constituent individuals, it may be helpful to record community data in subplots (Figure 4.8.1) by dividing the whole plot up and either recording all subplots or by taking a randomly assigned subset. 
+ 	Subplot analyses can also be useful if there are likely (and potentially interesting) edge effects in the experiment, or if particular species groups or life-history stages differ considerably in size and spatial structure – in this case not all life-stages are recorded at all sampling scales (see Vandvik, 2004). 
+ 	Patterns can be captured more consistently by averaging over several subplots, i.e. using smaller subplots spread over the area, than by using a single large subplot of equivalent total area (Green, 1979).</li>
 </ul>
 </li>
 </ul>
@@ -92,27 +109,56 @@ We suggest the following for selecting which method is best.
 </ul>
 &nbsp;
 
-<strong>Co-variables</strong>. The research question and habitat type will determine the taxonomic sub-group(s) of interest (e.g. vascular plants, cryptograms) and these should be separated to the species level. However, at a minimum, all other sub-groups should be measured at an aggregated level along with additional variables explaining the plot structure. Such variables may include the cover (or pin-point hits) of various forms of substrate (e.g. rocks, bare soil), litter, or animal faeces. Grazing or other disturbance of the plot (e.g. trampling, rodent nesting) should also be noted.
+<strong>Co-variables</strong>. The research question and habitat type will determine the taxonomic sub-group(s) of interest (e.g. vascular plants, cryptograms) and these should be separated to the species level. 
+However, at a minimum, all other sub-groups should be measured at an aggregated level along with additional variables explaining the plot structure. 
+Such variables may include the cover (or pin-point hits) of various forms of substrate (e.g. rocks, bare soil), litter, or animal faeces. 
+Grazing or other disturbance of the plot (e.g. trampling, rodent nesting) should also be noted.
 
-The height of the vegetation should be measured, becaused it can be used to estimate biomass (<a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). It can be difficult to measure the ‘average’ vegetation height, so there are some options depending on your vegetation type (see Stewart et al., 2001). In direct measurement, there needs to be a predetermined method for deciding what height you are trying to measure – the very tallest, the highest leaf, or the height of a fixed percentage of the biomass. We reccomend ignoring extruding flowering stems, instead taking the highest leaf, and measure several subpoints per plot. Otherwise employ a ‘floating disc’ – a circular plastic disc with a small circular hole in the centre. A cylindrical stick marked up with centimets (or millimetres depending on the vegetation height) is placed in the middle of the plot and the disc slipped over the top and dropped down. The disc should be heavy enough to press down extruding strands of grass but not enough to leave a permanent mark in the vegetation. The floating disc method works best in taller vegetation (Stewart et al., 2001).
+The height of the vegetation should be measured, becaused it can be used to estimate biomass (<a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). 
+It can be difficult to measure the ‘average’ vegetation height, so there are some options depending on your vegetation type (see Stewart et al., 2001). 
+In direct measurement, there needs to be a predetermined method for deciding what height you are trying to measure – the very tallest, the highest leaf, or the height of a fixed percentage of the biomass. 
+We reccomend ignoring extruding flowering stems, instead taking the highest leaf, and measure several subpoints per plot. 
+Otherwise employ a ‘floating disc’ – a circular plastic disc with a small circular hole in the centre. 
+A cylindrical stick marked up with centimets (or millimetres depending on the vegetation height) is placed in the middle of the plot and the disc slipped over the top and dropped down. 
+The disc should be heavy enough to press down extruding strands of grass but not enough to leave a permanent mark in the vegetation. 
+The floating disc method works best in taller vegetation (Stewart et al., 2001).
 
-For studies where finer-scale patterns or species dynamics are of interest, life stages of plant species can be recorded. For example, seedling count or reproductive status give information about recruitment and reproduction, although these are more thoroughly covered in the plant population dynamics section (<a href="http://climexhandbook.w.uib.no/2019/11/04/plant-demography/">see protocol 4.3 Plant demography</a>).
+For studies where finer-scale patterns or species dynamics are of interest, life stages of plant species can be recorded. 
+For example, seedling count or reproductive status give information about recruitment and reproduction, although these are more thoroughly covered in the plant population dynamics section (<a href="http://climexhandbook.w.uib.no/2019/11/04/plant-demography/">see protocol 4.3 Plant demography</a>).
 
 &nbsp;
 
-<strong>Timing</strong>. All methods should be carried out during the peak growing season to derive a complete understanding about which species dominate the growth and which species play a role in peak growing season interactions. The plant community assessment can be aligned with estimation of aboveground biomass (<a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). Depending on both the study question and the vegetation type, two assessments per year may be needed to cover the whole species diversity, for example one in spring and one in early summer in deciduous woodland with many spring geophytes, or in surveys where demography such as life-history stages are recorded (e.g. seedlings, sterile, fertile individuals, <a href="http://climexhandbook.w.uib.no/2019/11/04/plant-demography/">see protocol 4.3 Plant demography</a>). Additional assessments can be conducted earlier and later than peak growing season if within-year dynamics are of interest. For instance, in mixed prairies of the US, peak growing season differs for the co-dominant C<sub>3</sub> and C<sub>4</sub> plant residents, meaning single sampling dates may bias compositional estimates (Ode et al., 1980).
+<strong>Timing</strong>. All methods should be carried out during the peak growing season to derive a complete understanding about which species dominate the growth and which species play a role in peak growing season interactions. 
+The plant community assessment can be aligned with estimation of aboveground biomass (<a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). 
+Depending on both the study question and the vegetation type, two assessments per year may be needed to cover the whole species diversity, for example one in spring and one in early summer in deciduous woodland with many spring geophytes, or in surveys where demography such as life-history stages are recorded (e.g. seedlings, sterile, fertile individuals, <a href="http://climexhandbook.w.uib.no/2019/11/04/plant-demography/">see protocol 4.3 Plant demography</a>). 
+Additional assessments can be conducted earlier and later than peak growing season if within-year dynamics are of interest. For instance, in mixed prairies of the US, peak growing season differs for the co-dominant C<sub>3</sub> and C<sub>4</sub> plant residents, meaning single sampling dates may bias compositional estimates (Ode et al., 1980).
 
 &nbsp;
 
 <strong><em>Visual estimation of species cover</em></strong>
 
-Visual estimation of cover, for example percent cover, is most commonly used in mesic and productive grassland systems, for small plots at ground layer in forests, and in dwarf-shrub systems. Percent cover captures whole-plot species composition, thus making this technique suitable for studies where the presence of rare species is of interest.
+Visual estimation of cover, for example percent cover, is most commonly used in mesic and productive grassland systems, for small plots at ground layer in forests, and in dwarf-shrub systems. 
+Percent cover captures whole-plot species composition, thus making this technique suitable for studies where the presence of rare species is of interest.
 
-The percent cover of each vascular plant species is estimated visually, usually at peak growing season. All species whose canopy intersects with permanently marked plots should be captured both as species presence and species’ occupied space. Percent cover is the vertical projection of each species onto an imagined two-dimensional plane that is parallel to the ground, taking into account all aboveground plant parts. Thus, the total plot cover can reach more than 100%, allowing for overlapping plants within the canopy, and the cover can include both species rooted inside and outside the plot boundary. In addition, we advise that you estimate the percent cover of surface substrate types (bare soil and/or bare rock) and litter: record only the substrate which is visible when looking directly through the vegetation from above.
+The percent cover of each vascular plant species is estimated visually, usually at peak growing season. 
+All species whose canopy intersects with permanently marked plots should be captured both as species presence and species’ occupied space. 
+Percent cover is the vertical projection of each species onto an imagined two-dimensional plane that is parallel to the ground, taking into account all aboveground plant parts. 
+Thus, the total plot cover can reach more than 100%, allowing for overlapping plants within the canopy, and the cover can include both species rooted inside and outside the plot boundary. 
+In addition, we advise that you estimate the percent cover of surface substrate types (bare soil and/or bare rock) and litter: record only the substrate which is visible when looking directly through the vegetation from above.
 
-Estimation in categories may save time relative to pseudo-exact cover-estimates, and for decades, categorical scales such as decimal (Londo, 1975) and coarser estimates (e.g. DAFOR or DOMIN scales, Braun-Blanquet, 1964) have been used. Presence measures over several subplots is another useful compromise if it is not possible to perform percent cover calibration between several observers but rare species are of interest (and therefore point-quadrat is not appropriate). However, we recommend that percent cover is estimated directly, at as fine a resolution as possible, because continuous data have better analytical properties and it increases the potential to be used in cross-study analyses − it is easier to convert from a more detailed scale to a less detailed one than the other way round. Direct estimation of percent cover has the advantage that it allows translation to continuous numeric values for further analysis, even though the error around estimates can be high (particularly in mid-range values, 25−75%). A conversion table for Londo and other common abundance-class measurements to fixed percent cover points is found in Annex 1 of the ICP Forests vegetation sampling protocol (Canullo et al., 2016): note that scale data should still be analysed as non-continuous data even after conversion to percentages. While it is difficult to estimate cover precisely, we present techniques in the next paragraph to guide estimations and increase data quality.
+Estimation in categories may save time relative to pseudo-exact cover-estimates, and for decades, categorical scales such as decimal (Londo, 1975) and coarser estimates (e.g. DAFOR or DOMIN scales, Braun-Blanquet, 1964) have been used. 
+Presence measures over several subplots is another useful compromise if it is not possible to perform percent cover calibration between several observers but rare species are of interest (and therefore point-quadrat is not appropriate). 
+However, we recommend that percent cover is estimated directly, at as fine a resolution as possible, because continuous data have better analytical properties and it increases the potential to be used in cross-study analyses − it is easier to convert from a more detailed scale to a less detailed one than the other way round. 
+Direct estimation of percent cover has the advantage that it allows translation to continuous numeric values for further analysis, even though the error around estimates can be high (particularly in mid-range values, 25−75%). 
+A conversion table for Londo and other common abundance-class measurements to fixed percent cover points is found in Annex 1 of the ICP Forests vegetation sampling protocol (Canullo et al., 2016): note that scale data should still be analysed as non-continuous data even after conversion to percentages. 
+While it is difficult to estimate cover precisely, we present techniques in the next paragraph to guide estimations and increase data quality.
 
-Several techniques are available for reducing error rates in direct percent cover estimation. Practice and cross-referencing with an external reference and across field workers is key. Printed shapes of known area can be used as guides to visual area estimation (Figure 4.8.1b). Some studies maintain a full integer percentage scale but use 0.1 or “present” for items below 1% cover (Vandvik et al., 2020). Subplots can be used to guide the estimation, for example, in a quadrat with a 5 x 5 grid of subplots, each subplot will represent 4% area (Figure 4.8.1a). Subplots can also be useful for collecting additional data such as fine-scale spatial distribution, species co-occurrence at the fine scale, and various kinds of frequency data, and they may be useful for downstream data checking and corrections. For example, a species occurring in only one subplot cannot have greater cover than the percent of the plot occupied by one subplot. There are examples of what different amounts of cover look like at https://cnps.org/wp-content/uploads/2018/03/percent_cover_diag-cnps.pdf and a worked example of percent cover calculated from a photograph in Chen et al. (2010).
+Several techniques are available for reducing error rates in direct percent cover estimation. 
+Practice and cross-referencing with an external reference and across field workers is key. 
+Printed shapes of known area can be used as guides to visual area estimation (Figure 4.8.1b). Some studies maintain a full integer percentage scale but use 0.1 or “present” for items below 1% cover (Vandvik et al., 2020). Subplots can be used to guide the estimation, for example, in a quadrat with a 5 x 5 grid of subplots, each subplot will represent 4% area (Figure 4.8.1a). 
+Subplots can also be useful for collecting additional data such as fine-scale spatial distribution, species co-occurrence at the fine scale, and various kinds of frequency data, and they may be useful for downstream data checking and corrections. 
+For example, a species occurring in only one subplot cannot have greater cover than the percent of the plot occupied by one subplot. 
+There are examples of what different amounts of cover look like at https://cnps.org/wp-content/uploads/2018/03/percent_cover_diag-cnps.pdf and a worked example of percent cover calculated from a photograph in Chen et al. (2010).
 <table width="624">
 <tbody>
 <tr>
@@ -125,17 +171,28 @@ Several techniques are available for reducing error rates in direct percent cove
 </tr>
 </tbody>
 </table>
-Control plots are very important for data quality control in plant compositional measurements. The species turnover might vary between treatments but is not expected to be large between years for control plots and is therefore a source of information about overlooked or misidentified species. Finally, if species are hard to identify when only vegetative organs are present, a record of their reproductive status gives an indication of the reliability of the identification, which can then be cross-referenced to a year when that species was observed with reproductive organs.
+Control plots are very important for data quality control in plant compositional measurements. 
+The species turnover might vary between treatments but is not expected to be large between years for control plots and is therefore a source of information about overlooked or misidentified species. 
+Finally, if species are hard to identify when only vegetative organs are present, a record of their reproductive status gives an indication of the reliability of the identification, which can then be cross-referenced to a year when that species was observed with reproductive organs.
 
 <strong> </strong>
 
 <strong><em>Point-intercept method</em></strong>
 
-The point-intercept method is primarily used to measure plant cover, but it can indirectly quantify plant frequency and total aboveground biomass (Jonasson, 1988; <a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). It is suited for studies focused on the more common species within a community, where the leaf area index (LAI) is greater than one, or where 3D space occupancy of plant species is of interest. One benefit of the point-intercept method is that it can be used to aggregate the cover of different species – in visual estimation of percent cover, vertical overlap of individuals within a species cannot be accounted for when aggregating data into groups at the analysis stage.
+The point-intercept method is primarily used to measure plant cover, but it can indirectly quantify plant frequency and total aboveground biomass (Jonasson, 1988; <a href="http://climexhandbook.w.uib.no/2019/11/06/aboveground-plant-biomass/">see protocol 2.1.1 Aboveground plant biomass</a>). 
+It is suited for studies focused on the more common species within a community, where the leaf area index (LAI) is greater than one, or where 3D space occupancy of plant species is of interest. 
+One benefit of the point-intercept method is that it can be used to aggregate the cover of different species – in visual estimation of percent cover, vertical overlap of individuals within a species cannot be accounted for when aggregating data into groups at the analysis stage.
 
-Where accurate estimates of the dominant species within a given community are more relevant to the research question, the point-intercept method can be a less subjective approach than percent cover (Ferris-Kaan &amp; Patterson, 1992; Traxler, 1997; Bonham, 2013). This is because potential observer bias is reduced as quantification is more objective (a plant is touched by the pin or not). Furthermore, all plants touched by the pin must be identified so it may be less likely that inconspicuous individuals are overlooked. As a result, however, the technique often misses rare species, particularly where point frequency is low. The point-intercept method is preferred when the recording team is inexperienced or is large, but experienced botanists may find that this method uses more time compared to the percent cover method, particularly if there are few hard-to-recognise species in their system.
+Where accurate estimates of the dominant species within a given community are more relevant to the research question, the point-intercept method can be a less subjective approach than percent cover (Ferris-Kaan &amp; Patterson, 1992; Traxler, 1997; Bonham, 2013). 
+This is because potential observer bias is reduced as quantification is more objective (a plant is touched by the pin or not). 
+Furthermore, all plants touched by the pin must be identified so it may be less likely that inconspicuous individuals are overlooked. 
+As a result, however, the technique often misses rare species, particularly where point frequency is low. 
+The point-intercept method is preferred when the recording team is inexperienced or is large, but experienced botanists may find that this method uses more time compared to the percent cover method, particularly if there are few hard-to-recognise species in their system.
 
-The technique works by lowering a pin vertically into the vegetation at a predetermined point, either on a grid (Pauli et al., 2015) or along a transect (INCREASE, 2014), and the identification of each plant touched by the pin on its route to the ground is noted. The GLORIA project (Pauli et al., 2015) uses a knitting needle (approx. 30 cm) of 2 mm diameter, while longer pins are needed in taller vegetation (see Figure 4.8.2). Multiple hits of the same species are recorded, in addition to its life stage (alive/dead). The point at which the pin is lowered is predetermined to reduce bias and allow for accurate resurveying. Cover is expressed as the total number of hits per species as a proportion of the total number of pin measurements. The number of pins needed for adequate cover estimations is large (Ferris-Kaan &amp; Patterson, 1992; Traxler, 1997; Bonham, 2013): the GLORIA project uses 100 points per 1m<sup>2</sup> plot while the INCREASE project uses 300 points distributed along transects up to 4 m (INCREASE, 2014).
+The technique works by lowering a pin vertically into the vegetation at a predetermined point, either on a grid (Pauli et al., 2015) or along a transect (INCREASE, 2014), and the identification of each plant touched by the pin on its route to the ground is noted. 
+The GLORIA project (Pauli et al., 2015) uses a knitting needle (approx. 30 cm) of 2 mm diameter, while longer pins are needed in taller vegetation (see Figure 4.8.2). 
+Multiple hits of the same species are recorded, in addition to its life stage (alive/dead). The point at which the pin is lowered is predetermined to reduce bias and allow for accurate resurveying. 
+Cover is expressed as the total number of hits per species as a proportion of the total number of pin measurements. The number of pins needed for adequate cover estimations is large (Ferris-Kaan &amp; Patterson, 1992; Traxler, 1997; Bonham, 2013): the GLORIA project uses 100 points per 1m<sup>2</sup> plot while the INCREASE project uses 300 points distributed along transects up to 4 m (INCREASE, 2014).
 <table style="width: 100%">
 <tbody>
 <tr>
@@ -151,15 +208,23 @@ The technique works by lowering a pin vertically into the vegetation at a predet
 
 <strong><em>Direct estimation of number of individuals per species</em></strong>
 
-Recording abundance by number of individuals (i.e. stem density) is most often used in forests where individuals are distinct (although this can be effectively combined with cover estimates of all species at multiple strata, e.g. herb layer, shrub layer, canopy layer; see Peet et al., 1998) or in systems where vegetation is sparse (e.g. deserts, annual plant communities). A nominal scale of species abundance may be more suitable when the number of individuals varies by several orders of magnitude. Occurrence is then classed into 1−10, 10−100, 100−1000, or &gt;1000 individuals present. It is important to understand the life cycle of all of the species in order to decide whether to count ramets (distinct stems) or genets (distinct genetic individuals; <a href="http://climexhandbook.w.uib.no/2019/11/04/seed-viability-germinability-and-dormancy/">see protocol 4.2 Plant demography</a>). Individual count measurements are usually combined with some kind of individual size data.
+Recording abundance by number of individuals (i.e. stem density) is most often used in forests where individuals are distinct (although this can be effectively combined with cover estimates of all species at multiple strata, e.g. herb layer, shrub layer, canopy layer; see Peet et al., 1998) or in systems where vegetation is sparse (e.g. deserts, annual plant communities). 
+A nominal scale of species abundance may be more suitable when the number of individuals varies by several orders of magnitude. 
+Occurrence is then classed into 1−10, 10−100, 100−1000, or &gt;1000 individuals present. 
+It is important to understand the life cycle of all of the species in order to decide whether to count ramets (distinct stems) or genets (distinct genetic individuals; <a href="http://climexhandbook.w.uib.no/2019/11/04/seed-viability-germinability-and-dormancy/">see protocol 4.2 Plant demography</a>). 
+Individual count measurements are usually combined with some kind of individual size data.
 
 &nbsp;
 
 <strong><em>Indices calculated from raw compositional data</em></strong>
 
-Species compositional data can be used to extract species presence for presence/absence analyses such as species richness (count data), while abundance allows for calculation of a wider variety of indices, such as community weighted trait means (Funk et al., 2017; see next paragraph), beta-diversity (Chao et al., 2005), species diversity (e.g. Shannon index), and evenness (Hill, 1973; Smith &amp; Wilson, 1996). The choice of the most appropriate diversity index is dependent on the question and often a matter of quite some discussion in the ecological community: Magurran (2003) provides detailed guidance on this. Additionally, calculating relative abundances (as opposed to absolute abundance) allows for comparison of dominance patterns in plots that differ in productivity (Heckman et al., 2017).
+Species compositional data can be used to extract species presence for presence/absence analyses such as species richness (count data), while abundance allows for calculation of a wider variety of indices, such as community weighted trait means (Funk et al., 2017; see next paragraph), beta-diversity (Chao et al., 2005), species diversity (e.g. Shannon index), and evenness (Hill, 1973; Smith &amp; Wilson, 1996). 
+The choice of the most appropriate diversity index is dependent on the question and often a matter of quite some discussion in the ecological community: Magurran (2003) provides detailed guidance on this. 
+Additionally, calculating relative abundances (as opposed to absolute abundance) allows for comparison of dominance patterns in plots that differ in productivity (Heckman et al., 2017).
 
-Plant community compositional data can be combined with continuous numerical trait values to give mean trait values for plots, which are currently a popular way to compare ecological function between treatments and between sites or even different ecosystems. In Europe, species indicator values (a “soft” trait, i.e. not one which is physiologically established and non-plastic) are often applied to compare the environment of plots or subplots (examples of the lists of indicator values include Ellenberg et al., 1991; Landolt et al., 2010; for reviews of the utility of indicator values see Zeleny &amp; Schaffers, 2012; Diekmann, 2003). The trait value for each species is multiplied by the percent cover for that species (or added if presence/absence data are used), then all the totals are added together and divided by the sum of all the percent cover values for the plot to obtain a mean plot value called a community-weighted mean (<a href="http://climexhandbook.w.uib.no/2019/11/04/functional-traits/">see protocol 4.16 Functional traits</a>; Funk et al., 2017). Villéger et al. (2008) provide alternative weighted approaches for situations requiring categorical traits.
+Plant community compositional data can be combined with continuous numerical trait values to give mean trait values for plots, which are currently a popular way to compare ecological function between treatments and between sites or even different ecosystems. 
+In Europe, species indicator values (a “soft” trait, i.e. not one which is physiologically established and non-plastic) are often applied to compare the environment of plots or subplots (examples of the lists of indicator values include Ellenberg et al., 1991; Landolt et al., 2010; for reviews of the utility of indicator values see Zeleny &amp; Schaffers, 2012; Diekmann, 2003). 
+The trait value for each species is multiplied by the percent cover for that species (or added if presence/absence data are used), then all the totals are added together and divided by the sum of all the percent cover values for the plot to obtain a mean plot value called a community-weighted mean (<a href="http://climexhandbook.w.uib.no/2019/11/04/functional-traits/">see protocol 4.16 Functional traits</a>; Funk et al., 2017). Villéger et al. (2008) provide alternative weighted approaches for situations requiring categorical traits.
 
 &nbsp;
 
@@ -171,23 +236,38 @@ Bonham (2013), Ferris-Kaan &amp; Patterson (1992), Peet et al. (1998).
 <h4><strong>4.8.2 Special cases, emerging issues, and challenges</strong></h4>
 <strong><em>Accuracy of taxonomic identification</em></strong>
 
-Plants should be identified to species where possible and taxonomy should follow standard nomenclature. Ensuring that everyone working in the field uses a consistent set of plant names reduces the potential for error during data analysis. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al. 2013) are working lists of primarily vascular plants, and both are available as a R packages for data analysis: <em>Taxostand</em> (Cayuela et al., 2012) and <em>taxize</em> (Chamberlain &amp; Szöcs, 2013; Chamberlain et al., 2016).
+Plants should be identified to species where possible and taxonomy should follow standard nomenclature. 
+Ensuring that everyone working in the field uses a consistent set of plant names reduces the potential for error during data analysis. 
+The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al. 2013) are working lists of primarily vascular plants, and both are available as a R packages for data analysis: <em>Taxostand</em> (Cayuela et al., 2012) and <em>taxize</em> (Chamberlain &amp; Szöcs, 2013; Chamberlain et al., 2016).
 
-Where time or taxonomic knowledge is limited, or to answer different ecological questions, an estimation of plant functional group cover is taken. In this case, graminoids, non-leguminous forbs, leguminous forbs, bryophytes, shrubs, and trees are common groupings, and group cover can be estimated as described above for herbaceous systems. This information can also be inferred from full species composition.
+Where time or taxonomic knowledge is limited, or to answer different ecological questions, an estimation of plant functional group cover is taken. 
+In this case, graminoids, non-leguminous forbs, leguminous forbs, bryophytes, shrubs, and trees are common groupings, and group cover can be estimated as described above for herbaceous systems. 
+This information can also be inferred from full species composition.
 
 &nbsp;
 
 <strong><em>Observer bias and survey repeatability</em></strong>
 
-It is important to calibrate cover estimates of all recorders to reduce observer bias. It is ideal to have two or more recorders working together per plot, but as a minimum all recorders should calibrate their estimates at the start of the project or field season by separately analysing a set of the same plots and comparing their findings. This should be repeated, using new plots each time, until the estimates of all recorders are within predefined acceptable bounds. Recalibration throughout the field season is advised. Observer calibration is not as critical for the point-intercept method, but all recorders should thoroughly familiarise themselves with the protocol to avoid errors in sampling procedure (e.g. missing points within the point grid). As well as keeping a record of the observer for each plot, external data such as weather should be recorded as it has been shown to affect the quality of surveys (Burg et al., 2015).
+It is important to calibrate cover estimates of all recorders to reduce observer bias. 
+It is ideal to have two or more recorders working together per plot, but as a minimum all recorders should calibrate their estimates at the start of the project or field season by separately analysing a set of the same plots and comparing their findings. 
+This should be repeated, using new plots each time, until the estimates of all recorders are within predefined acceptable bounds. 
+Recalibration throughout the field season is advised. 
+Observer calibration is not as critical for the point-intercept method, but all recorders should thoroughly familiarise themselves with the protocol to avoid errors in sampling procedure (e.g. missing points within the point grid). 
+As well as keeping a record of the observer for each plot, external data such as weather should be recorded as it has been shown to affect the quality of surveys (Burg et al., 2015).
 
 <strong><em> </em></strong>
 
 <strong><em>Estimating the species pool of an experimental site</em></strong>
 
-The species pool around a long-term climate change experiment can influence plot level change in species composition over time. It can be useful to know how large the local species pool is to understand the heterogeneity in species diversity across an experimental site and to get estimates of so-called “dark diversity” (absent species; Pärtel et al. 2011). The ITEX species pool protocol outlines methods for quantifying the size and diversity of the species pool around long-term monitoring ecological plots.
+The species pool around a long-term climate change experiment can influence plot level change in species composition over time. 
+It can be useful to know how large the local species pool is to understand the heterogeneity in species diversity across an experimental site and to get estimates of so-called “dark diversity” (absent species; Pärtel et al. 2011). 
+The ITEX species pool protocol outlines methods for quantifying the size and diversity of the species pool around long-term monitoring ecological plots.
 
-All species in an area of 100 – 250 m radius around an experimental site are recorded (Figure 4.8.3). The sampling is started in the centre of the site recording all species in a 0.0625, 1 and 5m<sup>2</sup> radius. From there, all new species are recorded walking in larger and larger circles around the mid point (roughly 10 m apart). The location for the starting point and all new species are marked with a GPS, to get their distance from the centre. For more details on the method see Species pool protocol for the International Tundra Experiment Network (ITEX) (Rixen et al., 2019).
+All species in an area of 100 – 250 m radius around an experimental site are recorded (Figure 4.8.3). 
+The sampling is started in the centre of the site recording all species in a 0.0625, 1 and 5m<sup>2</sup> radius. 
+From there, all new species are recorded walking in larger and larger circles around the mid point (roughly 10 m apart). 
+The location for the starting point and all new species are marked with a GPS, to get their distance from the centre. 
+For more details on the method see Species pool protocol for the International Tundra Experiment Network (ITEX) (Rixen et al., 2019).
 
 [caption id="attachment_597" align="alignnone" width="943"]<img class="size-full wp-image-597" src="http://climexhandbook.w.uib.no/files/2019/11/4.8.3.png" alt="" width="943" height="629" /> <strong>Figure 4.8.3:</strong> Sampling scheme for collecting data on the regional species pool for a climate change experiment. Picture from Rixen et al. 2019.[/caption]
 
@@ -195,7 +275,13 @@ All species in an area of 100 – 250 m radius around an experimental site are r
 
 <strong><em>Species community data analysis</em></strong>
 
-Methods for analysis of vegetation compositional data vary: one of the most popular is ordination. Ordination reduces the complexity of the data to positions on one to several axes. It is a useful way to visualise the data and see which samples are similar in composition, and there are methods to relate this to environmental conditions (Borcard et al., 2018). Choice of ordination method depends on the underlying data structure and analytical aim, although there remain “strongly divergent” opinions on the usefulness of particular methods (Minchin &amp; Oksanen, 2015; see other papers within the same issue for defences of the various methods). Guidance for choosing amongst the parametric forms of ordination can be found in Chapter 5 of Jongman et al. (1995). For analytical packages offering ordination techniques, the vegan package in R (Oksanen et al., 2018) is the most widely used at this time and Canoco is also popular (Šmilauer &amp; Lepš, 2014). In both the visual estimation of percent cover and in the point-intercept method, the distribution of values for individual plants follows a non-normal distribution and should be analysed accordingly (Damgaard, 2009).
+Methods for analysis of vegetation compositional data vary: one of the most popular is ordination. 
+Ordination reduces the complexity of the data to positions on one to several axes. 
+It is a useful way to visualise the data and see which samples are similar in composition, and there are methods to relate this to environmental conditions (Borcard et al., 2018). 
+Choice of ordination method depends on the underlying data structure and analytical aim, although there remain “strongly divergent” opinions on the usefulness of particular methods (Minchin &amp; Oksanen, 2015; see other papers within the same issue for defences of the various methods). 
+Guidance for choosing amongst the parametric forms of ordination can be found in Chapter 5 of Jongman et al. (1995). 
+For analytical packages offering ordination techniques, the vegan package in R (Oksanen et al., 2018) is the most widely used at this time and Canoco is also popular (Šmilauer &amp; Lepš, 2014). 
+In both the visual estimation of percent cover and in the point-intercept method, the distribution of values for individual plants follows a non-normal distribution and should be analysed accordingly (Damgaard, 2009).
 
 &nbsp;
 
@@ -203,13 +289,19 @@ Methods for analysis of vegetation compositional data vary: one of the most popu
 
 <strong><em>Theory, significance, and large datasets</em></strong>
 
-Elmendorf et al. (2015) summarise and compare the outcomes of various warming experiments on plant community composition in tundra environments and consider the pros and cons of different methods. Peñuelas et al. (2013) compare and integrate climate-change effects at different levels of biological organisation from the genome to the region, including the community. Franklin et al. (2016) conceptually embed vegetation analysis and small-scale climate-manipulation experimentation within the different common types of environmental-change monitoring and modelling which together form our knowledge base for forecasting future landscapes.
+Elmendorf et al. (2015) summarise and compare the outcomes of various warming experiments on plant community composition in tundra environments and consider the pros and cons of different methods. 
+Peñuelas et al. (2013) compare and integrate climate-change effects at different levels of biological organisation from the genome to the region, including the community. 
+Franklin et al. (2016) conceptually embed vegetation analysis and small-scale climate-manipulation experimentation within the different common types of environmental-change monitoring and modelling which together form our knowledge base for forecasting future landscapes.
 
 &nbsp;
 
 <strong><em>More on methods and existing protocols</em></strong>
 
-Plant cover is described in depth in many of the climate-manipulation experiment protocols. We draw particular attention to the protocols from GLORIA (Pauli et al., 2015, pp. 38-43), SeedClim (Vandvik et al., 2020), and INCREASE (INCREASE, 2014, pp. 6-7) projects. Standardised illustrations of percent cover values are presented in Law et al. (2008, p22). Well-used protocols from distributed experiments other than climate manipulations include NutNet (at <a href="https://nutnet.umn.edu/exp_protocol">https://nutnet.umn.edu/exp_protocol</a>, section a) and the Herbivory Network. There are also a few protocols from large-scale monitoring networks which integrate field and canopy layer monitoring for forests within the same sampling system, of which ICP forests and the UK Environmental Change Network are two examples (Rodwell et al., 1996; UNECE ICP, 2016).
+Plant cover is described in depth in many of the climate-manipulation experiment protocols. 
+We draw particular attention to the protocols from GLORIA (Pauli et al., 2015, pp. 38-43), SeedClim (Vandvik et al., 2020), and INCREASE (INCREASE, 2014, pp. 6-7) projects. 
+Standardised illustrations of percent cover values are presented in Law et al. (2008, p22). 
+Well-used protocols from distributed experiments other than climate manipulations include NutNet (at <a href="https://nutnet.umn.edu/exp_protocol">https://nutnet.umn.edu/exp_protocol</a>, section a) and the Herbivory Network. 
+There are also a few protocols from large-scale monitoring networks which integrate field and canopy layer monitoring for forests within the same sampling system, of which ICP forests and the UK Environmental Change Network are two examples (Rodwell et al., 1996; UNECE ICP, 2016).
 
 &nbsp;
 
