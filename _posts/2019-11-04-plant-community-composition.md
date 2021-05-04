@@ -300,7 +300,7 @@ Franklin et al. (2016) conceptually embed vegetation analysis and small-scale cl
 Plant cover is described in depth in many of the climate-manipulation experiment protocols. 
 We draw particular attention to the protocols from GLORIA (Pauli et al., 2015, pp. 38-43), SeedClim (Vandvik et al., 2020), and INCREASE (INCREASE, 2014, pp. 6-7) projects. 
 Standardised illustrations of percent cover values are presented in Law et al. (2008, p22). 
-Well-used protocols from distributed experiments other than climate manipulations include HerbDivNet (Frazer, Jetnsch & Stenberg, 2014), NutNet (at <a href="https://nutnet.umn.edu/exp_protocol">https://nutnet.umn.edu/exp_protocol</a>, section a) and the Herbivory Network. 
+Well-used protocols from distributed experiments other than climate manipulations include HerbDivNet (Frazer et al., 2014), NutNet (at <a href="https://nutnet.umn.edu/exp_protocol">https://nutnet.umn.edu/exp_protocol</a>, section a) and the Herbivory Network. 
 There are also a few protocols from large-scale monitoring networks which integrate field and canopy layer monitoring for forests within the same sampling system, of which ICP forests and the UK Environmental Change Network are two examples (Rodwell et al., 1996; UNECE ICP, 2016).
 
 &nbsp;
