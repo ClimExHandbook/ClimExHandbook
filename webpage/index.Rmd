@@ -1,0 +1,14 @@
+---
+title: "ClimEx Handbook"
+author: Aud Halbritter
+description: Handbook for standardized measurments in Climate Change Experiments 
+site: bookdown::bookdown_site
+documentclass: book
+date: "`r Sys.Date()`"
+github-repo: ClimExHandbook/ClimExHandbook
+output:
+  bookdown::bs4_book:
+    css: "css/style-chapters.css"
+---
+
+# Introduction

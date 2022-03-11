@@ -1,0 +1,7 @@
+delete_merged_file: true
+new_session: true
+book_filename: "ClimEx Handbook"
+rmd_files:
+  - "index.Rmd"
+- "1_site-characteristics-and-data-management.md"
+- "2_optimising-the-study-design.md"
