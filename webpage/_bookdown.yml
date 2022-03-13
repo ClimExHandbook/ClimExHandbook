@@ -3,5 +3,21 @@ new_session: true
 book_filename: "ClimEx Handbook"
 rmd_files:
   - "index.Rmd"
-- "1_site-characteristics-and-data-management.md"
-- "2_optimising-the-study-design.md"
+  - "1_site-characteristics-and-data-management.Rmd"
+  - "11_optimising-the-study-design.Rmd"
+  - "12_geographical-location-and-basic-site-description.Rmd"
+  - "13_soil-type-and-physical-characteristics.Rmd"
+  - "14_soil-chemistry-and-nutrient-availability.Rmd"
+  - "15_meteorological-measurements.Rmd"
+  - "16_open-science-practice-reproducible-workflow-and-data-management.Rmd"
+
+  - "2_carbon-and-nutrient-cycling.Rmd"
+
+
+  - "3_water-cycling.Rmd"
+
+
+  - "4_species-and-interactions.Rmd"
+
+
+  - "5_stress-physiology.Rmd"
