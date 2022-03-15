@@ -20,10 +20,14 @@ data/
 
 #figures & output
 *.png
-*.html
+#*.html
 *.jpeg
 *.md
 *.ai
 
 # Mac
 *.DS_Store
+
+# folders
+*_posts/
+
