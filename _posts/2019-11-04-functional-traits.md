@@ -17,7 +17,7 @@ post_date: 2019-11-04 01:00:14
 
 Trait-based ecology has seen a steady rise in recent decades by helping explain patterns of how organisms affect and mediate ecosystem processes and functioning (Violle et al., 2007; de Bello et al., 2010). Functional traits are morphological, physiological, or phenological features measurable at the individual level that link an individual’s performance to its biotic and abiotic environment (Webb et al., 2010). Plant functional traits are particularly well-studied and traits such as relative growth rate, leaf stoichiometry, and photosynthetic rate can yield mechanistic insights into demographics, species interactions, and ecosystem processes (Wright et al., 2004; Pérez-Harguindeguy et al., 2013; Díaz et al., 2016). Incorporating traits into climate-change studies can greatly increase our ability to understand how plants and other organisms mediate changes to both the physical and biotic environment.
 
-Pérez-Harguindeguy et al. (2013) compiled an extensive overview with protocols for measuring plant traits and we do not replicate that effort here. Rather, we discuss how traits should be incorporated into climate-change studies, highlight traits that are most likely to be useful (Table 4.16.1), and direct readers to the handbook by Pérez-Harguindeguy et al. (2013) for instructions on how to measure them. Although we focus on climate-change studies in this protocol, many of the traits mentioned in this section are also relevant for other global-change studies on topics such as land-use change (Garnier et al., 2006), invasive plants (Drenovsky et al., 2012), and disturbance (Mouillot et al., 2013). While the trait handbook gives a broad coverage, there are potentially important suites of traits that are not covered here, for example floral traits important for pollination (see Hegland &amp; Totland, 2005; Pellissier et al., 2010). and plant modularity (Klimešová et al., 2019). We also encourage readers to consult the stress physiology section, which provides protocols for additional growth- and stress response-related plant traits that are highly relevant to global-change studies (see Chapter S5). We also provide a short overview of trait ecology and databases for other organisms than plants (see below).
+Pérez-Harguindeguy et al. (2013) compiled an extensive overview with protocols for measuring plant traits and we do not replicate that effort here. Rather, we discuss how traits should be incorporated into climate-change studies, highlight traits that are most likely to be useful (Table 4.16.1), and direct readers to the handbook by Pérez-Harguindeguy et al. (2013) for instructions on how to measure them. Although we focus on climate-change studies in this protocol, many of the traits mentioned in this section are also relevant for other global-change studies on topics such as land-use change (Garnier et al., 2006), invasive plants (Drenovsky et al., 2012), and disturbance (Mouillot et al., 2013; Wiglet et al. 2021). While the trait handbook gives a broad coverage, there are potentially important suites of traits that are not covered here, for example floral traits important for pollination (see Hegland &amp; Totland, 2005; Pellissier et al., 2010). and plant modularity (Klimešová et al., 2019). We also encourage readers to consult the stress physiology section, which provides protocols for additional growth- and stress response-related plant traits that are highly relevant to global-change studies (see Chapter S5). We also provide a short overview of trait ecology and databases for other organisms than plants (see below).
 
 Traits can be broadly partitioned into two groups: <em>response traits</em> that relate to how community structure and diversity are affected by environmental factors and <em>effect traits</em> that drive changes in ecosystem functioning (Lavorel &amp; Garnier, 2002; Suding et al., 2008; Funk et al., 2017). Often traits can fall into either category, with the focus of the study defining how they are used. Response traits facilitate predictions of how communities will change with climate change and can be studied both through extant communities along climatic gradients (Guittar et al., 2016) and as species turnover from climate-change experiments (Hudson et al., 2011). Effect traits facilitate an improved understanding of the underlying processes of ecosystems properties such as carbon and water dynamics (Pappas et al., 2016). Combined, trait-based approaches can lead to important insights of the causes and consequences of changing plant communities in response to climate-change and other global-change factors.
 
@@ -47,13 +47,17 @@ The most common metric used in trait-based studies is the community weighted mea
 
 <strong><em>Where to start</em></strong>
 
-Enquist et al. (2015), Funk et al. (2017), Pérez-Harguindeguy et al. (2013), Violle et al. (2012)
+Enquist et al. (2015), Funk et al. (2017), Pérez-Harguindeguy et al. (2013), Violle et al. (2012), Wigley et al. (2021)
 
 <strong> </strong>
 <h4><strong>4.16.2 Special cases, emerging issues, and challenges</strong></h4>
+All ecosystems have different challenges, and hence the importance of different traits vary between ecosystems. Open ecosystems such as grasslands, savannas, open woodlands and shrublands are often exposed to disturbances such as herbivory, fires and drought. To understand how climate change affects these systems, several traits that were not present in the Pérez-Harguindeguy et al. (2013) handbook were useful, and Wigley et al. (2021) gather tham all in a handbook for trait measurements in open ecosystems.  
+
 Currently, existing trait protocols and databases for plants do not include cryptogams. Nonetheless, there have been advances in developing trait protocols for cryptogams such as bryophytes and lichens (Cornelissen et al., 2007; St. Martin &amp; Mallik, 2017) and soil crusts (Mallen-Cooper &amp; Eldridge, 2016). While no large database has been developed, there have been renewed calls for the integration of cryptogram trait ecology into plant-based trait studies (Deane‐Coe &amp; Stanton, 2017; St. Martin &amp; Mallik, 2017).
 
 Trait-based ecology has proliferated in many non-plant taxa as well, offering substantial value to climate-change studies. However, given the increased trait specialisation across and within the other organismal domains, we do not cover any other taxa in detail here. Considerations of response and effect traits and inter- and intra-specific variability also apply to non-plant taxa. The availability of trait databases is highly variable across guilds of species and include the PanTHERIA database for mammals (Jones et al., 2009), an amniote database for birds, reptiles, and mammals (Myhrvold et al., 2015), the GlobalAnts database that includes both abundance and trait data linked to local assemblages (Parr et al., 2017), and the FUNGuild database which has begun classifying fungal operational taxonomic units identified by high throughput sequencing into functional guilds (Nguyen et al., 2016). This is not a comprehensive list of trait databases (many databases exist for aquatic organisms), and regional scientific societies often curate their own such databases for a variety of organisms.
+
+Several studies have showed that traits vary through ontogeny (Gibert et al. 2016; Damián et al. 2018), and that seedling traits can be important in climate change studies linked to for example drought and warming (Harrison & LaForgia 2019). Using functional traits in the early life stages, and through ontogeny, is an emerging topic that could help give better predictions for effects of climate change on plant communities and ecosystems. Most of these traits are measured in the same way as for adults, following the same protocol (Pérez-Harguindeguy et al. 2013), althought the small size might make that difficult for some species at the earliest life stages.
 
 In line with the goal to make climate change experiments more compatible, data more available, and science more transparent, we encourage the same mentality with newly collected trait data. One opportunity is through the Open Traits Network (Gallagher et al., 2019), which fosters an international alliance of researchers and institutions working towards open data and workflows to improve the way we work with functional traits.
 
@@ -302,7 +306,7 @@ Bjorkman et al. (2018), Enquist et al. (2015), Jones et al. (2009), Kattge et al
 
 <strong><em>More on methods and existing protocols</em></strong>
 
-Klimešová et al (2019), Pérez-Harguindeguy et al. (2013)
+Klimešová et al (2019), Pérez-Harguindeguy et al. (2013), Wigley et al. (2021)
 
 &nbsp;
 
@@ -317,6 +321,8 @@ Breda, N. J. (2003). Ground‐based measurements of leaf area index: a review of
 Cordlandwehr, V., Meredith, R. L., Ozinga, W. A., Bekker, R. M., Groenendael, J. M., &amp; Bakker, J. P. (2013). Do plant traits retrieved from a database accurately predict on-site measurements? <em>Journal of Ecology</em>, <em>101</em>(3), 662-670.
 
 Cornelissen, J. H. C., Lang, S. I., Soudzilovskaia, N. A., &amp; During, H. J. (2007). Comparative cryptogam ecology: a review of bryophyte and lichen traits that drive biogeochemistry. <em>Annals of Botany</em>, <em>99</em>(5), 987-1001.
+
+Damián, X., Fornoni, J., Domínguez, C. A., & Boege, K. (2018). Ontogenetic changes in the phenotypic integration and modularity of leaf functional traits. <em>Functional Ecology</em>, <em>32</em>(2), 234-246.
 
 de Bello, F., Lavorel, S., Díaz, S., Harrington, R., Cornelissen, J. H. C., Bardgett, R. D., ... da Silva, P. M. (2010). Towards an assessment of multiple ecosystem processes and services via functional traits. <em>Biodiversity and Conservation</em>, <em>19</em>(10), 2873-2893.
 
@@ -338,7 +344,11 @@ Gallagher, R. V., Falster, D. S., Maitner, B. S., Salguero-Gomez, R., Vandvik, V
 
 Garnier, E., Lavorel, S., Ansquer, P., Castro, H., Cruz, P., Dolezal, J., ... Grigulis, K. (2006). Assessing the effects of land-use change on plant traits, communities and ecosystem functioning in grasslands: a standardized methodology and lessons from an application to 11 European sites. <em>Annals of Botany</em>, <em>99</em>(5), 967-985.
 
+Gibert, A., Gray, E. F., Westoby, M., Wright, I. J., & Falster, D. S. (2016). On the link between functional traits and growth rate: meta‐analysis shows effects change with plant size, as predicted. <em>Journal of Ecology</em>, <em>104</em>(5), 1488-1503.
+
 Guittar, J., Goldberg, D., Klanderud, K., Telford, R. J., &amp; Vandvik, V. (2016). Can trait patterns along gradients predict plant community responses to climate change? <em>Ecology</em>, <em>97</em>(10), 2791-2801.
+
+Harrison, S., & LaForgia, M. (2019). Seedling traits predict drought-induced mortality linked to diversity loss. <em>Proceedings of the National Academy of Sciences</em>, <em>116</em>(12), 5576-5581.
 
 Hegland, S. J., &amp; Totland, Ø. (2005). Relationships between species’ floral traits and pollinator visitation in a temperate grassland. <em>Oecologia</em>, <em>145</em>(4), 586-594.
 
@@ -385,6 +395,8 @@ Violle, C., Navas, M.-L., Vile, D., Kazakou, E., Fortunel, C., Hummel, I., &amp;
 Violle, C., Enquist, B. J., McGill, B. J., Jiang, L., Albert, C. H., Hulshof, C., ... Messier, J. (2012). The return of the variance: intraspecific variability in community ecology. <em>Trends in Ecology &amp; Evolution</em>, <em>27</em>(4), 244-252.
 
 Webb, C. T., Hoeting, J. A., Ames, G. M., Pyne, M. I., &amp; LeRoy Poff, N. (2010). A structured and dynamic framework to advance traits‐based theory and prediction in ecology. <em>Ecology Letters</em>, <em>13</em>(3), 267-283.
+
+Wigley, B. J., Charles-Dominique, T., Hempson, G. P., Stevens, N., TeBeest, M., Archibald, S., ... & Kruger, L. M. (2021). A handbook for the standardised sampling of plant functional traits in disturbance-prone ecosystems, with a focus on open ecosystems. <em>Australian Journal of Botany</em>, <em>68</em>(8), 473-531.
 
 Wright, I. J., Reich, P. B., Westoby, M., Ackerly, D. D., Baruch, Z., Bongers, F., ... Flexas, J. (2004). The worldwide leaf economics spectrum. <em>Nature</em>, <em>428</em>(6985), 821.
 
