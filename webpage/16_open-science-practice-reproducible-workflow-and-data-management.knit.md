@@ -14,6 +14,74 @@ Here we provide a list for how to correctly report study design, data analysis, 
 
 
 
+<table>
+<caption>(\#tab:reproting)Issues and guidance for how to correctly report study design, data analysis, and results from climate-change studies. Adapted from Hillbrand &amp; Gurevitch (2013), Haddaway &amp; Verhoeven (2015), and Gerstner et al. (2017).</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Guidance </th>
+   <th style="text-align:left;"> General </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;width: 10em; "> General </td>
+   <td style="text-align:left;font-style: italic;width: 10em; "> _Methodology_ </td>
+   <td style="text-align:left;"> Each study and dataset should be described in detail in a readme file, including a data dictionary and annotated dataset (Table 1.6.2; British Ecological Society, 2018). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;width: 10em; "> General </td>
+   <td style="text-align:left;font-style: italic;width: 10em; "> _Necessary meta-data provided_ </td>
+   <td style="text-align:left;"> Correctly report site characteristics: i.e. geographic location, elevation, vegetation type, soil physical and chemical properties, meteorological data (see protocols 1.2 - 1.5), and author information. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;width: 10em; "> General </td>
+   <td style="text-align:left;font-style: italic;width: 10em; "> _Data and study should be easy to find, and be accessible._ </td>
+   <td style="text-align:left;"> Results (including master theses, internal reports, etc.) should be publicly available. Data should be publicly available in a data repository. Funding bodies and journals are increasingly requiring this. Publications should have useful keywords and titles to enable them to be easily found. </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+**Study design**
+
+_Study design is reported in sufficient detail_
+
+The description of the study design should be thorough; parts of it can be reported in the appendix if there is limited space. Correctly report:
+
+●   start, end date, and duration of the study
+
+●   treatment factors, levels, and interactions, design structure, e.g. factorial, nested, hierarchical
+
+●   level of replication: number of sites, blocks, plots, and sub-plots; including selection and randomisation process at each level
+
+●   spatial scale: size of the study unit, distance between sites, populations
+
+●   type of data sampled (predictors and covariates), and sampling precision for each (including any within‐replicate sampling or pseudoreplication)
+
+●   sampling schedule: timing, frequency, including study design aspects such as treatment-control, before-after-control-impact, etc. (also see Table 1.1)
+
+●   description of the manipulated organism, population, or community should follow accepted taxonomic literature, e.g. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al., 2013) and national or international classification schemes.
+
+**Response variables, predictors, and covariates**
+
+_Measurements should be relevant, reproducible, and convertible_
+
+Follow established protocols, and guidance on which and how to measure predictors, response variables, and covariates. Report which protocols are used, and describe any adjustments that are made. Describe all variables fully and report in readme files, data dictionaries, and datasets. Measure useful covariates for synthesis and upscaling (see Table 2 in the main paper).
+
+**Data handling and analysis**
+
+_Data manipulation is described in sufficient detail_ _Comprehensive description of data analysis_       _Reproducible workflow_
+
+Each step of data manipulation should be described and explained and be repeatable and reproducible (British Ecological Society, 2017). Type of statistical tests used, response variables, covariates (explanatory factors) tested, posthoc or planned comparisons carried out, definition of statistical metrics if different from commonly accepted terms should be described. Statistical software, packages, and versions used need to be reported. The workflow from data manipulation, coding, analysing, and results output should be repeatable and reproducible (Lind 2013, British Ecological Society, 2017).
+
+**Results**
+
+_Units need to be reported_ _Raw data should be provided_   _Negative results should be reported_
+
+Units for each variable should be reported. Raw data or summary statistics with mean (or median), variation around the mean and sample size should be reported. Report negative results.
+
 
 
 
