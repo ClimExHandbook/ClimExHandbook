@@ -5,6 +5,9 @@
 # Session Data files
 .RData
 
+# Example code in package build process
+*-Ex.R
+
 # RStudio files
 .Rproj.user/
 
@@ -12,13 +15,19 @@
 .httr-oauth
 .Rproj.user
 
-# html outputs
-*.html
+#data
+data/
 
-#data (excludes everything in the folder data)
+#figures & output
+*.png
+#*.html
+*.jpeg
+*.md
+*.ai
 
+# Mac
+*.DS_Store
 
-# you can make exceptions for specific files
+# folders
+*_posts/
 
-
-#figures & output (excludes all figure files)

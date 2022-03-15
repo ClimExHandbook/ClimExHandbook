@@ -9,7 +9,7 @@ rmd_files:
   - "13_soil-type-and-physical-characteristics.Rmd"
   - "14_soil-chemistry-and-nutrient-availability.Rmd"
   - "15_meteorological-measurements.Rmd"
-  - "16_open-science-practice-reproducible-workflow-and-data-management.Rmd"
+  #- "16_open-science-practice-reproducible-workflow-and-data-management.Rmd"
 
   - "2_carbon-and-nutrient-cycling.Rmd"
 
