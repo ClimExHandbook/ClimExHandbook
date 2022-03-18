@@ -3,7 +3,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 library(tidyverse)
 library(kableExtra)
-
+library(gt)
 ```
 
 
@@ -44,54 +44,35 @@ In practice, many of these decisions will be affected by economic and data analy
 Similar considerations should be made for the sampling intervals. The frequency of the sampling will mainly depend on the temporal resolution of interest (annual variation, seasonal patterns, daily fluctuations) and also on whether manual sampling or automated loggers are used. If the data are used for modelling, it is important to consider the required temporal resolution of the model, which is often on a fine scale. For example, modelling of ecosystem gas exchange will require half-hourly to hourly climate data input. The calculation of some long-term variables such as seasonal temperature sums or daily maxima also requires relatively high-resolution data. Also here, rapid improvements in technology open up opportunities.
 
 ```{r checklist}
-
+    
 tribble(
     ~"Scale", ~"Question", ~"Guidance",
-    "Site (selection)", "What does the system represent?", "Sites should be placed within the limits of the relevant system, avoiding off-site effects when possible. Please note if former land use only affects part of the study area",
-    "", "Which environment, habitat, ecosystem, former and present land use?", "Blocks (or other study design features) should be chosen to capture within-site heterogeneity due to environmental or biotic variability, or off-site effects.",
-    "", "Are there any specific factors like off-site effects (run-off, shade, nutrient inputs etc.) to consider?", "",
-    "", "Single-site or multi-site study?", "**Single-site studies** are easier and cheaper to maintain, allowing resources to be spent on experimental factors and response variables.",
-    "", "Is the interest in the treatment effects per se, or across site comparisons of these effects?", "**Multiple-site studies** allow across site comparisons, but it is then important to consider your “outer design”, i.e. should sites be along gradients or replicates in similar environmental settings, how many replicates are needed (e.g. to fit a regression at site level), etc.",
-    "", "Are there other reasons for replicating across sites such as generality of the response, relevance across several systems etc.?", "Multi-site studies increase the costs and effort, but these also depend on the study and location of the different sites.",
-    "", "Are any **permits** necessary and contacts to ensure site sustainability?", "Obtain permits from the government and landowners well in advance.", 
-    "", "", "Ideally get permits beyond the funding period for potential extension of the study.", 
-    "", "Is any site-scale **maintenance** needed? Fencing, grazing, mowing?", "Building a fence and moving might need the agreement of the landowner.", 
-    "", "Any control needed for that?", "Calculate enough time and money for maintenance.", 
-    "", "", "If the site maintenance affects your responses, you might need (yet) another set of controls.", 
-    "", "What **site-scale data** are needed?", "Report all the information needed to situate your study in space, time, and in the relevant ecological context. If you have a heterogeneous system, you likely need more than one measuring point in space (horizontal and vertical) and time.",
-    "", "How many measurements are needed?", "Any variables affected by the experimental treatments need monitoring on a finer scale (see below)",
-    "", "", "Draw detailed maps of your study site with all blocks, plots, and installations clearly indicated",
-   "",  "", "Take pictures; they are essential to document study set-up and design, for data collection (e.g. relocating samples), and outreach, and can be useful for data quality checks.",
-   
-   "Within-site study design (blocks)", "How to ensure **sustainable site set-up**?", "The area should be large enough to accommodate the study, treatments and the necessary unmanipulated controls / sampling areas for site-level factors.",
-   "", "", "The site set-up should provide space (buffer area) to avoid contamination of for example treatments, and between blocks to carry out the measurements. In sensitive systems or when plots are small, consider installing boardwalks, etc. to minimise disturbance. A central pole supporting a ladder can be used in small plots to reach every point without touching the ground.",
-   "", "", "The potential observer effects should always be considered and can be reduced by minimising disturbance, i.e. sampling intensely but not at the expense of statistical power (De Boeck et al., 2008).",
-   "", "What **block-scale data** is needed?", "Any response, predictor or co-variable that will be used in statistical analyses should be measured at this scale, if at all possible. This maximises the statistical power of the analyses.",
-   "", "Is there space for **additional experiments and/or measurements**?", "Set aside areas for add-on measurements and project extensions - preferably within blocks, as that maximises opportunities for project integration.",
-   
-   "Within-block study design (plots)", "How to ensure **sustainability of studies in plot set-up**?", "Plots should be large enough to encompass the responses of interest, and thus have to match the study aim and study system. The plot size should also take into account the complexity and heterogeneity of the study system (De Boeck et al., 2015). Plots should be large enough for sensor installation and sampling.",
-   "", "Where are data measured permanently and where destructively?", "It is recommended to divide the plots into destructive and non-destructive sampling areas.",
-   "", "", "Permanently mark and map all plots and sub-areas within plots individually, and include back-up marking (e.g. buried metal nails, or similar) in case primary marking is lost. A standardised (systematic) marking and within-plot design regime is easier to relocate if lost.",
-   "", "What **plot-scale data** are needed?", "All variables that are **directly affected by a treatments** should be measured at the plot scale.",
-   "", "", "It is advisable to have different **control plots** that control for before-after treatment effects and control vs. impact during the experiment (Christie et al. 2019).",
-   "", "", "Pictures of the plots at each sampling date are useful as they document the data collection and can also provide various kinds of additional data.",
-   
-   "Within-plot study design (sub-plot, sample)", "Where are data measured **permanently** and where **destructively**?", "Sub-plots can be used for dividing plots into zones, for **destructive, non-destructive sampling**.",
-   "", "What **sub-plot data** are needed?", "",
-   "", "", "Sub-plots can also be used directly for sampling purposes, e.g. **frequency data** or mapping.",
-   "", "", "Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron.",
-   "", "", "Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared.",
-   "", "", "In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling."
-  ) |> 
-  kbl(booktabs = TRUE,
-      escape = FALSE,
-      caption = "Checklist of questions to ask and guidance when setting up a sustainable and multi-purpose climate-change study from site to sub-plot level.") %>%
-  column_spec(1, bold = TRUE) %>%
-  column_spec(2, italic = TRUE) %>%
-  #kable_paper("striped", full_width = F) %>%
-  #pack_rows("Site (selection)", 1, 5) |>
-  #pack_rows("Within-site study design (blocks)", 3, 3) |>
-  column_spec(1:2, width = "10em") 
+    
+    "**Site (selection)** <br><br> Figure 1.1A", "What does the system represent? <br><br> Which environment, habitat, ecosystem, former and present land use? <br><br> Are there any specific factors like off-site effects (run-off, shade, nutrient inputs etc.) to consider?", "Sites should be placed within the limits of the relevant system, avoiding off-site effects when possible. Please note if former land use only affects part of the study area <br><br> Blocks (or other study design features) should be chosen to capture within-site heterogeneity due to environmental or biotic variability, or off-site effects.",
+    
+    "", "Single-site or multi-site study? <br><br> Is the interest in the treatment effects per se, or across site comparisons of these effects? <br><br> Are there other reasons for replicating across sites such as generality of the response, relevance across several systems etc.?", "**Single-site studies** are easier and cheaper to maintain, allowing resources to be spent on experimental factors and response variables.  **Multiple-site studies** allow across site comparisons, but it is then important to consider your “outer design”, i.e. should sites be along gradients or replicates in similar environmental settings, how many replicates are needed (e.g. to fit a regression at site level), etc. <br><br> Multi-site studies increase the costs and effort, but these also depend on the study and location of the different sites.",
+    
+    "", "Are any **permits** necessary and contacts to ensure site sustainability?", "Obtain permits from the government and landowners well in advance.  Ideally get permits beyond the funding period for potential extension of the study.",
+    
+    "", "Is any site-scale **maintenance** needed? Fencing, grazing, mowing? <br><br> Any control needed for that?", "Building a fence and moving might need the agreement of the landowner. <br><br> Calculate enough time and money for maintenance. <br><br> If the site maintenance affects your responses, you might need (yet) another set of controls.",
+    
+     "", "What **site-scale data** are needed? <br><br> How many measurements are needed?", "Report all the information needed to situate your study in space, time, and in the relevant ecological context. If you have a heterogeneous system, you likely need more than one measuring point in space (horizontal and vertical) and time. <br><br> Any variables affected by the experimental treatments need monitoring on a finer scale (see below) <br><br> Draw detailed maps of your study site with all blocks, plots, and installations clearly indicated <br><br> Take pictures; they are essential to document study set-up and design, for data collection (e.g. relocating samples), and outreach, and can be useful for data quality checks.",
+    
+    
+    "**Within-site study design (blocks)** <br><br> Figure 1.1B", "How to ensure **sustainable site set-up**?", "The area should be large enough to accommodate the study, treatments and the necessary unmanipulated controls / sampling areas for site-level factors. <br><br> The site set-up should provide space (buffer area) to avoid contamination of for example treatments, and between blocks to carry out the measurements. In sensitive systems or when plots are small, consider installing boardwalks, etc. to minimise disturbance. A central pole supporting a ladder can be used in small plots to reach every point without touching the ground. <br><br> The potential observer effects should always be considered and can be reduced by minimising disturbance, i.e. sampling intensely but not at the expense of statistical power (De Boeck et al., 2008).",
+    
+    "", "What **block-scale data** is needed?", "Any response, predictor or co-variable that will be used in statistical analyses should be measured at this scale, if at all possible. This maximises the statistical power of the analyses.",
+    
+    "", "Is there space for **additional experiments and/or measurements**?", "Set aside areas for add-on measurements and project extensions - preferably within blocks, as that maximises opportunities for project integration.",
+    
+    
+    "**Within-block study design (plots)** <br><br> Figure 1.1C", "How to ensure **sustainability of studies in plot set-up**? <br><br> Where are data measured permanently and where destructively?", "Plots should be large enough to encompass the responses of interest, and thus have to match the study aim and study system. The plot size should also take into account the complexity and heterogeneity of the study system (De Boeck et al., 2015). Plots should be large enough for sensor installation and sampling. <br><br> It is recommended to divide the plots into destructive and non-destructive sampling areas. <br><br> Permanently mark and map all plots and sub-areas within plots individually, and include back-up marking (e.g. buried metal nails, or similar) in case primary marking is lost. A standardised (systematic) marking and within-plot design regime is easier to relocate if lost.",
+        "", "What **plot-scale data** are needed?", "All variables that are **directly affected by a treatments** should be measured at the plot scale. <br><br> It is advisable to have different **control plots** that control for before-after treatment effects and control vs. impact during the experiment (Christie et al. 2019). <br><br> Pictures of the plots at each sampling date are useful as they document the data collection and can also provide various kinds of additional data.",
+    
+    "**Within-plot study design (sub-plot, sample)** <br><br> Figure 1.1C", "Where are data measured **permanently** and where **destructively**? <br><br> What **sub-plot data** are needed?", "Sub-plots can be used for dividing plots into zones, for **destructive, non-destructive sampling**. <br><br> Sub-plots can also be used directly for sampling purposes, e.g. **frequency data** or mapping. <br><br> Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron. <br><br> Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared. <br><br> In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling."
+    ) |> 
+  gt(caption = "Checklist of questions to ask and guidance when setting up a sustainable and multi-purpose climate-change study from site to sub-plot level.") |> 
+  fmt_markdown(columns = everything())
 
 ```
 

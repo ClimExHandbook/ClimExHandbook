@@ -9,13 +9,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Editors:** Eycott AE & Jentsch A
 
-Impacts of climate change on ecosystems and their functioning are, to a large extent, mediated through the impacts on and responses of the **living organisms** in the ecosystem. Climate change can be expected to have direct effects at all levels of biological organisation, with interactions ![](http://climexhandbook.w.uib.no/files/2019/11/Demography-1-300x181.png)(competition, mutualism, predation, decomposition, etc.) leading to often complex indirect impacts (e.g. Lurgi et al., 2012; Millon et al., 2014). Understanding how organisms, individually and in interaction with each other, are affected by and feed back to changes in the Earth system, is therefore an important research challenge.
+Impacts of climate change on ecosystems and their functioning are, to a large extent, mediated through the impacts on and responses of the **living organisms** in the ecosystem. Climate change can be expected to have direct effects at all levels of biological organisation, with interactions (competition, mutualism, predation, decomposition, etc.) leading to often complex indirect impacts (e.g. Lurgi et al., 2012; Millon et al., 2014). Understanding how organisms, individually and in interaction with each other, are affected by and feed back to changes in the Earth system, is therefore an important research challenge.
+
+```{r photoS4-1, out.width='60%'}
+knitr::include_graphics("http://climexhandbook.w.uib.no/files/2019/11/Demography-1-300x181.png")
+```
 
 Monitoring species and interactions is the key to understanding the processes that drive changes in taxonomic and functional biodiversity, which underpins ecosystem functioning and biodiversity conservation value. In this chapter we provide guidance on quantifying the consequences of climate change for a broad range of organisms and ecological processes, across levels of organisation, through experimental or observational approaches.
 
-![](http://climexhandbook.w.uib.no/files/2019/11/4.7.1-300x287.png)The majority of the protocols are about plants as they comprise the majority of biomass in most terrestrial ecosystems and their sessile nature means that exposure to treatments is consistent (Moise & Henry, 2010). The remaining protocols are on first-order plant-animal interactions that mediate changes in vegetation dynamics following climate – and other global-change drivers.
+```{r photoS4-2, out.width='60%'}
+knitr::include_graphics("http://climexhandbook.w.uib.no/files/2019/11/4.7.1-300x287.png")
+```
 
-At the **level of populations**, we cover vital rates such as reproduction, recruitment, growth, mortality, and phenology, as well as the overall impacts on the dynamics and growth rates of populations. At the **community level**, we provide guidance on the assessment of impacts on plant, invertebrate, and microbial species composition, abundance, and biodiversity, as well as on seed banks and propagule rain. With regards to **species interactions**, we cover pollination, vertebrate and invertebrate herbivory, and pathogens. We also provide a short motivation for and link to the plant traits protocol handbook (Pérez-Harguindeguy et al., 2013). This chapter does not cover organism responses at the individual level, which are, to some extent, dealt with in [**chapter 5 on Stress physiology**](http://climexhandbook.w.uib.no/handbook/s5-stress-physiology/).
+The majority of the protocols are about plants as they comprise the majority of biomass in most terrestrial ecosystems and their sessile nature means that exposure to treatments is consistent (Moise & Henry, 2010). The remaining protocols are on first-order plant-animal interactions that mediate changes in vegetation dynamics following climate – and other global-change drivers.
+
+At the **level of populations**, we cover vital rates such as reproduction, recruitment, growth, mortality, and phenology, as well as the overall impacts on the dynamics and growth rates of populations. At the **community level**, we provide guidance on the assessment of impacts on plant, invertebrate, and microbial species composition, abundance, and biodiversity, as well as on seed banks and propagule rain. With regards to **species interactions**, we cover pollination, vertebrate and invertebrate herbivory, and pathogens. We also provide a short motivation for and link to the plant traits protocol handbook (Pérez-Harguindeguy et al., 2013). This chapter does not cover organism responses at the individual level, which are, to some extent, dealt with in chapter 5 on [Stress physiology].
 
 ### References
 
