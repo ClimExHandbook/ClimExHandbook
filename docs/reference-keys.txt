@@ -5,6 +5,9 @@ tab:checklist
 tab:temperature-for-soil-sample
 fig:soil-profile
 fig:photon-flux
+tab:reproting
+fig:photoS2
+fig:photoS3
 site-characteristics-and-data-management
 optimising-the-study-design
 what-to-measure-and-report-and-why
@@ -43,11 +46,13 @@ soil-moisture
 rain-throughfall
 wind-speed-m-s-1-and-direction-degrees
 references-5
-carbon-and-nutrient-cycling
+open-science-practice-reproducible-workflow-and-data-management
 references-6
-water-cycling
+carbon-and-nutrient-cycling
 references-7
-species-and-interactions
+water-cycling
 references-8
-stress-physiology
+species-and-interactions
 references-9
+stress-physiology
+references-10

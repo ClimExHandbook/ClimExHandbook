@@ -24,22 +24,31 @@ Haddaway, N. R., & Verhoeven, J. T. A. (2015). Poor methodological detail preclu
 
 Hillebrand, H., & Gurevitch, J. (2013). Reporting standards in experimental studies. _Ecology Letters_, _16_(12), 1419-1420.
 
-#### Affiliations {-}
+##### Affiliations {-}
 
-^1^ Department of Biological Sciences and Bjerknes Centre for Climate Research, University of Bergen, Bergen, Norway
+<font size="2"> 
+^1^ Department of Biological Sciences and Bjerknes Centre for Climate Research, University of Bergen, Bergen, Norway</font> 
 
-^2^ Centre for Ecology & Hydrology, Environment Centre Wales, Bangor, UK
+<font size="2"> 
+^2^ Centre for Ecology & Hydrology, Environment Centre Wales, Bangor, UK</font> 
 
-^3^ Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro,3810-193 Aveiro, Portugal
+<font size="2"> 
+^3^ Centre for Environmental and Marine Studies (CESAM), Department of Environment and Planning, University of Aveiro,3810-193 Aveiro, Portugal</font>
 
-^4^ Interdisciplinary Environmental Research Centre, Technische Universität Bergakademie Freiberg, Germany
+<font size="2"> 
+^4^ Interdisciplinary Environmental Research Centre, Technische Universität Bergakademie Freiberg, Germany</font> 
 
-^5^ Centre of Excellence PLECO (Plants and Ecosystems), Biology Department, University of Antwerp, Wilrijk, Belgium
+<font size="2"> 
+^5^ Centre of Excellence PLECO (Plants and Ecosystems), Biology Department, University of Antwerp, Wilrijk, Belgium</font> 
 
-^6^ Soil Physics and Land Management, Wageningen University, the Netherlands
+<font size="2"> 
+^6^ Soil Physics and Land Management, Wageningen University, the Netherlands</font> 
 
-^7^ Poznań University of Life Sciences; Meteorology Department, Poznań, Poland
+<font size="2"> 
+^7^ Poznań University of Life Sciences; Meteorology Department, Poznań, Poland</font> 
 
-^8^ NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research, Bergen, Norway
+<font size="2"> 
+^8^ NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research, Bergen, Norway</font> 
 
-^9^ Department of Biology, Virginia Commonwealth University, Richmond, VA USA
+<font size="2"> 
+^9^ Department of Biology, Virginia Commonwealth University, Richmond, VA USA</font> 
