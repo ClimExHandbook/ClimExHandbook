@@ -30,17 +30,17 @@ tribble( ~" ", ~"Guidance", ~"General",
         "**Study design**", "_Study design is reported in sufficient detail_", "The description of the study design should be thorough; parts of it can be reported in the appendix if there is limited space. Correctly report: <br>
         - start, end date, and duration of the study
 <br>
-● treatment factors, levels, and interactions, design structure, e.g. factorial, nested, hierarchical
+- treatment factors, levels, and interactions, design structure, e.g. factorial, nested, hierarchical
 <br>
-● level of replication: number of sites, blocks, plots, and sub-plots; including selection and randomisation process at each level
+- level of replication: number of sites, blocks, plots, and sub-plots; including selection and randomisation process at each level
 <br>
-● spatial scale: size of the study unit, distance between sites, populations
+- spatial scale: size of the study unit, distance between sites, populations
 <br>
-● type of data sampled (predictors and covariates), and sampling precision for each (including any within‐replicate sampling or pseudoreplication)
+- type of data sampled (predictors and covariates), and sampling precision for each (including any within‐replicate sampling or pseudoreplication)
 <br>
-● sampling schedule: timing, frequency, including study design aspects such as treatment-control, before-after-control-impact, etc. (also see Table 1.1)
+- sampling schedule: timing, frequency, including study design aspects such as treatment-control, before-after-control-impact, etc. (also see Table 1.1)
 <br>
-● description of the manipulated organism, population, or community should follow accepted taxonomic literature, e.g. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al., 2013) and national or international classification schemes.",
+- description of the manipulated organism, population, or community should follow accepted taxonomic literature, e.g. The Plant List (TPL; http://www.theplantlist.org/) and the Taxonomic Name Resolution Service (TNRS; Boyle et al., 2013) and national or international classification schemes.",
         
         "**Response variables, predictors, and covariates**", "_Measurements should be relevant, reproducible, and convertible_", "Follow established protocols, and guidance on which and how to measure predictors, response variables, and covariates. Report which protocols are used, and describe any adjustments that are made. Describe all variables fully and report in readme files, data dictionaries, and datasets. Measure useful covariates for synthesis and upscaling (see Table 2 in the main paper).",
 

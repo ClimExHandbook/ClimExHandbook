@@ -72,6 +72,7 @@ tribble(
     "**Within-plot study design (sub-plot, sample)** <br><br> Figure 1.1C", "Where are data measured **permanently** and where **destructively**? <br><br> What **sub-plot data** are needed?", "Sub-plots can be used for dividing plots into zones, for **destructive, non-destructive sampling**. <br><br> Sub-plots can also be used directly for sampling purposes, e.g. **frequency data** or mapping. <br><br> Sensors and non-intrusive measurements can be installed in and under the permanent sub-plots, e.g. lysimeters, mini-rhizotron. <br><br> Sub-plot data can be used directly in data analyses, and they are very useful for data checking, i.e. when resampling the same sub-plot over time, data from different time steps can be compared. <br><br> In destructive sampling: plug soil-sampling holes with soil from within the block to avoid drainage issues and mark them to avoid resampling."
     ) |> 
   gt(caption = "Checklist of questions to ask and guidance when setting up a sustainable and multi-purpose climate-change study from site to sub-plot level.") |> 
+  tab_style(style = "vertical-align:top", locations = cells_body(columns = vars(Scale, Question, Guidance))) |> 
   fmt_markdown(columns = everything())
 
 ```
