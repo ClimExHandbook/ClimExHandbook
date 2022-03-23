@@ -1,0 +1,105 @@
+``` {r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(gt)
+```
+
+### Plant respiration
+
+**Author:** Marshall J^1^ 
+
+**Reviewer:** Gough C^2^ 
+
+**Measurement unit: µmol m\-2 s\-1 (or g\-1 or m\-3), µmol g\-1 s\-1; Measurement scale: tissue, plant, or plot; Equipment costs: €€€; Running costs: €; Installation effort: medium to high; Maintenance effort: -; Knowledge need: high; Measurement mode: manual measurement or data logger**
+
+Plant respiration is the carbon dioxide (CO^2^) efflux from vegetative tissues to the atmosphere. With plants globally respiring upwards of 60 gigatons of carbon per year (Schimel 1995), this flux is one of the largest contributors to atmospheric CO^2^ (Raich & Potter, 1995). Plant respiration converts roughly half of fixed photosynthate back into CO^2^ (Lambers et al., 2008; Amthor, 2010). The difference between CO^2^ uptake via photosynthesis and plant respiratory CO^2^ lossess is equivalent to net primary production. Respiration occurs in all living plant tissues whether in darkness or in sunlight, but rates are especially sensitive to kinetic changes owing to temperature and tissue growth rates, increasing exponentially with temperature and linearly with growth rates. Climate and other global-change drivers such as elevated CO^2^ and nitrogen depostion can influence temperature and growth rates and thus respiration rates (Ryan, 1991; Hyvönen et al., 2007). A considerable amount of recent plant respiration research emphasizes acclimation to climate change (Collalti et al. 2020; Wang et al. 2020) and trait constraints of plant respiratory fluxes (Berzaghi et al. 2020). 
+
+#### What and how to measure?
+
+**_Gold standard_** 
+
+The sensitivity of the respiration rate to dynamic environmental conditions and its coupling with plant growth necessitates high frequency, continuous measurements if the goal is to disentangle the underlying drivers regulating plant respiration rates. For this reason, the gold standard is continuous measurements of CO^2^ efflux (Tarvainen et al., 2014). This requires either closed or open chambers mounted on or around the plant organ(s) of interest (Field et al., 1989; Tamayo et al., 2001, _see Special cases below_). Closed chambers are vented between measurements, typically using some automated mechanisms. Open chambers can remain closed, but they require a cooling mechanism if they are exposed to daytime sun. In theory, O^2^ influx could instead be measured to estimate plant respiration rates (Gonzalez et al., 2007), but in fact this is seldom done in terrestrial ecosystems because the background concentration in the atmosphere is so high that a change would be difficult to detect. 
+
+**_Bronze standard_** 
+
+The bronze standard is to use a portable gas-exchange system to take periodic point measurements manually at intervals. At its most basic, such a measurement can be treated as an index to be used as a basis for comparison within a study. However, due to the less frequent nature of manual measurements relative to those that are automated, and the potential for changing environmental conditions to bias measurements across plots and sites, manual measurements are generally less suitable for integrative estimates of whole-ecosystem plant respiration respiration unless care is taken to model continuous plant respiration from e.g., continuously measured environmental drivers such as temperature (Darenova et al. 2019). Some standardisation of manual data collection (e.g., by time of day and season) should be considered in order to reduce environmental bias and the effects of co-occuring photosynthesis on plant respiration. For climate-change experiments, it may be more useful to use manual spot measurements to calibrate, or to compare to general models that were parameterised elsewhere (e.g. Heskel et al., 2016). If annual scale summations are required, they can be derived from response functions scaled up using continuous abiotic data (e.g. Niinistö et al., 2011). Also see protocol [Soil CO^2^ and trace gas fluxes] for more details on measuring gas fluxed from the soil. 
+
+**_Where to start_** 
+
+Start with Ryan’s description (Ryan, 1991), which is clear and interesting. Then read Heskel et al. (2016) or Reich et al. (2016) for a look at global patterns. If you want more of the physiology, Amthor (2010) is a good read. . An overview of plant respiration representation in earth and ecosystem models is provided by Smith and Dukes (2013). 
+
+#### Special cases, emerging issues, and challenges
+
+Continuous measurements can be made with either open or closed commercially available or, in many cases, custom-built, chambers (Field et al., 1989; Tamayo et al., 2001). Open chambers rely on a continuous flow of gas and the measurement of the CO^2^ concentration difference between the inflow and the outflow. Open chambers have low sensitivity to leaks, but they require careful measurement of flow rates. Closed chambers rely on a timed mechanism to seal the chamber, followed by measurement of the rise in concentration over time, and then opening of the chamber after the measurement. Such chambers are sensitive to leaks and temperature increases during the measurement. In either case, chamber temperatures should be measured with some precision, especially if the chamber is in bright sunlight. Still better is some form of chamber cooling system, which prevents the temperature rise that would otherwise occur. 
+
+Continuous respiration measurements often rely on a commercial photosynthesis system that has been modified for continuous operation. Spot measurements can be made with most commercial gas-exchange systems provided that enough living tissue can be fitted into the chamber to yield a reliable measurement. Because respiration rates are often 10% or so of net photosynthetic rates, the measurement can challenge traditional gas-exchange systems, especially at low temperatures. 
+
+Respiration rates can be expressed relative to tissue mass, surface area, or volume. The best basis depends on the study objectives, but mass is often easiest to measure and is well correlated with respiring tissue quantity. However, there is a strong tradition of expressing leaf respiration per square metre (Heskel et al., 2016). In the interest of generating comparable data across studies, we suggest using mass as the default basis for all rates except for leaves, which should be expressed per m^2^. 
+
+When leaves or green stems are sunlit, respiration may be partly or completely offset by simultaneous photosynthesis. Photosynthetic stems may either refix respired CO^2^ internally, under the bark, or they may take CO^2^ from the surrounding atmosphere. For the former, it seems reasonable to measure with transparent chambers, which allow refixation to proceed as normal (Cernusak & Hutley, 2011). The latter should be treated as an alternative site for net photosynthesis and measured alongside the leaves (see protocol [Leaf-scale photosynthesis]). 
+
+Excised tissues are sometimes used for respiration measurements. This greatly simplifies chamber insertion, but the cutting may induce artefacts. In particular, “wound” respiration may be induced by the cell damage and diffusion paths are disrupted. These effects can be minimised by waiting until the pulse of wound respiration recedes or by coating cut surfaces in liquid paraffin (Cernusak et al., 2001), respectively. 
+
+It should be recognised that plants acclimatise to changes in temperature, which tends to reduce respiration responses relative to measurements in a short-term temperature experiment (Reich et al., 2016). What this means is that short-term responses should not be scaled up into seasonal or annual responses. Leaves that develop under a new temperature regime are more able to acclimatise to that regime, so the best policy would be to focus on leaves produced since the temperature treatment began (Slot & Kitajima, 2015).
+
+#### References
+
+**_Theory, significance, and large datasets_** 
+
+Theory in Amthor (2010). Significance in Amthor (2010), Heskel et al. (2016), Hyvönen et al. (2007), and Slot & Kitajima (2015). Large datasets in Heskel et al. (2016). Modelling applications by Smith & Dukes (2013). 
+
+**_More on methods and existing protocols_** 
+
+Cernusak et al. (2001), Field et al. (1989), Heskel et al. (2016), Tarvainen et al. (2014) 
+
+**_All references_** 
+
+Amthor, J. S. (2010). From sunlight to phytomass: on the potential efficiency of converting solar radiation to phyto-energy. _New Phytologist_, _188_(4), 939-959. 
+
+Berzaghi, F., Wright, I. J., Kramer, K., Oddou-Muratorio, S., Bohn, F. J., Reyer, C. P., ... & Hartig, F. (2020). Towards a new generation of trait-flexible vegetation models. _Trends in ecology & evolution_, _35_(3), 191-205. 
+
+Cernusak, L. A., & Hutley, L. B. (2011). Stable isotopes reveal the contribution of corticular photosynthesis to growth in branches of _Eucalyptus miniata_. _Plant Physiology_, _155_(1), 515-523. 
+
+Cernusak, L. A., Marshall, J. D., Comstock, J. P., & Balster, N. J. (2001). Carbon isotope discrimination in photosynthetic bark. _Oecologia_, _128_(1), 24-35. 
+
+Collalti, A., Ibrom, A., Stockmarr, A., Cescatti, A., Alkama, R., Fernandez-Martinez, M., ... & Prentice, I. C. (2020). Forest production efficiency increases with growth temperature. _Nature communications_, _11_(1), 1-9. 
+
+Darenova, E., Szatniewska, J., Acosta, M., & Pavelka, M. (2019). Variability of stem CO^2^ efflux response to temperature over the diel period. _Tree physiology_, _39_(5), 877-887. 
+
+Field, C. B., Ball, J. T., & Berry, J. A. (1989). Photosynthesis: principles and field techniques. In R. W. Pearcy, J. R. Ehleringer, H. A. Mooney, & P. W. Rundel (Eds.), _Plant Physiological Ecology_ (pp. 209-253). Dordrecht: Springer. 
+
+Gonzalez, L., Bolaño, C., & Pelissier, F. (2007). Use of oxygen electrode in measurements of photosynthesis and respiration. In M. J. Regiosa Roger (Ed.), _Handbook of Plant Ecophysiology Techniques_ (pp. 141-153). Dordrecht: Springer. 
+
+Heskel, M. A., O’Sullivan, O. S., Reich, P. B., Tjoelker, M. G., Weerasinghe, L. K., Penillard, A., … Atkin, O. K. (2016). Convergence in the temperature response of leaf respiration across biomes and plant functional types. _Proceedings of the National Academy of Sciences USA_, _113_(14), 3832-3837. 
+
+Hyvönen, R., Ågren, G. I., Linder, S., Persson, T., Cotrufo, M. F., Ekblad, A., … Wallin, G. (2007). The likely impact of elevated CO^2^, nitrogen deposition, increased temperature and management on carbon sequestration in temperate and boreal forest ecosystems: a literature review. _New Phytologist_, _173_(3), 463-480. 
+
+Lambers, H., Chapin, F. S., & Pons, T. L. (2008). Respiration. In _Plant Physiological Ecology_ (pp. 101-150). Berlin: Springer. Niinistö, S. M., Kellomäki, S., & Silvola, J. (2011). Seasonality in a boreal forest ecosystem affects the use of soil temperature and moisture as predictors of soil CO^2^ efflux. _Biogeosciences_, _8_(11), 3169-3186. 
+
+Raich, J. W., & Potter, C. S. (1995) Global patterns of carbon dioxide emissions from soils. _Global Biogeochemical Cycles, 9_(1), 23–36. 
+
+Reich, P. B., Sendall, K. M., Stefanski, A., Wei, X., Rich, R. L., & Montgomery, R. A. (2016). Boreal and temperate trees show strong acclimation of respiration to warming. _Nature_, _531_(7596), 633-636. 
+
+Ryan, M. G. (1991). Effects of climate change on plant respiration. _Ecological Applications_, _1_(2), 157-167. Schimel, D. S. (1995). Terrestrial ecosystems and the carbon cycle. _Global Change Biology_, _1_(1), 77-91. 
+
+Slot, M., & Kitajima, K. (2015). General patterns of acclimation of leaf respiration to elevated temperatures across biomes and plant types. _Oecologia_, _177_(3), 885-900. 
+
+Smith, N. G., & Dukes, J. S. (2013). Plant respiration and photosynthesis in global‐scale models: incorporating acclimation to temperature and CO^2^. _Global change biology_, _19_(1), 45-63. 
+
+Tamayo, P. R., Weiss, O., & Sánchez-Moreiras, A. M. (2001). Gas exchange techniques in photosynthesis and respiration infrared gas analyser. In M. J. Reigosa Roger (Ed.), _Handbook of Plant Ecophysiology Techniques_ (pp. 113-139). Dordrecht: Springer. 
+
+Tarvainen, L., Räntfors, M., & Wallin, G. (2014). Vertical gradients and seasonal variation in stem CO^2^ efflux within a Norway spruce stand. _Tree Physiology_, _34_(5), 488-502. 
+
+Wang, H., Atkin, O. K., Keenan, T. F., Smith, N. G., Wright, I. J., Bloomfield, K. J., ... & Prentice, I. C. (2020). Acclimation of leaf respiration consistent with optimal photosynthetic capacity. _Global change biology_, _26_(4), 2573-2583.
+
+
+**Author:** Marshall J^1^ 
+
+**Reviewer:** Gough C^2^ 
+
+**Affiliations** 
+
+^1^ Department of Forest Ecology and Management, Swedish University of Agricultural Sciences, Umeå, Sweden. 
+
+^2^ Department of Biology, Virginia Commonwealth University, Richmond, USA

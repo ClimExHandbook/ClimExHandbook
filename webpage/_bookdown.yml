@@ -12,6 +12,10 @@ rmd_files:
   - "16_open-science-practice-reproducible-workflow-and-data-management.Rmd"
 
   - "2_carbon-and-nutrient-cycling.Rmd"
+  - "211_aboveground_plant_biomass.Rmd"
+  - "212_belowground_plant_biomass.Rmd"
+  - "213_leaf-scale_photosynthesis.Rmd"
+  - "214_plant_respiration.Rmd"
 
 
   - "3_water-cycling.Rmd"
