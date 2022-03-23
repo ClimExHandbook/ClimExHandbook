@@ -4,7 +4,7 @@ author: Aud Halbritter
 description: Handbook for standardized measurments in Climate Change Experiments 
 site: bookdown::bookdown_site
 documentclass: book
-date: "2022-03-18"
+date: "2022-03-23"
 github-repo: ClimExHandbook/ClimExHandbook
 output:
   bookdown::bs4_book:
