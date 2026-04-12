@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>10 1.6 Open science practice, reproducible workflow, and data management | How to measure plant species composition?</title>
+<meta name="author" content="Aud Halbritter">
+<meta name="description" content="Many ecological questions nowadays are related to complex drivers and mechanisms on large spatial and temporal scales which increasingly demands collaborations (i.e. research networks), handling...">
+<meta name="generator" content="bookdown 0.46 with bs4_book()">
+<meta property="og:title" content="10 1.6 Open science practice, reproducible workflow, and data management | How to measure plant species composition?">
+<meta property="og:type" content="book">
+<meta property="og:description" content="Many ecological questions nowadays are related to complex drivers and mechanisms on large spatial and temporal scales which increasingly demands collaborations (i.e. research networks), handling...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="10 1.6 Open science practice, reproducible workflow, and data management | How to measure plant species composition?">
+<meta name="twitter:description" content="Many ecological questions nowadays are related to complex drivers and mechanisms on large spatial and temporal scales which increasingly demands collaborations (i.e. research networks), handling...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="css/style-chapters.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">How to measure plant species composition?</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">The Aim of ClimEx Handbook</a></li>
+<li class="book-part">General Information</li>
+<li><a class="" href="get-engaged.html"><span class="header-section-number">1</span> Get Engaged</a></li>
+<li><a class="" href="history.html"><span class="header-section-number">2</span> History</a></li>
+<li><a class="" href="issue-tracker.html"><span class="header-section-number">3</span> Issue Tracker</a></li>
+<li><a class="" href="who-we-are.html"><span class="header-section-number">4</span> Who We Are</a></li>
+<li class="book-part">Section 1: Site Characteristics and Data Management</li>
+<li><a class="" href="optimising-the-study-design.html"><span class="header-section-number">5</span> 1.1 Optimising the study design</a></li>
+<li><a class="" href="geographical-location-and-basic-site-description.html"><span class="header-section-number">6</span> 1.2 Geographical location and basic site description</a></li>
+<li><a class="" href="soil-type-and-physical-characteristics.html"><span class="header-section-number">7</span> 1.3 Soil type and physical characteristics</a></li>
+<li><a class="" href="soil-chemistry-and-nutrient-availability.html"><span class="header-section-number">8</span> 1.4 Soil chemistry and nutrient availability</a></li>
+<li><a class="" href="meteorological-measurements.html"><span class="header-section-number">9</span> 1.5 Meteorological measurements</a></li>
+<li><a class="active" href="open-science-practice-reproducible-workflow-and-data-management.html"><span class="header-section-number">10</span> 1.6 Open science practice, reproducible workflow, and data management</a></li>
+<li class="book-part">Section 2: Carbon and Nutrient Cycling</li>
+<li><a class="" href="aboveground-plant-biomass.html"><span class="header-section-number">11</span> 2.1.1 Aboveground plant biomass</a></li>
+<li><a class="" href="belowground-plant-biomass.html"><span class="header-section-number">12</span> 2.1.2 Belowground plant biomass</a></li>
+<li><a class="" href="leaf-scale-photosynthesis.html"><span class="header-section-number">13</span> 2.1.3 Leaf-scale photosynthesis</a></li>
+<li><a class="" href="plant-respiration.html"><span class="header-section-number">14</span> 2.1.4 Plant respiration</a></li>
+<li><a class="" href="root-exudation-in-situ.html"><span class="header-section-number">15</span> 2.1.5 Root exudation (in situ)</a></li>
+<li><a class="" href="foliar-stoichiometry-and-nutrient-resorption.html"><span class="header-section-number">16</span> 2.1.6 Foliar stoichiometry and nutrient resorption</a></li>
+<li><a class="" href="soil-microbial-biomass-c-n-and-p.html"><span class="header-section-number">17</span> 2.2.1 Soil microbial biomass – C, N, and P</a></li>
+<li><a class="" href="root-and-soil-colonisation-by-mycorrhizal-fungi.html"><span class="header-section-number">18</span> 2.2.2 Root and soil colonisation by mycorrhizal fungi</a></li>
+<li><a class="" href="soil-co2-and-other-trace-gas-fluxes.html"><span class="header-section-number">19</span> 2.2.3 Soil CO2 (and other trace gas) fluxes</a></li>
+<li><a class="" href="soil-carbon-and-nutrient-stocks.html"><span class="header-section-number">20</span> 2.2.4 Soil carbon and nutrient stocks</a></li>
+<li><a class="" href="nutrient-mineralisation.html"><span class="header-section-number">21</span> 2.2.5 Nutrient mineralisation</a></li>
+<li><a class="" href="foliar-litter-decomposition.html"><span class="header-section-number">22</span> 2.2.6 Foliar litter decomposition</a></li>
+<li><a class="" href="root-decomposition.html"><span class="header-section-number">23</span> 2.2.7 Root decomposition</a></li>
+<li><a class="" href="soil-organic-matter-som-decomposition.html"><span class="header-section-number">24</span> 2.2.8 Soil organic matter (SOM) decomposition</a></li>
+<li><a class="" href="soil-leaching.html"><span class="header-section-number">25</span> 2.2.9 Soil leaching</a></li>
+<li><a class="" href="soil-water-erosion.html"><span class="header-section-number">26</span> 2.2.10 Soil water erosion</a></li>
+<li><a class="" href="biological-nitrogen-fixation.html"><span class="header-section-number">27</span> 2.2.11 Biological nitrogen fixation</a></li>
+<li><a class="" href="ecosystem-co2-and-trace-gas-fluxes.html"><span class="header-section-number">28</span> 2.3.1 Ecosystem CO2 and trace gas fluxes</a></li>
+<li><a class="" href="total-belowground-carbon-flux.html"><span class="header-section-number">29</span> 2.3.2 Total belowground carbon flux</a></li>
+<li><a class="" href="upscaling-from-the-plot-scale-to-the-ecosystem-and-beyond.html"><span class="header-section-number">30</span> 2.3.3 Upscaling from the plot scale to the ecosystem and beyond</a></li>
+<li class="book-part">Section 3: Water Cycling</li>
+<li><a class="" href="soil-moisture-1.html"><span class="header-section-number">31</span> 3.1 Soil moisture</a></li>
+<li><a class="" href="soil-hydraulic-conductivity.html"><span class="header-section-number">32</span> 3.2 Soil hydraulic conductivity</a></li>
+<li><a class="" href="soil-water-retention.html"><span class="header-section-number">33</span> 3.3 Soil water retention</a></li>
+<li><a class="" href="soil-water-potential.html"><span class="header-section-number">34</span> 3.4 Soil water potential</a></li>
+<li><a class="" href="soil-temperature.html"><span class="header-section-number">35</span> 3.5 Soil temperature</a></li>
+<li><a class="" href="soil-wetability-or-water-repellency.html"><span class="header-section-number">36</span> 3.6 Soil wetability or water repellency</a></li>
+<li><a class="" href="sap-flux.html"><span class="header-section-number">37</span> 3.7 Sap flux</a></li>
+<li><a class="" href="ecosystem-water-stress.html"><span class="header-section-number">38</span> 3.8 Ecosystem water stress</a></li>
+<li class="book-part">Section 4: Species and Interactions</li>
+<li><a class="" href="sexual-plant-reproduction.html"><span class="header-section-number">39</span> 4.1 Sexual plant reproduction</a></li>
+<li><a class="" href="seed-viability-germinability-and-dormancy.html"><span class="header-section-number">40</span> 4.2 Seed viability, germinability, and dormancy</a></li>
+<li><a class="" href="plant-demography.html"><span class="header-section-number">41</span> 4.3 Plant demography</a></li>
+<li><a class="" href="bud-dormancy-depth.html"><span class="header-section-number">42</span> 4.4 Bud dormancy depth</a></li>
+<li><a class="" href="aboveground-plant-phenology.html"><span class="header-section-number">43</span> 4.5 Aboveground plant phenology</a></li>
+<li><a class="" href="the-soil-seed-bank-buried-seed-pool.html"><span class="header-section-number">44</span> 4.6 The soil seed bank (buried seed pool)</a></li>
+<li><a class="" href="propagule-rain.html"><span class="header-section-number">45</span> 4.7 Propagule rain</a></li>
+<li><a class="" href="plant-community-composition.html"><span class="header-section-number">46</span> 4.8 Plant community composition</a></li>
+<li><a class="" href="soil-microbial-community-composition.html"><span class="header-section-number">47</span> 4.9 Soil microbial community composition</a></li>
+<li><a class="" href="soil-micro--and-mesofauna-community-composition.html"><span class="header-section-number">48</span> 4.10 Soil micro- and mesofauna community composition</a></li>
+<li><a class="" href="macroinvertebrate-community-composition.html"><span class="header-section-number">49</span> 4.11 Macroinvertebrate community composition</a></li>
+<li><a class="" href="pollinator-composition.html"><span class="header-section-number">50</span> 4.12 Pollinator composition</a></li>
+<li><a class="" href="pollinator-visitation.html"><span class="header-section-number">51</span> 4.13 Pollinator visitation</a></li>
+<li><a class="" href="plant-pathogen-and-invertebrate-herbivory.html"><span class="header-section-number">52</span> 4.14 Plant pathogen and invertebrate herbivory</a></li>
+<li><a class="" href="vertebrate-herbivory.html"><span class="header-section-number">53</span> 4.15 Vertebrate herbivory</a></li>
+<li><a class="" href="functional-traits.html"><span class="header-section-number">54</span> 4.16 Functional traits</a></li>
+<li class="book-part">Section 5: Stress Physiology</li>
+<li><a class="" href="chlorophyll-fluorescence.html"><span class="header-section-number">55</span> 5.1 Chlorophyll fluorescence</a></li>
+<li><a class="" href="chlorophyll-and-carotenoid-content.html"><span class="header-section-number">56</span> 5.2 Chlorophyll and carotenoid content</a></li>
+<li><a class="" href="non-structural-carbohydrates.html"><span class="header-section-number">57</span> 5.3 Non-structural carbohydrates</a></li>
+<li><a class="" href="lethal-dose-ld50-to-quantify-stress-tolerance-exemplified-by-frost-tolerance.html"><span class="header-section-number">58</span> 5.4 Lethal dose (LD50) to quantify stress tolerance exemplified by frost tolerance</a></li>
+<li><a class="" href="leaf-temperature.html"><span class="header-section-number">59</span> 5.5 Leaf temperature</a></li>
+<li><a class="" href="leaf-thermal-traits.html"><span class="header-section-number">60</span> 5.6 Leaf thermal traits</a></li>
+<li><a class="" href="stomatal-conductance.html"><span class="header-section-number">61</span> 5.7 Stomatal conductance</a></li>
+<li><a class="" href="psychrometry-for-water-potential-measurements.html"><span class="header-section-number">62</span> 5.8 Psychrometry for water potential measurements</a></li>
+<li><a class="" href="pressure-volume-curves-tlp-%CE%B5-%CF%88o.html"><span class="header-section-number">63</span> 5.9 Pressure-volume curves – TLP, ε, Ψo</a></li>
+<li><a class="" href="maximum-leaf-hydraulic-conductance.html"><span class="header-section-number">64</span> 5.10 Maximum leaf hydraulic conductance</a></li>
+<li><a class="" href="metabolomic-profiling-in-plants-using-mass-spectrometry.html"><span class="header-section-number">65</span> 5.11 Metabolomic profiling in plants using mass-spectrometry</a></li>
+<li><a class="" href="reflectance-assessment-of-plant-physiological-status.html"><span class="header-section-number">66</span> 5.12 Reflectance assessment of plant physiological status</a></li>
+<li><a class="" href="stable-isotopes-of-water-for-inferring-plant-function.html"><span class="header-section-number">67</span> 5.13 Stable isotopes of water for inferring plant function</a></li>
+<li><a class="" href="bvocs-emissions-from-plants-and-soils.html"><span class="header-section-number">68</span> 5.14 BVOCs emissions from plants and soils</a></li>
+<li><a class="" href="water-use-efficiency.html"><span class="header-section-number">69</span> 5.15 Water-use efficiency</a></li>
+<li><a class="" href="leaf-hydraulic-vulnerability-to-dehydration.html"><span class="header-section-number">70</span> 5.16 Leaf hydraulic vulnerability to dehydration</a></li>
+<li class="book-part">Blog</li>
+<li class="book-part">Blog</li>
+<li><a class="" href="published.html"><span class="header-section-number">71</span> Published</a></li>
+<li><a class="" href="soil-and-ecosystem-respiration.html"><span class="header-section-number">72</span> Soil and ecosystem respiration</a></li>
+<li><a class="" href="how-to-measure-plant-species-composition.html"><span class="header-section-number">73</span> How to measure plant species composition?</a></li>
+</ul>
+
+        <div class="book-extra">
+          
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="open-science-practice-reproducible-workflow-and-data-management" class="section level1" number="10">
+<h1>
+<span class="header-section-number">10</span> 1.6 Open science practice, reproducible workflow, and data management<a class="anchor" aria-label="anchor" href="#open-science-practice-reproducible-workflow-and-data-management"><i class="fas fa-link"></i></a>
+</h1>
+<p>Many ecological questions nowadays are related to complex drivers and
+mechanisms on large spatial and temporal scales which increasingly
+demands collaborations (i.e. research networks), handling of large
+datasets, and data sharing. For this, the study design, data analysis,
+and results need to be correctly and comprehensively reported, which are
+surprisingly often not the case (Hillebrand &amp; Gurevitch, 2013; Haddaway
+&amp; Verhoeven, 2015), frustrating researchers aiming to synthesise and
+upscale research developments (Halbritter et al., 2018; Morueta-Holme et
+al., 2018). Open science practice, reproducible workflow, and data
+management have recently received much attention in ecology and in
+science and when successfully applied these practises ensure
+high-quality data, which is available to others and in the future (Lind
+2013). Funding bodies and publishers have recognised this and now often
+ask for a data management plan and open science practice (British
+Ecological Society, 2018). “Prereproducible” practise – a holistic
+approach of providing sufficient information about data and workflow –
+is becoming more common (Stark, 2018).</p>
+<p>Data management is the planning of the “data cycle” in a research
+project, including how to create, process, document, share, store, and
+re-use the data (British Ecological Society, 2018). It can be applied to
+small and large projects and should be planned well ahead of the start
+of a project.</p>
+<p>Alongside the planning of the study design and research questions, the
+workflow from collecting raw data, to the final results, should be
+planned, i.e. data curation, transformations, quality check, visual
+examination and analysis, data storage, and data availability beyond the
+project (create, process and store data). The raw data should always be
+retained and the workflow should follow a well-documented and
+script-based approach. This allows the script to be revised and rerun at
+any time and thus ensures transparency, reproducibility, and a robust
+workflow (British Ecological Society, 2017). Version control such as Git
+combined with a host (e.g. GitHub, Bitbucket) ensures transparency and
+reproducibility of the workflow. The data should always be stored in
+non-proprietary software formats to ensure long-term availability beyond
+the project. A common practice in medical and social sciences to enhance
+good research practice, though rarely applied in ecology, is to
+preregister the planned data analysis (Nosek et al., 2015). This ensures
+a thorough thinking about what data and analysis are needed and reduces
+problematic research practice (e.g. clarifies projects aims vs.
+hypothesis-testing or hypothesis-generating research, reduces risk of
+cherry picking; Fraser et al., 2018).</p>
+<p>Thorough data documentation and metadata ensures that the data are
+available in the long term. Data documentation should be started early,
+done consistently, and updated regularly to ensure an overview of the
+methodology, data, data manipulation, and analysis. Complete data
+documentation and metadata is important for inter-study comparisons (see
+above) and enables data sharing and re-use.</p>
+<p>Here we provide a list for how to correctly report study design, data
+analysis, and results from climate-change studies to make research
+reproducible and for synthesis (Table 1.6.1). This table was compiled
+from Hillbrand &amp; Gurevitch (2013), Haddaway &amp; Verhoeven (2015), and
+Gerstner et al. (2017).</p>
+<p><strong>Table 1.6.1</strong> Issues and guidance for how to correctly report study
+design, data analysis, and results from climate-change studies. Adapted
+from Hillbrand &amp; Gurevitch (2013), Haddaway &amp; Verhoeven (2015), and
+Gerstner et al. (2017).</p>
+<div class="inline-table"><table style="width: 100%" width="603" class="table table-sm">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<tbody>
+<tr>
+<td style="vertical-align: top; width: 19.0037%" width="120">
+<strong> </strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<strong>Issue</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+<strong>Guidance</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: top; width: 19.0037%;" width="120">
+<strong>General</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<em>Methodology</em>
+<p>
+<em>  </em>
+</p>
+<p>
+<em>Necessary meta-data provided</em>
+</p>
+<p>
+<em> </em>
+</p>
+<p>
+<em> </em>
+</p>
+<p>
+<em>  </em>
+</p>
+<p>
+<em>Data and study should be easy to find, and be
+accessible.</em>
+</p>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+Each study and dataset should be described in detail in a
+readme file, including a data dictionary and annotated dataset (Table
+1.6.2; British Ecological Society, 2018).
+<p>
+Correctly report site characteristics: i.e. geographic location,
+elevation, vegetation type, soil physical and chemical properties,
+meteorological data (see protocols 1.2 – 1.5), and author
+information.
+</p>
+<p>
+Results (including master theses, internal reports, etc.) should be
+publicly available.
+</p>
+<p>
+Data should be publicly available in a data repository. Funding
+bodies and journals are increasingly requiring this.
+</p>
+<p>
+Publications should have useful keywords and titles to enable them to
+be easily found.
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: top; width: 19.0037%;" width="120">
+<strong>Study design</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<em>Study design is reported in sufficient detail</em>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+The description of the study design should be thorough;
+parts of it can be reported in the appendix if there is limited space.
+Correctly report:
+<p>
+●   start, end date, and duration of the study
+</p>
+<p>
+●   treatment factors, levels, and interactions, design structure,
+e.g. factorial, nested, hierarchical
+</p>
+<p>
+●   level of replication: number of sites, blocks, plots, and
+sub-plots; including selection and randomisation process at each
+level
+</p>
+<p>
+●   spatial scale: size of the study unit, distance between sites,
+populations
+</p>
+<p>
+●   type of data sampled (predictors and covariates), and sampling
+precision for each (including any within‐replicate sampling or
+pseudoreplication)
+</p>
+<p>
+●   sampling schedule: timing, frequency, including study design
+aspects such as treatment-control, before-after-control-impact, etc.
+(also see Table 1.1)
+</p>
+<p>
+●   description of the manipulated organism, population, or community
+should follow accepted taxonomic literature, e.g. The Plant List (TPL;
+<a href="http://www.theplantlist.org/" class="uri">http://www.theplantlist.org/</a>) and the Taxonomic Name Resolution Service
+(TNRS; Boyle et al., 2013) and national or international classification
+schemes.
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: top; width: 19.0037%;" width="120">
+<strong>Response variables, predictors, and
+covariates</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<em>Measurements should be relevant, reproducible, and
+convertible</em>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+Follow established protocols, and guidance on which and how
+to measure predictors, response variables, and covariates.
+<p>
+Report which protocols are used, and describe any adjustments that
+are made.
+</p>
+<p>
+Describe all variables fully and report in readme files, data
+dictionaries, and datasets.
+</p>
+<p>
+Measure useful covariates for synthesis and upscaling (see Table 2 in
+the main paper).
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: top; width: 19.0037%;" width="120">
+<strong>Data handling and analysis</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<em>Data manipulation is described in sufficient detail</em>
+<p>
+<em>Comprehensive description of data analysis </em>
+</p>
+<p>
+ 
+</p>
+<p>
+<em>  </em>
+</p>
+<p>
+<em>Reproducible workflow</em>
+</p>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+Each step of data manipulation should be described and
+explained and be repeatable and reproducible (British Ecological
+Society, 2017).
+<p>
+Type of statistical tests used, response variables, covariates
+(explanatory factors) tested, posthoc or planned comparisons carried
+out, definition of statistical metrics if different from commonly
+accepted terms should be described.
+</p>
+<p>
+Statistical software, packages, and versions used need to be
+reported.
+</p>
+<p>
+The workflow from data manipulation, coding, analysing, and results
+output should be repeatable and reproducible (Lind 2013, British
+Ecological Society, 2017).
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: top; width: 19.0037%;" width="120">
+<strong>Results</strong>
+</td>
+<td style="text-align: left; vertical-align: top; width: 26.6605%;" width="167">
+<em>Units need to be reported</em>
+<p>
+<em>Raw data should be provided</em>
+</p>
+<p>
+ 
+</p>
+<p>
+<em>Negative results should be reported</em>
+</p>
+</td>
+<td style="text-align: left; vertical-align: top; width: 54.2436%;" width="316">
+Units for each variable should be reported.
+<p>
+Raw data or summary statistics with mean (or median), variation
+around the mean and sample size should be reported.
+</p>
+<p>
+Report negative results.
+</p>
+</td>
+</tr>
+</tbody>
+</table></div>
+<p> </p>
+<p><span style="font-size: 10pt"><strong>Table 1.6.2</strong> Content for a readme file
+for a research project and a data dictionary.</span></p>
+<div class="inline-table"><table style="border-collapse: collapse;width: 82.6568%" class="table table-sm">
+<colgroup><col style="width: 100%"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: left; width: 100%;">
+<strong>a) Readme
+file</strong>
+<ol>
+<li>
+<ol>
+<li>
+Project information
+<ol type="a">
+<li>
+Project summary
+</li>
+<li>
+Funding information
+</li>
+<li>
+Primary contact information
+</li>
+<li>
+Project partners, students, collaborators
+</li>
+<li>
+Research sites and basic site information
+</li>
+<li>
+Information on data repositories
+</li>
+<li>
+Naming conventions for data files, datasets, co-variables (taxa,
+studies/experiments, treatments, sites), response variables
+</li>
+<li>
+Data access, authorship rights, data policy and
+acknowledgements
+</li>
+</ol>
+</li>
+<li>
+Studies and/or experiments
+</li>
+<li>
+Publications
+<ol type="a">
+<li>
+Publications
+</li>
+<li>
+Master/doctoral theses, reports etc.
+</li>
+</ol>
+</li>
+<li>
+References
+</li>
+</ol>
+</li>
+</ol>
+<p>
+ 
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; width: 100%;">
+<strong>b) Data
+dictionary</strong>
+<ol>
+<li>
+<ol>
+<li>
+Content of the dataset
+</li>
+<li>
+Data collection methods
+</li>
+<li>
+Dataset authors and collaborators
+</li>
+<li>
+Location of data collection
+</li>
+<li>
+Time of data collection
+</li>
+<li>
+Study design
+</li>
+<li>
+Data development and curation
+</li>
+<li>
+Other relevant datasets within the project (e.g. predictors)
+</li>
+<li>
+Data usage – publications
+</li>
+<li>
+Data dictionary (variable name, type, range, factor level,
+measurement type and unit/format)
+</li>
+</ol>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table></div>
+<p> </p>
+<p><strong><em>Where to start?</em></strong></p>
+<p>Gerstner et al. (2017) give guidance on how to make the reach of your
+research broader and longer lasting; Haddaway &amp; Verhoeven (2015) explain
+how to correctly describe methodology in ecology to make the research
+repeatable; Hillebrand and Gurevitch (2013) provide a checklist for
+reporting study details in manuscripts. The British Ecological Society
+(2017) have produced a useful guide for Reproducible Code in Ecology and
+Evolution. Lind (2013) presents lessons learned about data management in
+NutNet.</p>
+<p> </p>
+<div id="references-5" class="section level4" number="10.0.0.1">
+<h4>
+<span class="header-section-number">10.0.0.1</span> <span id="id__Toc23712722"></span><strong>1.6.1 References</strong><a class="anchor" aria-label="anchor" href="#references-5"><i class="fas fa-link"></i></a>
+</h4>
+<p>Boyle, B., Hopkins, N., Lu, Z., Raygoza Garay, J. A., Mozzherin, D.,
+Rees, T., … Enquist, B. J. (2013). The taxonomic name resolution
+service: an online tool for automated standardization of plant names.
+<em>BMC Bioinformatics</em>, 14, 16.</p>
+<p>British Ecological Society. (2017). <em>A Guide to Reproducible Code in
+Ecology and Evolution</em>. (K. Harrison, Ed.). British Ecological Society.
+Retrieved from www.britishecologicalsociety.org/publications/guides-to/</p>
+<p>British Ecological Society. (2018). <em>A Guide to Data Management in
+Ecology and Evolution</em>. (K. Harrison, Ed.). British Ecological Society.
+Retrieved from www.britishecologicalsociety.org/publications/guides-to/</p>
+<p>Fraser, L. H., Henry, H. A. L., Carlyle, C. N., White, S. R.,
+Beierkuhnlein, C., Cahill, J. F., … Turkington, R. (2013). Coordinated
+distributed experiments: an emerging tool for testing global hypotheses
+in ecology and environmental science. <em>Frontiers in Ecology and the
+Environment</em>, 11(3), 147–155.</p>
+<p>Gerstner, K., Moreno-Mateos, D., Gurevitch, J., Beckmann, M., Kambach,
+S., Jones, H. P., &amp; Seppelt, R. (2017). Will your paper be used in a
+meta-analysis? Make the reach of your research broader and longer
+lasting. <em>Methods in Ecology and Evolution</em>, 8(6), 777–784.</p>
+<p>Haddaway, N. R., &amp; Verhoeven, J. T. A. (2015). Poor methodological
+detail precludes experimental repeatability and hampers synthesis in
+ecology. <em>Ecology and Evolution</em>, 5(19), 4451–4454.</p>
+<p>Halbritter, A. H., Fior, S., Keller, I., Billeter, R., Edwards, P. J.,
+Holderegger, R., … Alexander, J. M. (2018). Trait differentiation and
+adaptation of plants along elevation gradients. <em>Journal of Evolutionary
+Biology</em>, 31, 784–800.</p>
+<p>Hillebrand, H., &amp; Gurevitch, J. (2013). Reporting standards in
+experimental studies. <em>Ecology Letters</em>, 16(12), 1419–1420.</p>
+<p>Lind, E. M. (2016). Unified data management for distributed experiments:
+A model for collaborative grassroots scientific networks. <em>Ecological
+informatics</em>, 36, 231–236.</p>
+<p>Morueta-Holme, N., Oldfather, M. F., Olliff-Yang, R. L., Weitz, A. P.,
+Levine, C. R., Kling, M. M., … Ackerly, D. D. (2018). Best practices for
+reporting climate data in ecology. <em>Nature Climate Change</em>, 8(2), 92–94.</p>
+<p>Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D.,
+Breckler, S. J., … Yarkoni, T. (2015). Promoting an open research
+culture. <em>Science</em>, 348(6242), 1422–1425.</p>
+<p>Stark, P. B. (2018). Before reproducibility must come preproducibility.
+<em>Nature</em>, 557(7707), 613.</p>
+
+</div>
+</div>
+
+
+
+<div class="chapter-nav">
+<div class="prev"><a href="meteorological-measurements.html"><span class="header-section-number">9</span> 1.5 Meteorological measurements</a></div>
+<div class="next"><a href="aboveground-plant-biomass.html"><span class="header-section-number">11</span> 2.1.1 Aboveground plant biomass</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#open-science-practice-reproducible-workflow-and-data-management"><span class="header-section-number">10</span> 1.6 Open science practice, reproducible workflow, and data management</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
+</div>
+  
+
+  
+
+</div>
+ <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>How to measure plant species composition?</strong>" was written by Aud Halbritter. It was last built on 2026-04-12.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>

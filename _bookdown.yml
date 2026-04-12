@@ -1,0 +1,11 @@
+delete_merged_file: true
+new_session: true
+book_filename: "ClimEx Handbook"
+rmd_files:
+  - "005_intro.Rmd"
+  - "100_site-characteristics.Rmd"
+  - "200_carbon-and-nutrient-cycling.Rmd"
+  - "300_water-cycling.Rmd"
+  - "400_species-and-interactions.Rmd"
+  - "500_stress-physiology.Rmd"
+  - "600_blog-posts.Rmd"

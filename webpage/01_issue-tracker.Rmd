@@ -1,0 +1,23 @@
+---
+title: "Issue Tracker"
+---
+
+# Issue Tracker
+
+## Issue Tracker
+
+We want to ensure that the ClimEx Handbook will also be a useful
+resource for the community in the future. Comments and suggestions for
+updating the protocols are welcome and can be made
+[here](https://github.com/ClimExHandbook/ClimExHandbook/issues).<img src="images/Bildschirmfoto-2019-11-14-um-11.17.11-300x202.png"
+class="size-medium wp-image-763 alignleft" loading="lazy"
+decoding="async"
+srcset="https://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-14-um-11.17.11-300x202.png 300w, https://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-14-um-11.17.11-1024x691.png 1024w, https://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-14-um-11.17.11-768x518.png 768w, https://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-14-um-11.17.11-272x182.png 272w, https://climexhandbook.w.uib.no/files/2019/11/Bildschirmfoto-2019-11-14-um-11.17.11.png 1396w"
+sizes="auto, (max-width: 300px) 100vw, 300px" width="300"
+height="202" />
+
+The comments and suggestions will be assessed by the authors of the
+ClimEx Handbook periodically, and it might take some time before you
+hear back from us. All the changes and updates that are made to the
+protocols are track changed via our [GitHub
+repository](https://github.com/ClimExHandbook/ClimExHandbook).

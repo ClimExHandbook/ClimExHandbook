@@ -1,0 +1,43 @@
+---
+title: "History"
+---
+
+# History
+
+The [EU Cost Action ClimMani](https://climmani.org/) (2014-2018)
+focussed on building and strengthening the experimental climate-change
+research community. Key goals of
+
+<figure id="attachment_769" class="wp-caption alignright"
+aria-describedby="caption-attachment-769" style="width: 414px">
+<img src="images/GroupPhoto-300x200.png" class="wp-image-769"
+loading="lazy" decoding="async"
+srcset="https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto-300x200.png 300w, https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto-1024x683.png 1024w, https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto-768x512.png 768w, https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto-1536x1025.png 1536w, https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto-272x182.png 272w, https://climexhandbook.w.uib.no/files/2019/11/GroupPhoto.png 2048w"
+sizes="auto, (max-width: 414px) 100vw, 414px" width="414"
+height="276" />
+<figcaption>Group photo from Finse Workshop 2017. Photo: Erika Anita
+Leslie</figcaption>
+</figure>
+
+this Action were to provide guidelines for best experimental practices,
+and to advance experiment–data–model interactions. ClimMani therefore
+set out to develop and promote common protocols as a community effort to
+guide future measurements and experiments, and to improve future
+inter-site comparisons, meta-analyses, and model–experiment
+interactions.
+
+In March 2017, 26 ClimMani members met for a workshop and initiated the
+collection of measurement protocols in climate-change studies. The
+structure and outline for the project was developed, and leaders for the
+five chapters appointed. Researchers were identified that could lead
+protocols based on their scientific expertise. In total, the protocol
+writing team consisted of 85 authors, who wrote the protocols based on
+their expert knowledge and existing protocols in the literature.
+
+In a second round, 50 experts reviewed the protocols, after which the
+authors finalised the protocols by the end of 2017. A second workshop
+was organised in January 2018 to finalise and harmonise all protocols
+and agree on data presentation. In total, 115 scientists from 21
+countries on four continents were involved.
+
+ 

@@ -1,0 +1,19 @@
+---
+title: "Published"
+---
+
+# Published
+
+<img src="images/Bildschirmfoto-2020-01-28-um-10.43.12-225x300.png"
+class="alignnone size-medium wp-image-865" loading="lazy"
+decoding="async"
+srcset="https://climexhandbook.w.uib.no/files/2020/01/Bildschirmfoto-2020-01-28-um-10.43.12-225x300.png 225w, https://climexhandbook.w.uib.no/files/2020/01/Bildschirmfoto-2020-01-28-um-10.43.12.png 474w"
+sizes="auto, (max-width: 225px) 100vw, 225px" width="225"
+height="300" />
+
+The
+[handbook](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13331)
+for standardized field and laboratory measurements in terrestrial
+climate change experiments and observational studies (ClimEx) is now
+published in an issue! And we have updated the “how to cite” section on
+the webpage.
