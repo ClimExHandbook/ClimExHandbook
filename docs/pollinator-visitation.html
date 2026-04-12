@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>51 4.13 Pollinator visitation | How to measure plant species composition?</title>
+<meta name="author" content="Aud Halbritter">
+<meta name="description" content="Authors: Hegland SJ1, Gillespie MAK1 Reviewer: Sydenham MAK2   Measurement unit: number of pollinators per flower per time unit/various network descriptors; Measurement scale: site, plot, plant or...">
+<meta name="generator" content="bookdown 0.46 with bs4_book()">
+<meta property="og:title" content="51 4.13 Pollinator visitation | How to measure plant species composition?">
+<meta property="og:type" content="book">
+<meta property="og:description" content="Authors: Hegland SJ1, Gillespie MAK1 Reviewer: Sydenham MAK2   Measurement unit: number of pollinators per flower per time unit/various network descriptors; Measurement scale: site, plot, plant or...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="51 4.13 Pollinator visitation | How to measure plant species composition?">
+<meta name="twitter:description" content="Authors: Hegland SJ1, Gillespie MAK1 Reviewer: Sydenham MAK2   Measurement unit: number of pollinators per flower per time unit/various network descriptors; Measurement scale: site, plot, plant or...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="css/style-chapters.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">How to measure plant species composition?</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">The Aim of ClimEx Handbook</a></li>
+<li class="book-part">General Information</li>
+<li><a class="" href="get-engaged.html"><span class="header-section-number">1</span> Get Engaged</a></li>
+<li><a class="" href="history.html"><span class="header-section-number">2</span> History</a></li>
+<li><a class="" href="issue-tracker.html"><span class="header-section-number">3</span> Issue Tracker</a></li>
+<li><a class="" href="who-we-are.html"><span class="header-section-number">4</span> Who We Are</a></li>
+<li class="book-part">Section 1: Site Characteristics and Data Management</li>
+<li><a class="" href="optimising-the-study-design.html"><span class="header-section-number">5</span> 1.1 Optimising the study design</a></li>
+<li><a class="" href="geographical-location-and-basic-site-description.html"><span class="header-section-number">6</span> 1.2 Geographical location and basic site description</a></li>
+<li><a class="" href="soil-type-and-physical-characteristics.html"><span class="header-section-number">7</span> 1.3 Soil type and physical characteristics</a></li>
+<li><a class="" href="soil-chemistry-and-nutrient-availability.html"><span class="header-section-number">8</span> 1.4 Soil chemistry and nutrient availability</a></li>
+<li><a class="" href="meteorological-measurements.html"><span class="header-section-number">9</span> 1.5 Meteorological measurements</a></li>
+<li><a class="" href="open-science-practice-reproducible-workflow-and-data-management.html"><span class="header-section-number">10</span> 1.6 Open science practice, reproducible workflow, and data management</a></li>
+<li class="book-part">Section 2: Carbon and Nutrient Cycling</li>
+<li><a class="" href="aboveground-plant-biomass.html"><span class="header-section-number">11</span> 2.1.1 Aboveground plant biomass</a></li>
+<li><a class="" href="belowground-plant-biomass.html"><span class="header-section-number">12</span> 2.1.2 Belowground plant biomass</a></li>
+<li><a class="" href="leaf-scale-photosynthesis.html"><span class="header-section-number">13</span> 2.1.3 Leaf-scale photosynthesis</a></li>
+<li><a class="" href="plant-respiration.html"><span class="header-section-number">14</span> 2.1.4 Plant respiration</a></li>
+<li><a class="" href="root-exudation-in-situ.html"><span class="header-section-number">15</span> 2.1.5 Root exudation (in situ)</a></li>
+<li><a class="" href="foliar-stoichiometry-and-nutrient-resorption.html"><span class="header-section-number">16</span> 2.1.6 Foliar stoichiometry and nutrient resorption</a></li>
+<li><a class="" href="soil-microbial-biomass-c-n-and-p.html"><span class="header-section-number">17</span> 2.2.1 Soil microbial biomass – C, N, and P</a></li>
+<li><a class="" href="root-and-soil-colonisation-by-mycorrhizal-fungi.html"><span class="header-section-number">18</span> 2.2.2 Root and soil colonisation by mycorrhizal fungi</a></li>
+<li><a class="" href="soil-co2-and-other-trace-gas-fluxes.html"><span class="header-section-number">19</span> 2.2.3 Soil CO2 (and other trace gas) fluxes</a></li>
+<li><a class="" href="soil-carbon-and-nutrient-stocks.html"><span class="header-section-number">20</span> 2.2.4 Soil carbon and nutrient stocks</a></li>
+<li><a class="" href="nutrient-mineralisation.html"><span class="header-section-number">21</span> 2.2.5 Nutrient mineralisation</a></li>
+<li><a class="" href="foliar-litter-decomposition.html"><span class="header-section-number">22</span> 2.2.6 Foliar litter decomposition</a></li>
+<li><a class="" href="root-decomposition.html"><span class="header-section-number">23</span> 2.2.7 Root decomposition</a></li>
+<li><a class="" href="soil-organic-matter-som-decomposition.html"><span class="header-section-number">24</span> 2.2.8 Soil organic matter (SOM) decomposition</a></li>
+<li><a class="" href="soil-leaching.html"><span class="header-section-number">25</span> 2.2.9 Soil leaching</a></li>
+<li><a class="" href="soil-water-erosion.html"><span class="header-section-number">26</span> 2.2.10 Soil water erosion</a></li>
+<li><a class="" href="biological-nitrogen-fixation.html"><span class="header-section-number">27</span> 2.2.11 Biological nitrogen fixation</a></li>
+<li><a class="" href="ecosystem-co2-and-trace-gas-fluxes.html"><span class="header-section-number">28</span> 2.3.1 Ecosystem CO2 and trace gas fluxes</a></li>
+<li><a class="" href="total-belowground-carbon-flux.html"><span class="header-section-number">29</span> 2.3.2 Total belowground carbon flux</a></li>
+<li><a class="" href="upscaling-from-the-plot-scale-to-the-ecosystem-and-beyond.html"><span class="header-section-number">30</span> 2.3.3 Upscaling from the plot scale to the ecosystem and beyond</a></li>
+<li class="book-part">Section 3: Water Cycling</li>
+<li><a class="" href="soil-moisture-1.html"><span class="header-section-number">31</span> 3.1 Soil moisture</a></li>
+<li><a class="" href="soil-hydraulic-conductivity.html"><span class="header-section-number">32</span> 3.2 Soil hydraulic conductivity</a></li>
+<li><a class="" href="soil-water-retention.html"><span class="header-section-number">33</span> 3.3 Soil water retention</a></li>
+<li><a class="" href="soil-water-potential.html"><span class="header-section-number">34</span> 3.4 Soil water potential</a></li>
+<li><a class="" href="soil-temperature.html"><span class="header-section-number">35</span> 3.5 Soil temperature</a></li>
+<li><a class="" href="soil-wetability-or-water-repellency.html"><span class="header-section-number">36</span> 3.6 Soil wetability or water repellency</a></li>
+<li><a class="" href="sap-flux.html"><span class="header-section-number">37</span> 3.7 Sap flux</a></li>
+<li><a class="" href="ecosystem-water-stress.html"><span class="header-section-number">38</span> 3.8 Ecosystem water stress</a></li>
+<li class="book-part">Section 4: Species and Interactions</li>
+<li><a class="" href="sexual-plant-reproduction.html"><span class="header-section-number">39</span> 4.1 Sexual plant reproduction</a></li>
+<li><a class="" href="seed-viability-germinability-and-dormancy.html"><span class="header-section-number">40</span> 4.2 Seed viability, germinability, and dormancy</a></li>
+<li><a class="" href="plant-demography.html"><span class="header-section-number">41</span> 4.3 Plant demography</a></li>
+<li><a class="" href="bud-dormancy-depth.html"><span class="header-section-number">42</span> 4.4 Bud dormancy depth</a></li>
+<li><a class="" href="aboveground-plant-phenology.html"><span class="header-section-number">43</span> 4.5 Aboveground plant phenology</a></li>
+<li><a class="" href="the-soil-seed-bank-buried-seed-pool.html"><span class="header-section-number">44</span> 4.6 The soil seed bank (buried seed pool)</a></li>
+<li><a class="" href="propagule-rain.html"><span class="header-section-number">45</span> 4.7 Propagule rain</a></li>
+<li><a class="" href="plant-community-composition.html"><span class="header-section-number">46</span> 4.8 Plant community composition</a></li>
+<li><a class="" href="soil-microbial-community-composition.html"><span class="header-section-number">47</span> 4.9 Soil microbial community composition</a></li>
+<li><a class="" href="soil-micro--and-mesofauna-community-composition.html"><span class="header-section-number">48</span> 4.10 Soil micro- and mesofauna community composition</a></li>
+<li><a class="" href="macroinvertebrate-community-composition.html"><span class="header-section-number">49</span> 4.11 Macroinvertebrate community composition</a></li>
+<li><a class="" href="pollinator-composition.html"><span class="header-section-number">50</span> 4.12 Pollinator composition</a></li>
+<li><a class="active" href="pollinator-visitation.html"><span class="header-section-number">51</span> 4.13 Pollinator visitation</a></li>
+<li><a class="" href="plant-pathogen-and-invertebrate-herbivory.html"><span class="header-section-number">52</span> 4.14 Plant pathogen and invertebrate herbivory</a></li>
+<li><a class="" href="vertebrate-herbivory.html"><span class="header-section-number">53</span> 4.15 Vertebrate herbivory</a></li>
+<li><a class="" href="functional-traits.html"><span class="header-section-number">54</span> 4.16 Functional traits</a></li>
+<li class="book-part">Section 5: Stress Physiology</li>
+<li><a class="" href="chlorophyll-fluorescence.html"><span class="header-section-number">55</span> 5.1 Chlorophyll fluorescence</a></li>
+<li><a class="" href="chlorophyll-and-carotenoid-content.html"><span class="header-section-number">56</span> 5.2 Chlorophyll and carotenoid content</a></li>
+<li><a class="" href="non-structural-carbohydrates.html"><span class="header-section-number">57</span> 5.3 Non-structural carbohydrates</a></li>
+<li><a class="" href="lethal-dose-ld50-to-quantify-stress-tolerance-exemplified-by-frost-tolerance.html"><span class="header-section-number">58</span> 5.4 Lethal dose (LD50) to quantify stress tolerance exemplified by frost tolerance</a></li>
+<li><a class="" href="leaf-temperature.html"><span class="header-section-number">59</span> 5.5 Leaf temperature</a></li>
+<li><a class="" href="leaf-thermal-traits.html"><span class="header-section-number">60</span> 5.6 Leaf thermal traits</a></li>
+<li><a class="" href="stomatal-conductance.html"><span class="header-section-number">61</span> 5.7 Stomatal conductance</a></li>
+<li><a class="" href="psychrometry-for-water-potential-measurements.html"><span class="header-section-number">62</span> 5.8 Psychrometry for water potential measurements</a></li>
+<li><a class="" href="pressure-volume-curves-tlp-%CE%B5-%CF%88o.html"><span class="header-section-number">63</span> 5.9 Pressure-volume curves – TLP, ε, Ψo</a></li>
+<li><a class="" href="maximum-leaf-hydraulic-conductance.html"><span class="header-section-number">64</span> 5.10 Maximum leaf hydraulic conductance</a></li>
+<li><a class="" href="metabolomic-profiling-in-plants-using-mass-spectrometry.html"><span class="header-section-number">65</span> 5.11 Metabolomic profiling in plants using mass-spectrometry</a></li>
+<li><a class="" href="reflectance-assessment-of-plant-physiological-status.html"><span class="header-section-number">66</span> 5.12 Reflectance assessment of plant physiological status</a></li>
+<li><a class="" href="stable-isotopes-of-water-for-inferring-plant-function.html"><span class="header-section-number">67</span> 5.13 Stable isotopes of water for inferring plant function</a></li>
+<li><a class="" href="bvocs-emissions-from-plants-and-soils.html"><span class="header-section-number">68</span> 5.14 BVOCs emissions from plants and soils</a></li>
+<li><a class="" href="water-use-efficiency.html"><span class="header-section-number">69</span> 5.15 Water-use efficiency</a></li>
+<li><a class="" href="leaf-hydraulic-vulnerability-to-dehydration.html"><span class="header-section-number">70</span> 5.16 Leaf hydraulic vulnerability to dehydration</a></li>
+<li class="book-part">Blog</li>
+<li class="book-part">Blog</li>
+<li><a class="" href="published.html"><span class="header-section-number">71</span> Published</a></li>
+<li><a class="" href="soil-and-ecosystem-respiration.html"><span class="header-section-number">72</span> Soil and ecosystem respiration</a></li>
+<li><a class="" href="how-to-measure-plant-species-composition.html"><span class="header-section-number">73</span> How to measure plant species composition?</a></li>
+</ul>
+
+        <div class="book-extra">
+          
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="pollinator-visitation" class="section level1" number="51">
+<h1>
+<span class="header-section-number">51</span> 4.13 Pollinator visitation<a class="anchor" aria-label="anchor" href="#pollinator-visitation"><i class="fas fa-link"></i></a>
+</h1>
+<p><strong>Authors:</strong> Hegland SJ<sup>1</sup>, Gillespie MAK<sup>1</sup></p>
+<p><strong>Reviewer:</strong> Sydenham MAK<sup>2</sup></p>
+<p> </p>
+<p><strong>Measurement unit: number of pollinators per flower per time
+unit/various network descriptors; Measurement scale: site, plot, plant
+or flower; Equipment costs: €€€; Running costs: € Installation effort:
+low; Maintenance effort: low; Knowledge need: medium; Measurement mode:
+manual</strong></p>
+<p>Data on pollinator visitations are usually collected via observations of
+interactions between animal pollinators and flowers and can be recorded
+at one or several sites. Such pollinator visitation observations can be
+used across a wide range of climate- and global-change studies. The data
+are relevant both when performing experiments on plant or insects and
+when observing fine- to coarse-scale impacts of various factors. The
+data are specifically used to i) calculate the pollinator visitation
+rate, ii) describe the structure of individual plant–pollinator
+interaction networks (see Protocol 4.12 Pollinator composition), and
+iii) describe the structural differences between networks if several
+study sites are surveyed.</p>
+<p>The pollinator visitation rate (also called “flower visitation rate”,
+e.g. the number of pollinators visiting a flower per unit time) is the
+most commonly used variable to assess animal pollination and its
+contribution to plant reproduction (Garibaldi et al., 2013). Animal
+pollination is the most common pathway of sexual reproduction in plants
+and is considered a key regulating ecosystem service due to the mutual
+benefits for plants and pollinators. Nearly 90% of wild flowering plants
+depend on animal pollination to varying degrees (Ollerton et al., 2011)
+and pollination contributes up to 35% of global crop production volume
+(Klein et al., 2007; IPBES, 2016). As plant–pollinator interactions are
+thought to be sensitive to global climate changes through spatial or
+temporal mismatches or by interacting with other global drivers such as
+habitat loss and invasive species (Hegland et al., 2009; Schweiger et
+al., 2010), consequent changes in visitation rate may impact seed and
+fruit production in plants and crops. For example, reduced visitation
+rates may increase pollen limitation and decrease crop production
+(Allen-Wardell et al., 1998; Potts et al., 2010). Other studies have
+demonstrated potential climate-induced mismatches by manipulating
+flowering phenology and observing pollinator visitation (Rafferty &amp;
+Ives, 2011; Gillespie et al., 2016). The protocols described here are
+relevant for studying a wide range of non-climatic anthropogenic
+influences on pollinator visitation such as habitat loss and
+fragmentation, invasive species, vegetation composition, and land-use
+change. Independent of any study aim, the variables can be collected as
+part of site census work, gradient studies, site comparisons, or
+plot-level experiments. However, it should be noted that it is often
+difficult to manipulate the pollinator side of the interaction as they
+operate on coarser scales than plants.</p>
+<p>Plant–pollinator network descriptors have become common variables in the
+ecological literature. Network structure descriptors provide the
+researcher with the tools to compare communities in time and space by
+statistical network patterns (Bascompte et al., 2003; Olesen et al.,
+2008; Jordano, 2016). In particular, the structural descriptors of
+mutualistic networks may indicate their robustness to perturbations
+(Rezende et al., 2007) such as climate change (Hegland et al., 2010).
+While many diverse networks are considered to be robust against the
+perturbations associated with climate warming (Hegland et al., 2009),
+there is much still to learn about these food webs and global change
+(Schmidt et al., 2017).</p>
+<p> </p>
+<div id="what-and-how-to-measure-37" class="section level4" number="51.0.0.1">
+<h4>
+<span class="header-section-number">51.0.0.1</span> <strong>4.13.1 What and how to measure?</strong><a class="anchor" aria-label="anchor" href="#what-and-how-to-measure-37"><i class="fas fa-link"></i></a>
+</h4>
+<p>Measuring the pollinator visitation rate necessarily includes the
+counting of both pollinators and flowers and is largely done
+non-destructively to avoid influencing the number of possible visits.
+However, the aim of the study influences the choice of scale (flower,
+plant, plot, site) and precision in the recordings. Plot-level studies
+often provide the best quality pollinator data, but plant-level
+recordings represent the highest quality data for both pollination and
+plant reproductive studies. Plot-level studies can be combined with
+plant/flower-level studies by tagging plants/flowers.</p>
+<p><strong>Plot-level</strong> recordings are often used for community studies where
+both plant and pollinator related questions are in focus. Such studies
+enable the observation of pollinator visitations to several plant
+species simultaneously and may involve the determination of pollinators
+to taxonomic group or species level (Hegland &amp; Totland, 2005).
+Plot-level recordings are usually conducted within a set area, for
+example 1–5 × 1–5 m plots (or the circular equivalent), large enough to
+obtain the variation of plants and pollinators that are in focus and
+easily perceived by the observer(s) available. The plots are often
+permanent within or across seasons, but may also be single-census plots
+depending on the aim of study. First, the number of pollinator
+visitations to each plant is recorded within a set time-period, and
+second, the number of flowers or inflorescences for each flowering
+species is counted. The time-period of observation ranges in many
+studies from a few minutes to a few hours, depending on the study system
+and insect density. For example, in the High Arctic a low density of
+flying insects requires longer (e.g. 2 x 20 min per plot per day; Olesen
+et al., 2008) than, for example, in a temperate grassland (e.g. 1 x 10
+min per plot per day; Hegland &amp; Totland, 2005). Researchers must adapt
+to the system-specific properties and be guided by previous studies in
+similar environments (see also below).</p>
+<p><strong>Plant-level</strong> recordings are often used when research questions mainly
+relate to plant reproduction of one species (<a href="http://climexhandbook.w.uib.no/2019/11/04/sexual-plant-reproduction/">see also protocol 4.1
+Plant sexual
+reproduction</a>)
+or to pollination by specialist pollinator species. In these cases, the
+observations are the same as plot-level studies, but a number of
+individual plants or flowers of the focal species are marked and
+observed repeatedly. Recordings at this level are also used when
+observing pollinator visitation and plant reproduction at the plant
+level is difficult, for example in trees. In all cases, it is
+recommended that observations are carried out on multiple days and
+across multiple sites (Fijen &amp; Kleijn, 2017).</p>
+<p>To measure network structure descriptors and interaction turnover it is
+necessary to construct plant–pollinator networks, which also requires
+the sampling of species interactions (Figure 4.13.1). This can involve
+either standardised observation periods (often 2 x 20-min; e.g. Olesen
+et al., 2008) as described above, or preferably a transect method
+standardised by distance, time, or both (e.g. 25 m and/or 5 min
+subtransect; e.g. Westphal et al., 2008; Hegland et al., 2010; <a href="http://climexhandbook.w.uib.no/2019/11/04/pollinator-composition/">see also
+protocol 4.12. Pollinator
+composition</a>).
+However, at higher latitudes and elevations sufficient data may only be
+attainable via the observation or plot method due to low species
+diversity and a reduced occurrence of interactions (Olesen et al.,
+2008). In the transect method, the observer walks along transects
+recording pollinators observed feeding from flowers or capturing them by
+netting for later identification (Hegland et al., 2010). In both cases,
+the flower species is also recorded. Plant–pollinator networks are then
+constructed, from which descriptors can be calculated (Nielsen &amp;
+Bascompte 2007; Hegland et al., 2010; Jordano, 2016).</p>
+<figure id="attachment_626" class="wp-caption alignnone" aria-describedby="caption-attachment-626" style="width: 916px"><img src="images/4.13.1.png" class="size-full wp-image-626" loading="lazy" decoding="async" srcset="https://climexhandbook.w.uib.no/files/2019/11/4.13.1.png 916w, https://climexhandbook.w.uib.no/files/2019/11/4.13.1-300x202.png 300w, https://climexhandbook.w.uib.no/files/2019/11/4.13.1-768x516.png 768w, https://climexhandbook.w.uib.no/files/2019/11/4.13.1-272x182.png 272w" sizes="auto, (max-width: 916px) 100vw, 916px" width="916" height="616"><figcaption><span style="font-size: 10pt"><strong>Figure 4.13.1</strong>
+An example of a plant–pollinator network.</span>
+</figcaption></figure><p> </p>
+<p>When using permanent plots or transects it is essential to mark and map
+their location to enable accurate resampling. Metal tubes may be
+inserted into the soil for relocation with a metal detector if other
+aboveground markings (e.g. plastic tubes, pegs, flags) may be disturbed
+by grazing, trampling, or other factors. When catching pollinators for
+later identification, much more equipment is required (sweep-net,
+storage vials, preservation materials; <a href="http://climexhandbook.w.uib.no/2019/11/04/pollinator-composition/">see also protocol on 4.12.
+Pollinator
+composition</a>)
+and expert taxonomists may be required to determine specimens to species
+level (Prys-Jones &amp; Corbet, 2011). If transects or observation periods
+are to be timed, a timer is required and it is recommended that <em>in
+situ</em> weather data are collected (temperature, rainfall, cloud cover,
+wind speed and direction) as these may be important covariates. Where
+possible, observations of insect visitation should be constrained to
+standardised weather conditions such as calm days with no rain and
+relatively high temperatures above to ensure the majority of the
+pollinator community are in flight (Totland, 1993, 1994; Kleijn et al.,
+2015).</p>
+<p> </p>
+<p><strong><em>Interpretation</em></strong></p>
+<p>The most common way to use and interpret pollinator visitation data is
+to use the number of flower visits by a pollinator species (i.e. <em>Bombus
+terrestris</em>), a pollinator group (<em>Bombus</em> sp.), or all pollinators to a
+single or multiple flowers per unit of time (Ricketts et al., 2008; King
+et al., 2013; Fijen &amp; Kleijn, 2017). Alternatively, at the plot level
+the number of visits to flowers in a plot divided by the number of
+flowers for a set time period can be calculated (Lazaro et al., 2013).
+However, a recent study has warned against analysing proportions as both
+the numerator and denominator can have distinct and unknown error
+distributions. It may be preferable, therefore, to analyse the number of
+visitors as count data and use the number of flowers as an “offset”
+variable (a component of the linear predictor of a Poisson model held
+constant, while other covariates are evaluated; Crawley, 2013) to
+account for sampling effect (Reitan &amp; Nielsen, 2016). The rate of
+pollinator visitors to a plant or plot can be interpreted in a number of
+ways, depending on the research question. For example, a decline in
+visitation rate over time can be an indication of the effectiveness or
+state of the pollinator community (Ricketts et al., 2008), or, in
+comparative studies, as the degree of attraction of the plant/plot to
+insect visitors (Lazaro et al., 2013). More attractive or rewarding
+plant species and plots are likely to attract a greater number of total
+visits and, depending on the research design, visits from a wider range
+of species or taxonomic groups. These variables can also provide an
+indication of the relative size and composition of the local pollinator
+community, with more visits by a diverse range of pollinators expected
+in an area with a rich and healthy community.</p>
+<p>When constructing plant–pollinator networks there are many potential
+statistics to calculate based on the two-part matrices (reviewed in
+Bascompte &amp; Jordano, 2007), although care must be taken with their use
+as they can be sensitive to sample size (Nielsen &amp; Bascompte, 2007).
+Basic metrics such as number and diversity of plant and pollinator
+species and the number of interactions can easily be calculated. In
+addition, nestedness, connectance, link density, and the degree-strength
+relationship are descriptors of mutualistic networks that provide an
+estimation of robustness against perturbations and losses in
+interactions (Bascompte et al., 2003; Rezende et al., 2007; Hegland et
+al., 2010). For example, networks with greater levels of connectance and
+nestedness have a stronger core of generalist species which subsequently
+aid the persistence of specialised interactions (Bascompte &amp; Jordano,
+2007). In general, the analysis of mutualist networks can be a complex
+undertaking and readers should become familiar with some key studies
+(see <em>Where to start</em> below) and theory before planning such a study.</p>
+<p> </p>
+<p><strong><em>Where to start</em></strong></p>
+<p>Bascompte &amp; Jordano (2007), Hegland &amp; Totland (2005), Hegland et al.
+(2010), Olesen et al. (2008), Rezende et al. (2007)</p>
+<p> </p>
+</div>
+<div id="special-cases-emerging-issues-and-challenges-32" class="section level4" number="51.0.0.2">
+<h4>
+<span class="header-section-number">51.0.0.2</span> <strong>4.13.2 Special cases, emerging issues, and challenges</strong><a class="anchor" aria-label="anchor" href="#special-cases-emerging-issues-and-challenges-32"><i class="fas fa-link"></i></a>
+</h4>
+<p>A key issue to determine is the length of time of the observation
+period, which depends on a number of factors. For example, the
+researcher should consider the time available for observations, the
+number of focal species, methods of studies with similar research
+questions, and the required sample size when choosing the time period.
+Furthermore, a recent study found that the minimum observation time
+required to accurately represent visitation rate varies between days and
+field locations with observations peaking in the middle of the day and
+at 29 ˚C (Fijen &amp; Kleijn, 2017). Fijen &amp; Kleijn (2017) conclude that the
+time taken for a set number of pollinators to visit the plot or plants
+may provide a more accurate estimate of visitation rate.</p>
+<p>An additional emerging issue is the distinction between flower visitors
+and effective pollinators. In the absence of observations to the
+contrary, a flower-visiting insect touching the sexual organs of a
+flower may be assumed to be a pollinator and included in
+plant–pollinator networks (Hegland et al., 2010). However, in some cases
+the insect may not be effective as a pollinator, taking the floral
+reward without providing the pollination service, or may be an
+inefficient pollinator (King et al., 2013). King et al. (2013) therefore
+propose the use of the variable “single-visit deposition” of pollen on
+virgin stigmas as a more practical measure of pollinator effectiveness.
+They further highlight the need to consider the effectiveness of
+insect-visitors in plant–pollinator network studies. In the strictest
+sense, if data on pollen deposition or pollinator effectiveness is
+lacking, flower-visitors should only be considered to be pollinating if
+they i) come into contact with the stigma and ii) have morphological
+features (e.g. hairs) that would allow them to carry and deposit pollen,
+otherwise they should be referred to as flower-visitors.</p>
+<p>Methods described above for constructing plant–pollinator networks are
+“phyto-centric” in that the focus is on the visitors to the plant
+species. Alternative “zoo-centric” methods, such as sampling the pollen
+attached to the bodies of pollinators are less common (Jordano, 2016),
+perhaps because they require identification of both insect and pollen
+species. In some cases, such as the identification of pollen attached to
+museum specimens (Bartomeus et al., 2011), the extra identification work
+is not required, however. Nevertheless, combining data from both phyto-
+and zoo-centric studies could provide a more complete analysis of
+interactions and ecosystem services provision (Jordano, 2016). Networks
+can be constructed as qualitative or quantitative food webs containing
+information on interaction strength or species abundance with the
+quantitative approach containing most information (Memmott, 1999).</p>
+<p>With some extra effort, planning, and species identification, plots and
+data used for calculating visitation rates may also be used to derive
+estimates of flowering phenology, pollinator composition and diversity,
+plant–pollinator networks, etc. (Westphal et al., 2008; Fijen &amp; Kleijn,
+2017); <a href="http://climexhandbook.w.uib.no/2019/11/04/aboveground-plant-phenology/">see also protocol 4.5 Aboveground plant
+phenology</a>
+and <a href="http://climexhandbook.w.uib.no/2019/11/04/pollinator-composition/">4.12 Pollinator
+composition</a>.</p>
+<p>The field of pollinator networks is constantly developing and
+understanding spatial turnover, and subsequently the heterogeneity among
+sites or communities, is central to many biodiversity issues. For
+example, new metrics such as the H2’ index, which measures the degree of
+specialisation in networks, are thought to be more sensitive to
+perturbations (Blüthgen et al., 2006; Hoiss et al., 2015). Likewise, the
+identity of interacting species within plant–pollinator networks varies
+along environmental and spatial gradients (Trøjelsgaard et al., 2015),
+which potentially aids the long-term persistence and capacity for
+evolutionary adaptation under climate change (Burkle &amp; Alarcon, 2011).
+The focus on interaction-turnover is relatively recent with many
+questions remaining unanswered (Burkle et al., 2016).</p>
+<p> </p>
+</div>
+<div id="references-40" class="section level4" number="51.0.0.3">
+<h4>
+<span class="header-section-number">51.0.0.3</span> <strong>4.13.3 References</strong><a class="anchor" aria-label="anchor" href="#references-40"><i class="fas fa-link"></i></a>
+</h4>
+<p><strong><em>Theory, significance, and large datasets</em></strong></p>
+<p>Fijen &amp; Kleijn (2017), Jordano (2016), King et al. (2013), Ricketts et
+al. (2008)</p>
+<p> </p>
+<p><strong><em>More on methods and existing protocols</em></strong></p>
+<p>Fijen &amp; Kleijn (2017), Hegland et al. (2010), King et al. (2013)</p>
+<p><strong><em> </em></strong></p>
+<p><strong><em>All references</em></strong></p>
+<p>Allen-Wardell, G., Bernhardt, P., Bitner, R., Burquez, A., Buchmann, S.,
+Cane, J., … Walker, S. (1998). The potential consequences of pollinator
+declines on the conservation of biodiversity and stability of food crop
+yields. <em>Conservation Biology, 12</em>, 8-17.</p>
+<p>Bartomeus, I., Ascher, J. S., Wagner, D., Danforth, B. N., Colla, S.,
+Kornbluth, S., &amp; Winfree, R. (2011). Climate-associated phenological
+advances in bee pollinators and bee-pollinated plants. <em>Proceedings of
+the National Academy of Sciences USA, 108</em>, 20645-20649.</p>
+<p>Bascompte, J., &amp; Jordano, P. (2007). Plant-animal mutualistic networks:
+the architecture of biodiversity. <em>Annual Review of Ecology Evolution
+and Systematics, 38,</em> 567-593.</p>
+<p>Bascompte, J., Jordano, P., Melian, C. J., &amp; Olesen, J. M. (2003). The
+nested assembly of plant-animal mutualistic networks. <em>Proceedings of
+the National Academy of Sciences USA, 100</em>, 9383-9387.</p>
+<p>Blüthgen, N., Menzel, F., &amp; Blüthgen, N. (2006). Measuring
+specialization in species interaction networks. <em>BMC Ecology, 6</em>, art9.</p>
+<p>Burkle, L. A., &amp; Alarcon, R. (2011). The future of plant-pollinator
+diversity: understanding interaction networks across time, space, and
+global change. <em>American Journal of Botany, 98</em>, 528-538.</p>
+<p>Burkle, L. A., Myers, J. A., &amp; Belote, R. T. (2016). The beta-diversity
+of species interactions: untangling the drivers of geographic variation
+in plant–pollinator diversity and function across scales. <em>American
+Journal of Botany, 103</em>, 118-128.</p>
+<p>Crawley, M. J. (2013). <em>The R Book</em>. Chichester: John Wiley &amp; Sons.</p>
+<p>Fijen, T. P. M., &amp; Kleijn, D. (2017). How to efficiently obtain accurate
+estimates of flower visitation rates by pollinators. <em>Basic and Applied
+Ecology, 19</em>, 11-18.</p>
+<p>Garibaldi, L. A., Steffan-Dewenter, I., Winfree, R., Aizen, M. A.,
+Bommarco, R., Cunningham, S. A., … Klein, A. M. (2013). Wild pollinators
+enhance fruit set of crops regardless of honey bee abundance. <em>Science,
+339</em>, 1608-1611.</p>
+<p>Gillespie, M. A. K., Baggeson N., Cooper E. J. (2016). High Arctic
+flowering phenology and plant-pollinator interactions in response to
+delayed snow melt and simulated warming. <em>Environmental Research
+Letters, 11</em>(11): 115006.</p>
+<p>Hegland, S. J., &amp; Totland, Ø. (2005). Relationships between species’
+floral traits and pollinator visitation in a temperate grassland.
+<em>Oecologia, 145</em>, 586-594.</p>
+<p>Hegland, S. J., Nielsen, A., Lázaro, A., Bjerknes, A. L., &amp; Totland, Ø.
+(2009). How does climate warming affect plant-pollinator interactions?
+<em>Ecology Letters, 12</em>, 184-195.</p>
+<p>Hegland, S. J., Dunne, J., Nielsen, A., &amp; Memmott, J. (2010). How to
+monitor ecological communities cost-efficiently: the example of
+plant-pollinator networks. <em>Biological Conservation, 143</em>, 2092-2101.</p>
+<p>Hoiss, B., Krauss, J., &amp; Steffan-Dewenter, I. (2015). Interactive
+effects of elevation, species richness and extreme climatic events on
+plant-pollinator networks. <em>Global Change Biology, 21</em>, 4086-4097.</p>
+<p>IPBES. (2016). <em>Summary for policymakers of the assessment report of the
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem
+Services on pollinators, pollination and food production</em>. Secretariat
+of the Intergovernmental Science-Policy Platform on Biodiversity and
+Ecosystem Services, Bonn, Germany.</p>
+<p>Jordano, P. (2016). Sampling networks of ecological interactions.
+<em>Functional Ecology, 30</em>, 1883-1893.</p>
+<p>King, C., Ballantyne, G., &amp; Willmer, P. G. (2013). Why flower visitation
+is a poor proxy for pollination: measuring single-visit pollen
+deposition, with implications for pollination networks and conservation.
+<em>Methods in Ecology and Evolution, 4</em>, 811-818.</p>
+<p>Kleijn, D., Winfree, R., Bartomeus, I., Carvalheiro, L. G., Henry, M.,
+Isaacs, R., … Potts, S. G. (2015). Delivery of crop pollination services
+is an insufficient argument for wild pollinator conservation. <em>Nature
+Communications, 6</em>, art7414.</p>
+<p>Klein, A. M., Vaissiere, B. E., Cane, J. H., Steffan-Dewenter, I.,
+Cunningham, S. A., Kremen, C., &amp; Tscharntke, T. (2007). Importance of
+pollinators in changing landscapes for world crops. <em>Proceedings of the
+Royal Society B: Biological Sciences, 274</em>, 303-313.</p>
+<p>Lazaro, A., Jakobsson, A., &amp; Totland, Ø. (2013). How do pollinator
+visitation rate and seed set relate to species’ floral traits and
+community context? <em>Oecologia, 173</em>, 881-893.</p>
+<p>Memmott, J. (1999). The structure of a plant-pollinator food web.
+<em>Ecology Letters, 2</em>, 276-280.</p>
+<p>Nielsen, A., &amp; Bascompte, J. (2007). Ecological networks, nestedness and
+sampling effort. <em>Journal of Ecology, 95</em>, 1134-1141.</p>
+<p>Olesen, J. M., Bascompte, J., Elberling, H., &amp; Jordano, P. (2008).
+Temporal dynamics in a pollination network. <em>Ecology, 89</em>, 1573-1582.</p>
+<p>Ollerton, J., Winfree, R., &amp; Tarrant, S. (2011). How many flowering
+plants are pollinated by animals? <em>Oikos, 120</em>, 321-326.</p>
+<p>Potts, S. G., Biesmeijer, J. C., Kremen, C., Neumann, P., Schweiger, O.,
+&amp; Kunin, W. E. (2010). Global pollinator declines: trends, impacts and
+drivers. <em>Trends in Ecology &amp; Evolution, 25</em>, 345-353.</p>
+<p>Prys-Jones, O. E., &amp; Corbet, S. A. (2011). <em>Bumblebees</em> (3<sup>rd</sup>
+ed.). Exeter: Pelagic Publishing.</p>
+<p>Rafferty, N. E., &amp; Ives, A. R. (2011). Effects of experimental shifts in
+flowering phenology on plant-pollinator interactions. <em>Ecology Letters,
+14</em>(1), 69-74.</p>
+<p>Reitan, T., &amp; Nielsen, A. (2016). Do not divide count data with count
+data; a story from pollination ecology with implications beyond. <em>PLoS
+ONE, 1</em>1, :e0149129.</p>
+<p>Rezende, E. L., Lavabre, J. E., Guimaraes, P. R., Jordano, P., &amp;
+Bascompte, J. (2007). Non-random coextinctions in phylogenetically
+structured mutualistic networks. <em>Nature, 448</em>, 925-928.</p>
+<p>Ricketts, T. H., Regetz, J., Steffan-Dewenter, I., Cunningham, S. A.,
+Kremen, C., Bogdanski, A., … Viana, B. F. (2008). Landscape effects on
+crop pollination services: are there general patterns? <em>Ecology Letters,
+1</em>1, 499-515.</p>
+<p>Schmidt, N. M., Hardwick, B., Gilg, O., Hoye, T. T., Krogh, P. H.,
+Meltofte, H., … Roslin, T. (2017). Interaction webs in arctic
+ecosystems: determinants of arctic change? <em>Ambio, 46</em>, S12-S25.</p>
+<p>Schweiger, O., Biesmeijer, J. C., Bommarco, R., Hickler, T., Hulme, P.
+E., Klotz, S., … Settele, J. (2010). Multiple stressors on biotic
+interactions: how climate change and alien species interact to affect
+pollination. <em>Biological Reviews, 85</em>, 777-795.</p>
+<p>Totland, Ø. (1993). Pollination in alpine Norway: flowering phenology,
+insect visitors, and visitation rates in two plant communities.
+<em>Canadian Journal of Botany, 71</em>,1072-1079.</p>
+<p>Totland, Ø. (1994). Influence of climate, time of day and season, and
+flower density on insect flower visitation in alpine Norway. <em>Arctic and
+Alpine Research, 26</em>, 66-71.</p>
+<p>Trøjelsgaard, K., Jordano, P., Carstensen, D. W., &amp; Olesen, J. M.
+(2015). Geographical variation in mutualistic networks: similarity,
+turnover and partner fidelity. <em>Proceedings of the Royal Society B:
+Biological Sciences, 282</em>(1802), 2014.2925.</p>
+<p>Westphal, C., Bommarco, R., Carre, G., Lamborn, E., Morison, N.,
+Petanidou, T., … Steffan-Dewenter, I. (2008). Measuring bee diversity in
+different European habitats and biogeographical regions. <em>Ecological
+Monographs, 78</em>, 653-671.</p>
+<p> </p>
+<p> </p>
+<p><strong>Authors:</strong> Hegland SJ<sup>1</sup>, Gillespie MAK<sup>1</sup></p>
+<p><strong>Reviewer:</strong> Sydenham MAK<sup>2</sup></p>
+<p> </p>
+<p><strong>Affiliations</strong></p>
+<p><sup>1</sup> Department of Environmental Sciences, Western Norway
+University of Applied Sciences, Sogndal, Norway</p>
+<p><sup>2</sup> Norwegian Institute for Nature Research, Oslo, Norway</p>
+
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="pollinator-composition.html"><span class="header-section-number">50</span> 4.12 Pollinator composition</a></div>
+<div class="next"><a href="plant-pathogen-and-invertebrate-herbivory.html"><span class="header-section-number">52</span> 4.14 Plant pathogen and invertebrate herbivory</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#pollinator-visitation"><span class="header-section-number">51</span> 4.13 Pollinator visitation</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>How to measure plant species composition?</strong>" was written by Aud Halbritter. It was last built on 2026-04-12.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>

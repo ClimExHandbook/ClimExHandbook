@@ -1,0 +1,16 @@
+---
+title: "Soil and ecosystem respiration"
+---
+
+# Soil and ecosystem respiration
+
+A short video by Kamal Zurba from the Interdisciplinary Environmental
+Research Centre, Technische Universität Bergakademie Freiberg in
+Germany, showing the use of<span style="font-size: 0.9375rem"> manual
+chamber techniques to determine soil and ecosystem respiration, in
+addition to quantify GHG emissions from soils under different land use,
+mainly for CO2, CH4 and N2O. For more details on the method have a look
+at protocol [2.2.3 Soil CO2 and other trace gas
+fluxes](https://climexhandbook.w.uib.no/handbook/s2-carbon-and-nutrient-cycling/).</span>
+
+<http://climexhandbook.w.uib.no/files/2020/07/GHG-Freiberg_kamal.mp4>

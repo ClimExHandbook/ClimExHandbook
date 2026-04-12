@@ -1,0 +1,510 @@
+---
+title: "5.2 Chlorophyll and carotenoid content"
+---
+
+# 5.2 Chlorophyll and carotenoid content
+
+**Authors:** Mänd P<sup>1</sup>
+
+**Reviewers**: Porcar Castell A<sup>2</sup>, Linder S<sup>3</sup>
+
+** **
+
+**Measurement unit:** **mg cm<sup>-2</sup>, mg g<sup>-1</sup>;
+Measurement scale: leaf-level; Equipment costs:** **€–€€; Running costs:
+€; Installation effort: medium; Maintenance effort: low; Knowledge:
+medium; Measurement mode: manual**
+
+Chlorophylls and carotenoids are plant pigments which absorb light
+energy for use in photosynthesis. There are two main chlorophyll (Chl)
+pigments in higher plants (Chl a and Chl b) and several hundred
+different carotenoids (Car). However, only six carotenoids are
+ubiquitous among higher plants (Esteban et al., 2015). The pigment
+content of plants is species-specific and changes with season and leaf
+age (Linder, 1972), but also depends on environmental parameters, mainly
+light conditions (Demmig-Adams & Adams, 1992; Niinemets & Valladares,
+2004)*.* Shade plants usually have higher chlorophyll concentrations per
+unit leaf mass and a lower ratio of Car:Chl and Chl a:b (Niinemets et
+al., 1998). Light-harvesting protein complexes in plant photosystems
+(mainly LHCII) are rich in Chl b, in contrast to the core reaction
+centre complexes of plant photosystems that consist only of Chl a. Thus,
+an increase in antenna (LHC) size will be reflected as a decrease in the
+Chl a:b ratio. Under low light there is no need to invest so much on
+reaction centres and electron transport chain constituents and resources
+are invested instead in building larger antennae (Eichelmann et al.,
+2005). The chlorophyll content of leaves and ratio of Chl a:b are
+furthermore known to change as a response to climate- and global-change
+drivers, such as air pollution (Tripathi & Gautam, 2007), drought (Anjum
+et al., 2011), salt stress (Santos, 2004), and iron deficiency
+(Belkhodja et al., 1998). In addition to light harvesting, the
+carotenoids play an important role in the photoprotection of the
+photosystems, which is why the Car:Chl ratio depends mainly on light
+conditions (Demmig-Adams, 1990).
+
+The conversion of a carotenoid violaxanthin to zeaxanthin is the main
+pathway in the regulation of heat dissipation of photosystem II (PSII)
+energy, when PSII encounters excess energy that exceeds the
+photosynthetic capacity of the photosystem (Young, 1991). In fact, most
+plants experience excess light on a daily basis, although in the case of
+stressed plants, photosynthetic capacity declines even more and excess
+light needs to be redirected to avoid photodamage (Ort, 2001). Thus, the
+content of photoprotective pigments tends to increase in stressed
+environments, as has been observed in cases of nitrogen starvation
+(Jalal et al., 2013) or drought (Colom & Vazzana, 2003). Chlorophyll
+content is used also as an indicator of the nitrogen (N) status of
+leaves while N is needed for chlorophyll production (Linder, 1980;
+Muñoz-Huerta et al., 2013). Pigment content also affects the optical
+properties of leaves including their spectral reflectance (Vogelmann,
+1993; Gitelson et al., 2003; Atherton et al., 2017). A large number of
+indices, mostly based on reflectance (see section 5.2.2) (Peñuelas et
+al., 1995; Sims & Gamon, 2002; Gamon et al., 2016) but also on
+fluorescence ratios (e.g. Gitelson et al., 1998), has been developed in
+order to link changes in plant pigment concentrations to optical
+measurements. The advantage of these indices is that they can be used to
+track changes in leaf pigment concentrations on a non-destructive basis
+(when applied at the leaf level), or to track vegetation greenness and
+pigment dynamics (when applied at the canopy and landscape scales via
+remote sensing) (Sims & Gamon, 2002; Inoue et al., 2016). As such, the
+more effective and less-laborious remote quantification of the content
+of pigments could give us an opportunity to detect early on severe
+changes in pigment content, indicating stress in plants and/or whole
+canopies.
+
+** **
+
+#### **5.2.1 What and how to measure?**
+
+***Gold standard***
+
+Extraction of chlorophyll from plant materials requires organic solvents
+that diffuse through plant tissue, increasing the permeability of
+chloroplast membranes and disrupting the chlorophyll-protein complexes
+(Hosikian et al., 2010). After solubilising the pigments, the pigment
+content of the extracts is quantified by spectrophotometric
+(Lichtenthaler, 1987; Porra et al., 1989) or high-performance liquid
+chromatography (HPLC) measurements (Wright et al., 1991; Dunn et al.,
+2004). In general, HPLC measurements are more time-consuming,
+labour-intensive, and costly than spectrometric analysis of pigments.
+But when individual carotenoid concentrations are required, HPLC
+measurements must be done (Dunn et al., 2004). Most often, plant
+photosynthetic pigments are extracted using 80% acetone for chlorophyll
+and pure acetone for polar carotenoids (Dunn et al., 2004; Vicas et al.,
+2010). The buffering of aqueous acetone (80% acetone) at pH 7.8 (e.g.
+acetone/Tris buffer solution, 80:20 vol:vol, pH = 7.8) is recommended to
+avoid the pheophytin formation by loss of the Mg atom in the presence of
+extracted metabolic acids (Porra, 2002). Most often Tris or sodium
+phosphate buffers have been used (e.g. Porra et al., 1989; Sims & Gamon,
+2002). Other solvents, such as methanol, ethanol, *N,N* –
+dimethylformamide (DMF)can be used as well.
+
+Extinction coefficients have been provided for a number of different
+solutes (Lichtenthaler, 1987; Wellburn, 1994; Porra, 2002; Vicas et al.,
+2010) and need to be used when calculating the pigment contents. The
+choice of solvent often depends on the type of plant material (Wellburn,
+1994; Dunn et al., 2004). In most solutes, the leaf tissue needs to be
+homogenised first (adding solvent to the sample when grinding) and
+centrifuged or filtered after pigments have been solubilised. For
+pigment calculations, the total volume of solute added to the sample
+during different stages of grinding and washing the mortar from
+sample-residuals must be collected, recorded, and taken into account
+during the quantification. Some solutes, such as DMF can be used for
+determining Chl content in intact tissues if chlorophyll content is low
+enough (Inskeep & Bloom, 1985). Many solvents require precautionary
+measures because of their toxicity.
+
+The incubation time of tissues in solvents for extraction depends on the
+solvent and on the size of the material and also on the species (Minocha
+et al., 2009). A thumb-rule is that if the leaflet or pellet of leaf
+residuals look greenish after the extraction then not all chlorophylls
+have been solubilised, if the leaf material looks yellowish some
+carotenoids have not solubilised, and when the leaf material is white
+(or any other colour but not green or yellowish) then the incubation
+time is long enough. The extraction process can be repeated if the plant
+material still contains pigments, the total volume of solute needs to be
+taken into account. During incubation in solute the intact tissues must
+be stored in dark probes with corks to avoid vaporising of the solvent.
+
+ 
+
+***Bronze standard***
+
+As traditional measurements of plant pigments are destructive, there is
+a less laborious and non-destructive method for estimating leaf Chl
+content using optical chlorophyll meters, which are portable and easy to
+use (e.g. Netto et al., 2005). In addition, new devices are being
+developed for simultaneous estimation of more than one plant pigment,
+such as content of Chl, nitrogen, flavonols, and anthocyanins of the
+leaf. The Chl content in most of the chlorophyll meters is estimated by
+measuring the ratio of transmission of near-infrared (NIR) to red
+wavelengths. It is assumed that transmission of red light is affected
+both by Chl and other cell structures, while transmission of NIR is not
+affected by Chl. However, in order to quantify the readings of an
+optical chlorophyll meter, a correlative dataset of non-destructively
+gained Chl estimations v. Chl contents from destructive measurements is
+required. This is because at the near-infrared region, leaf thickness,
+structure, and consequent internal light scattering affect the light
+transmission (Parry et al., 2014). The correlative dataset must be done
+separately for every species. Also one must be aware that optical
+estimations of Chl content appear to be less accurate if Chl content
+increases (Richardson et al., 2002). As Chl in leaves is distributed
+unevenly, it is recommended that a few optical measurements be made from
+one leaf and take an average for the whole leaf Chl estimation.
+
+ 
+
+***Installation, field operation, maintenance, and interpretation of the
+data***
+
+Leaf samples (e.g. using a cork drill) or whole leaves for pigment
+content measurements should be collected under comparable light
+conditions (Demmig-Adams & Adams, 1992) and age (Linder, 1972). Pigments
+in leaves are not distributed evenly, so in order to get results that
+can be readily compared, all leaf discs should be taken from same leaf
+region. Leaves or leaf discs (of known area) must preferentially be
+frozen as soon as possible (e.g. transported in liquid nitrogen) and
+stored at -80 °C in the dark to sustain the plant material until pigment
+analysis. If leaf samples are collected from very moist or wet
+conditions and/or stored for longer periods or transported in unstable
+conditions before extraction, it is recommended to lyophilise the
+samples. Such samples can be stored at room temperatures for days
+allowing easy transportation if kept away from moisture (Tausz et al.,
+2003). In the field, it is not always possible to freeze or freeze-dry
+pigment samples, in which case alternative (less recommended) methods
+for sampling and preserving plant pigments are available (Esteban et
+al., 2009). It is also recommended to collect parallel samples (e.g.
+nearby leaf) for determination of total area and fresh and dry weights.
+This will enable the quantification of leaf pigments on a mass or area
+basis. The mass of lyophilised samples (for estimation of dry mass) can
+be measured for calculations of pigment concentrations. Pigments should
+be extracted in dim light. Common problems that can be encountered
+during plant pigment analysis are errors in sample collection,
+preservation, labelling, biomass, and leaf area measurements, as well as
+incomplete extraction, instruments not working correctly, false compound
+identification, pipetting errors, confusion in units, etc.
+(Fernández-Marín et al., 2015).
+
+ 
+
+***Where to start***
+
+Dunn et al. (2004), Esteban et al. (2009), Hosikian et al. (2010),
+Minocha et al. (2009), Porra (2002)
+
+ 
+
+#### **5.2.2** **Special cases, emerging issues, and challenges**
+
+Estimating canopy-pigment contents remotely enables the monitoring of
+plant parameters over much larger spatial and temporal scales.
+Reflectance indices (see Table 5.2.1) and fluorescence indices (e.g.
+Gitelson et al., 1998) have been developed enabling remote estimations
+of chlorophyll and carotenoid contents. For instance, in global carbon
+budget models, PRI (Table 5.2.1) is used, as this index correlates with
+changes in pigment pools of plant canopies (Gamon et al., 1992; Gitelson
+et al., 2017). Recently, an index tracking Chl:Car ratios and
+photosynthetic activity of evergreen trees was introduced (Gamon et al.,
+2016). There has even been an attempt to use the reflectance spectra of
+the regions of different tree biochemical constituents that change
+seasonally (e.g. pigments) to classify trees remotely (Kozhoridze et
+al., 2016). However, one must always be aware of the effect of canopy
+structure and overlapping wavelength regions on reflectance while using
+remote estimations of plant parameters (Mänd et al., 2010).
+
+**Table 5.2.1** Vegetation indices for estimations of leaf pigment
+content (most-cited or recently developed and repeatedly cited indices).
+Table modified and provided with permission from COST Action ES0903.
+R<sub>x</sub> means the reflectance (R) at wavelength x. D<sub>x</sub>
+shows the first derivative (D) of reflectance at the respective
+wavelength x.
+
+|  |  |  |  |
+|:---|:---|:---|:---|
+| **Index** | **Formula** | **Used for** | **Reference** |
+| Simple Ratios (SR) | SR=R<sub>NIR</sub>/R<sub>RED</sub> | Greenness | Jordan, 1969 |
+| Chlorophyll Index (CI) | CI=(R<sub>750</sub>-R<sub>705</sub>)/(R<sub>750</sub>+R<sub>705</sub>) | Chlorophyll content | Gitelson & Merzlyak, 1994 |
+| Canopy Chlorophyll Index (CCI) | CCI=D<sub>720</sub>/D<sub>700</sub> | Canopy chlorophyll content | Sims et al., 2006 |
+| Normalized Difference Vegetation Index (NDVI) | NDVI=(R<sub>NIR</sub>-R<sub>RED</sub>)/(R<sub>NIR</sub>+R<sub>RED</sub>) | Greenness | Myneni et al., 1997 |
+| Structural Insensitive Pigment Index (SIPI) | SIPI=(R<sub>800</sub>-R<sub>445</sub>)/(R<sub>800</sub>-R<sub>680</sub>) | Carotenoid:Chlorophyll ratio | Peñuelas et al., 1995 |
+| Modified Chlorophyll Absorption in Reflectance Index (MCARI) | MCARI=\[(R<sub>700</sub>-R<sub>670</sub>)-0.2(R<sub>700</sub>-R<sub>550)</sub>\] (R<sub>700</sub>/R<sub>670</sub>) | Canopy Chlorophyll content | Daughtry et al., 2000 |
+| Transformed Chlorophyll Absorption in Reflectance Index (TCARI) | TCARI=3\[(R<sub>700</sub>-R<sub>670</sub>)-0.2(R<sub>700</sub>-R<sub>550</sub>) (R<sub>700</sub>/R<sub>670</sub>)\] | Canopy Chlorophyll content | Haboudane et al., 2002 |
+| Photochemical Reflectance Index (PRI) | PRI=(R<sub>531</sub>-R<sub>570</sub>)/(R<sub>531</sub> –R<sub>570</sub>) | Photosynthetic light use efficiency and leaf pigment contents | Gamon et al., 1992 |
+
+ 
+
+ 
+
+#### **5.2.3. References**
+
+***Theory, significance, and large datasets***
+
+Demmig-Adams & Adams (1992), Fernández-Marín (2015), Niinemets et al.
+(1998), Ort (2001), Richardson et al. (2002)
+
+ 
+
+***More on methods and existing protocols***
+
+Lichtenthaler (1987), Porra et al. (1989), Vicas et al. (2010), Wellburn
+(1994), Wright et al. (1991)
+
+** **
+
+***All references***
+
+Anjum, S. A., Xie, X. Y., Wang, L. C., Saleem, M. F., Man, C., & Lei, W.
+(2011). Morphological, physiological and biochemical responses of plants
+to drought stress. *African Journal of Agricultural Research*, *6*(9),
+2026-2032.
+
+Atherton, J., Olascoaga, B., Alonso, L., & Porcar-Castell, A. (2017).
+Spatial variation of leaf optical properties in a boreal forest is
+influenced by species and light environment. *Frontiers in Plant
+Science*, *8*, a309.
+
+Belkhodja, R., Morales, F., Sanz, M., Abadía, A., & Abadía, J. (1998).
+Iron deficiency in peach trees: effects on leaf chlorophyll and nutrient
+concentrations in flowers and leaves. *Plant and Soil*, *203*(2),
+257-268.
+
+Colom, M. R., & Vazzana, C. (2003). Photosynthesis and PSII
+functionality of drought-resistant and drought-sensitive weeping
+lovegrass plants. *Environmental and Experimental Botany*, *49*(2),
+135-144.
+
+Daughtry, C. S. T., Walthall, C. L., Kim, M. S., de Colstoun, E. B., &
+McMurtrey, J. E. (2000). Estimating corn leaf chlorophyll concentration
+from leaf and canopy reflectance. *Remote Sensing of Environment,
+74*(2), 229-239.
+
+Demmig-Adams, B. (1990). Carotenoids and photoprotection in plants: a
+role for the xanthophyll zeaxanthin. *Biochimica et Biophysica Acta –
+Bioenergetics*, *1020*(1), 1-24.
+
+Demmig-Adams, B., & Adams, W. W. (1992). Photoprotection and other
+responses of plants to high light stress. *Annual Review of Plant
+Biology*, *43*(1), 599-626.
+
+Dunn, J. L., Turnbull, J. D., & Robinson, S. A. (2004). Comparison of
+solvent regimes for the extraction of photosynthetic pigments from
+leaves of higher plants. *Functional Plant Biology*, *31*(2), 195-202.
+
+Eichelmann, H., Oja, V., Rasulov, B., Padu, E., Bichele, I., Pettai, H.,
+… Laisk, A. (2005). Adjustment of leaf photosynthesis to shade in a
+natural canopy: reallocation of nitrogen. *Plant, Cell & Environment*,
+*28*(3), 389-401.
+
+Esteban, R., Balaguer, L., Manrique, E., de Casas, R. R., Ochoa, R.,
+Fleck, I., … Lorenzo, R. (2009). Alternative methods for sampling and
+preservation of photosynthetic pigments and tocopherols in plant
+material from remote locations. *Photosynthesis Research, 101*(1),
+77-88.
+
+Esteban, R., Moran, J. F., Becerril, J. M., & García-Plazaola, J. I.
+(2015). Versatility of carotenoids: An integrated view on diversity,
+evolution, functional roles and environmental interactions.
+*Environmental and Experimental Botany*, *119*, 63-75.
+
+Fernández-Marín, B., Artetxe, U., Barrutia, O., Esteban, R., Hernández,
+A., & García-Plazaola, J. I. (2015). Opening Pandora’s box: cause and
+impact of errors on plant pigment studies. *Frontiers in Plant Science,
+6*, a148.
+
+Gamon, J. A., Peñuelas, J., & Field, C. B. (1992). A narrow-waveband
+spectral index that tracks diurnal changes in photosynthetic efficiency.
+*Remote Sensing of Environment, 41*(1), 35-44.
+
+Gamon, J. A., Huemmrich, K. F., Wong, C. Y., Ensminger, I., Garrity, S.,
+Hollinger, D. Y., … Peñuelas, J. (2016). A remotely sensed pigment index
+reveals photosynthetic phenology in evergreen conifers. *Proceedings of
+the National Academy of Sciences USA*, *113*(46), 13087-13092.
+
+Gitelson, A. A., & Merzlyak, M. N. (1994). Spectral reflectance changes
+associated with autumn senescence of *Aesculus hippocastanum* L. and
+*Acer platanoides* L. leaves. Spectral features and relation to
+chlorophyll estimation. *Journal of Plant Physiology, 143*(3), 286-292.
+
+Gitelson, A. A., Buschmann, C., & Lichtenthaler, H. K. (1998). Leaf
+chlorophyll fluorescence corrected for re-absorption by means of
+absorption and reflectance measurements. *Journal of Plant Physiology*,
+*152*(2-3), 283-296.
+
+Gitelson, A. A., Gritz, Y., & Merzlyak, M. N. (2003). Relationships
+between leaf chlorophyll content and spectral reflectance and algorithms
+for non-destructive chlorophyll assessment in higher plant leaves.
+*Journal of Plant Physiology*, *160*(3), 271-282.
+
+Gitelson, A. A., Gamon, J. A., & Solovchenko, A. (2017). Multiple
+drivers of seasonal change in PRI: Implications for photosynthesis 2.
+Stand level. *Remote Sensing of Environment*, *190*, 198-206.
+
+Haboudane, D., Miller, J. R., Tremblay, N., Zarco-Tejada, P. J., &
+Dextraze, L. (2002). Integrated narrow-band vegetation indices for
+prediction of crop chlorophyll content for application to precision
+agriculture. *Remote Sensing of Environment, 81*(2), 416-426.
+
+Hosikian, A., Lim, S., Halim, R., & Danquah, M. K. (2010). Chlorophyll
+extraction from microalgae: a review on the process engineering aspects.
+*International Journal of Chemical Engineering*, *2010*, a391632.
+
+Inoue, Y., Guérif, M., Baret, F., Skidmore, A., Gitelson, A., Schlerf,
+M., … Olioso, A. (2016). Simple and robust methods for remote sensing of
+canopy chlorophyll content: a comparative analysis of hyperspectral data
+for different types of vegetation. *Plant, Cell & Environment*,
+*39*(12), 2609-2623.
+
+Inskeep, W. P., & Bloom, P. R. (1985). Extinction coefficients of
+chlorophyll a and b in N, N-dimethylformamide and 80% acetone. *Plant
+Physiology,* *77*(2), 483-485.
+
+Jalal, K. C. A., Shamsuddin, A. A., Rahman, M. F., Nurzatul, N. Z., &
+Rozihan, M. (2013). Growth and total carotenoid, chlorophyll a and
+chlorophyll b of tropical microalgae (*Isochrysis* sp.) in laboratory
+cultured conditions. *Journal of Biological Sciences*, *13*(1), 10-17.
+
+Jordan, C. F. (1969). Derivation of leaf‐area index from quality of
+light on the forest floor. *Ecology, 50*(4), 663-666.
+
+Kozhoridze, G., Orlovsky, N., Orlovsky, L., Blumberg, D. G., &
+Golan-Goldhirsh, A. (2016). Remote sensing models of structure-related
+biochemicals and pigments for classification of trees. *Remote Sensing
+of Environment*, *186*, 184-195.
+
+Lichtenthaler, H. K. (1987). Chlorophylls and carotenoids: pigments of
+photosynthetic biomembranes. *Methods in Enzymology*, *148*, 350-382.
+
+Linder, S. (1972). Seasonal variation of pigments in needles. A study of
+Scots pine and Norway spruce seedling grown under different nursery
+conditions. *Studia Forestalia Suecica,* *100*, 1-37.
+
+Linder, S. (1980). Chlorophyll as an indicator of nitrogen status of
+conifer needles. *New Zealand Journal of Forestry Science*, *10*,
+166-175.
+
+Mänd, P., Hallik, L., Peñuelas, J., Nilson, T., Duce, P., Emmett, B. A.,
+… Schmidt, I. K. (2010). Responses of the reflectance indices PRI and
+NDVI to experimental warming and drought in European shrublands along a
+north–south climatic gradient. *Remote Sensing of Environment*,
+*114*(3), 626-636.
+
+Minocha, R., Martinez, G., Lyons, B., & Long, S. (2009). Development of
+a standardized methodology for quantifying total chlorophyll and
+carotenoids from foliage of hardwood and conifer tree species. *Canadian
+Journal of Forest Research, 39*(4), 849-861.
+
+Muñoz-Huerta, R. F., Guevara-Gonzalez, R. G., Contreras-Medina, L. M.,
+Torres-Pacheco, I., Prado-Olivarez, J., & Ocampo-Velazquez, R. V.
+(2013). A review of methods for sensing the nitrogen status in plants:
+advantages, disadvantages and recent advances. *Sensors, 13*(8),
+10823-10843.
+
+Myneni, R. B., Keeling, C. D., Tucker, C. J., Asrar, G., & Nemani, R. R.
+(1997). Increased plant growth in the northern high latitudes from 1981
+to 1991. *Nature, 386*(6626), 698.
+
+Netto, A. T., Campostrini, E., de Oliveira, J. G., & Bressan-Smith, R.
+E. (2005). Photosynthetic pigments, nitrogen, chlorophyll a fluorescence
+and SPAD-502 readings in coffee leaves. *Scientia Horticulturae,
+104*(2), 199-209.
+
+Niinemets, Ü., & Valladares, F. (2004). Photosynthetic acclimation to
+simultaneous and interacting environmental stresses along natural light
+gradients: optimality and constraints. *Plant Biology*, *6*(03),
+254-268.
+
+Niinemets, Ü., Bilger, W., Kull, O., & Tenhunen, J. D. (1998).
+Acclimation to high irradiance in temperate deciduous trees in the
+field: changes in xanthophyll cycle pool size and in photosynthetic
+capacity along a canopy light gradient. *Plant, Cell & Environment*,
+*21*(12), 1205-1218.
+
+Ort, D. R. (2001). When there is too much light. *Plant Physiology*,
+*125*(1), 29-32.
+
+Parry, C., Blonquist, J., & Bugbee, B. (2014). In situ measurement of
+leaf chlorophyll concentration: analysis of the optical/absolute
+relationship. *Plant, Cell & Environment, 37*(11), 2508-2520.
+
+Peñuelas, J., Baret, F., & Filella, I. (1995). Semi-empirical indices to
+assess carotenoids/chlorophyll a ratio from leaf spectral reflectance.
+*Photosynthetica, 31*(2), 221-230.
+
+Porra, R. J. (2002). The chequered history of the development and use of
+simultaneous equations for the accurate determination of chlorophylls a
+and b. *Photosynthesis Research,* *73*(1-3), 149-156.
+
+Porra, R. J., Thompson, W. A., & Kriedemann, P. E. (1989). Determination
+of accurate extinction coefficients and simultaneous equations for
+assaying chlorophylls a and b extracted with four different solvents:
+verification of the concentration of chlorophyll standards by atomic
+absorption spectroscopy. *Biochimica et Biophysica Acta –
+Bioenergetics*, *975*(3), 384-394.
+
+Richardson, A. D., Duigan, S. P., & Berlyn, G. P. (2002). An evaluation
+of noninvasive methods to estimate foliar chlorophyll content. *New
+Phytologist*, *153*(1), 185-194.
+
+Santos, C. V. (2004). Regulation of chlorophyll biosynthesis and
+degradation by salt stress in sunflower leaves. *Scientia
+Horticulturae*, *103*(1), 93-99.
+
+Sims, D. A., & Gamon, J. A. (2002). Relationships between leaf pigment
+content and spectral reflectance across a wide range of species, leaf
+structures and developmental stages. *Remote Sensing of Environment*,
+*81*(2), 337-354.
+
+Sims, D. A., Luo, H., Hastings, S., Oechel, W. C., Rahman, A. F., &
+Gamon, J. A. (2006). Parallel adjustments in vegetation greenness and
+ecosystem CO<sub>2</sub> exchange in response to drought in a Southern
+California chaparral ecosystem. *Remote Sensing of Environment, 103*(3),
+289-303.
+
+Tausz, M., Wonisch, A., Grill, D., Morales, D., & Jiménez, M. S. (2003).
+Measuring antioxidants in tree species in the natural environment: from
+sampling to data evaluation. *Journal of Experimental Botany, 54*(387),
+1505-1510.
+
+Tripathi, A. K., & Gautam, M. (2007). Biochemical parameters of plants
+as indicators of air pollution. *Journal of Environmental Biology*,
+*28*(1), 127.
+
+Vicas, S., Laslo, V., Pantea, S., & Bandici, G. (2010). Chlorophyll and
+carotenoids pigments from Mistletoe (*Viscum album*) leaves using
+different solvents. *Analele Universitatii din Oradea, Fascicula
+Biologie*, *17*(2), 213-218.
+
+Vogelmann, T. C. (1993). Plant tissue optics. *Annual Review of Plant
+Biology*, *44*(1), 231-251.
+
+Wellburn, A. R. (1994). The spectral determination of chlorophylls a and
+b, as well as total carotenoids, using various solvents with
+spectrophotometers of different resolution. *Journal of Plant
+Physiology*, *144*(3), 307-313.
+
+Wright, S. W., Jeffrey, S. W., Mantoura, R. F. C., Llewellyn, C. A.,
+Bjørnland, T., Repeta, D., & Welschmeyer, N. (1991). Improved HPLC
+method for the analysis of chlorophylls and carotenoids from marine
+phytoplankton. *Marine Ecology Progress Series*, *77*, 183-196.
+
+Young, A. J. (1991). The photoprotective role of carotenoids in higher
+plants. *Physiologia Plantarum*, *83*(4), 702-708.
+
+ 
+
+ 
+
+**Authors:** Mänd P<sup>1</sup>
+
+**Reviewers**: Porcar Castell A<sup>2</sup>; Linder S<sup>3</sup>
+
+** **
+
+**Affiliations**
+
+<sup>1</sup> Institute of Ecology and Earth Sciences, University of
+Tartu, Tartu, Estonia
+
+<sup>2</sup> Optics of Photosynthesis Laboratory, Institute for
+Atmospheric and Earth System Research/Forest Sciences, University of
+Helsinki, Helsinki, Finland
+
+<sup>3</sup> Southern Swedish Forest Research Centre, Alnarp, Sweden

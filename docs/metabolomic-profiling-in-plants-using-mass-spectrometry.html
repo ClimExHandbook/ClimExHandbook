@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>65 5.11 Metabolomic profiling in plants using mass-spectrometry | How to measure plant species composition?</title>
+<meta name="author" content="Aud Halbritter">
+<meta name="description" content="Authors: Oravec M1, Večeřová K1, Gargallo-Garriga A1,2,3, Sardans J2,3, Urban O1 Reviewers: Holub P1, Klem K4, Peñuelas J2,3   Measurement unit: molecules/ions (m/z); Measurement scale: leaf,...">
+<meta name="generator" content="bookdown 0.46 with bs4_book()">
+<meta property="og:title" content="65 5.11 Metabolomic profiling in plants using mass-spectrometry | How to measure plant species composition?">
+<meta property="og:type" content="book">
+<meta property="og:description" content="Authors: Oravec M1, Večeřová K1, Gargallo-Garriga A1,2,3, Sardans J2,3, Urban O1 Reviewers: Holub P1, Klem K4, Peñuelas J2,3   Measurement unit: molecules/ions (m/z); Measurement scale: leaf,...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="65 5.11 Metabolomic profiling in plants using mass-spectrometry | How to measure plant species composition?">
+<meta name="twitter:description" content="Authors: Oravec M1, Večeřová K1, Gargallo-Garriga A1,2,3, Sardans J2,3, Urban O1 Reviewers: Holub P1, Klem K4, Peñuelas J2,3   Measurement unit: molecules/ions (m/z); Measurement scale: leaf,...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="css/style-chapters.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">How to measure plant species composition?</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">The Aim of ClimEx Handbook</a></li>
+<li class="book-part">General Information</li>
+<li><a class="" href="get-engaged.html"><span class="header-section-number">1</span> Get Engaged</a></li>
+<li><a class="" href="history.html"><span class="header-section-number">2</span> History</a></li>
+<li><a class="" href="issue-tracker.html"><span class="header-section-number">3</span> Issue Tracker</a></li>
+<li><a class="" href="who-we-are.html"><span class="header-section-number">4</span> Who We Are</a></li>
+<li class="book-part">Section 1: Site Characteristics and Data Management</li>
+<li><a class="" href="optimising-the-study-design.html"><span class="header-section-number">5</span> 1.1 Optimising the study design</a></li>
+<li><a class="" href="geographical-location-and-basic-site-description.html"><span class="header-section-number">6</span> 1.2 Geographical location and basic site description</a></li>
+<li><a class="" href="soil-type-and-physical-characteristics.html"><span class="header-section-number">7</span> 1.3 Soil type and physical characteristics</a></li>
+<li><a class="" href="soil-chemistry-and-nutrient-availability.html"><span class="header-section-number">8</span> 1.4 Soil chemistry and nutrient availability</a></li>
+<li><a class="" href="meteorological-measurements.html"><span class="header-section-number">9</span> 1.5 Meteorological measurements</a></li>
+<li><a class="" href="open-science-practice-reproducible-workflow-and-data-management.html"><span class="header-section-number">10</span> 1.6 Open science practice, reproducible workflow, and data management</a></li>
+<li class="book-part">Section 2: Carbon and Nutrient Cycling</li>
+<li><a class="" href="aboveground-plant-biomass.html"><span class="header-section-number">11</span> 2.1.1 Aboveground plant biomass</a></li>
+<li><a class="" href="belowground-plant-biomass.html"><span class="header-section-number">12</span> 2.1.2 Belowground plant biomass</a></li>
+<li><a class="" href="leaf-scale-photosynthesis.html"><span class="header-section-number">13</span> 2.1.3 Leaf-scale photosynthesis</a></li>
+<li><a class="" href="plant-respiration.html"><span class="header-section-number">14</span> 2.1.4 Plant respiration</a></li>
+<li><a class="" href="root-exudation-in-situ.html"><span class="header-section-number">15</span> 2.1.5 Root exudation (in situ)</a></li>
+<li><a class="" href="foliar-stoichiometry-and-nutrient-resorption.html"><span class="header-section-number">16</span> 2.1.6 Foliar stoichiometry and nutrient resorption</a></li>
+<li><a class="" href="soil-microbial-biomass-c-n-and-p.html"><span class="header-section-number">17</span> 2.2.1 Soil microbial biomass – C, N, and P</a></li>
+<li><a class="" href="root-and-soil-colonisation-by-mycorrhizal-fungi.html"><span class="header-section-number">18</span> 2.2.2 Root and soil colonisation by mycorrhizal fungi</a></li>
+<li><a class="" href="soil-co2-and-other-trace-gas-fluxes.html"><span class="header-section-number">19</span> 2.2.3 Soil CO2 (and other trace gas) fluxes</a></li>
+<li><a class="" href="soil-carbon-and-nutrient-stocks.html"><span class="header-section-number">20</span> 2.2.4 Soil carbon and nutrient stocks</a></li>
+<li><a class="" href="nutrient-mineralisation.html"><span class="header-section-number">21</span> 2.2.5 Nutrient mineralisation</a></li>
+<li><a class="" href="foliar-litter-decomposition.html"><span class="header-section-number">22</span> 2.2.6 Foliar litter decomposition</a></li>
+<li><a class="" href="root-decomposition.html"><span class="header-section-number">23</span> 2.2.7 Root decomposition</a></li>
+<li><a class="" href="soil-organic-matter-som-decomposition.html"><span class="header-section-number">24</span> 2.2.8 Soil organic matter (SOM) decomposition</a></li>
+<li><a class="" href="soil-leaching.html"><span class="header-section-number">25</span> 2.2.9 Soil leaching</a></li>
+<li><a class="" href="soil-water-erosion.html"><span class="header-section-number">26</span> 2.2.10 Soil water erosion</a></li>
+<li><a class="" href="biological-nitrogen-fixation.html"><span class="header-section-number">27</span> 2.2.11 Biological nitrogen fixation</a></li>
+<li><a class="" href="ecosystem-co2-and-trace-gas-fluxes.html"><span class="header-section-number">28</span> 2.3.1 Ecosystem CO2 and trace gas fluxes</a></li>
+<li><a class="" href="total-belowground-carbon-flux.html"><span class="header-section-number">29</span> 2.3.2 Total belowground carbon flux</a></li>
+<li><a class="" href="upscaling-from-the-plot-scale-to-the-ecosystem-and-beyond.html"><span class="header-section-number">30</span> 2.3.3 Upscaling from the plot scale to the ecosystem and beyond</a></li>
+<li class="book-part">Section 3: Water Cycling</li>
+<li><a class="" href="soil-moisture-1.html"><span class="header-section-number">31</span> 3.1 Soil moisture</a></li>
+<li><a class="" href="soil-hydraulic-conductivity.html"><span class="header-section-number">32</span> 3.2 Soil hydraulic conductivity</a></li>
+<li><a class="" href="soil-water-retention.html"><span class="header-section-number">33</span> 3.3 Soil water retention</a></li>
+<li><a class="" href="soil-water-potential.html"><span class="header-section-number">34</span> 3.4 Soil water potential</a></li>
+<li><a class="" href="soil-temperature.html"><span class="header-section-number">35</span> 3.5 Soil temperature</a></li>
+<li><a class="" href="soil-wetability-or-water-repellency.html"><span class="header-section-number">36</span> 3.6 Soil wetability or water repellency</a></li>
+<li><a class="" href="sap-flux.html"><span class="header-section-number">37</span> 3.7 Sap flux</a></li>
+<li><a class="" href="ecosystem-water-stress.html"><span class="header-section-number">38</span> 3.8 Ecosystem water stress</a></li>
+<li class="book-part">Section 4: Species and Interactions</li>
+<li><a class="" href="sexual-plant-reproduction.html"><span class="header-section-number">39</span> 4.1 Sexual plant reproduction</a></li>
+<li><a class="" href="seed-viability-germinability-and-dormancy.html"><span class="header-section-number">40</span> 4.2 Seed viability, germinability, and dormancy</a></li>
+<li><a class="" href="plant-demography.html"><span class="header-section-number">41</span> 4.3 Plant demography</a></li>
+<li><a class="" href="bud-dormancy-depth.html"><span class="header-section-number">42</span> 4.4 Bud dormancy depth</a></li>
+<li><a class="" href="aboveground-plant-phenology.html"><span class="header-section-number">43</span> 4.5 Aboveground plant phenology</a></li>
+<li><a class="" href="the-soil-seed-bank-buried-seed-pool.html"><span class="header-section-number">44</span> 4.6 The soil seed bank (buried seed pool)</a></li>
+<li><a class="" href="propagule-rain.html"><span class="header-section-number">45</span> 4.7 Propagule rain</a></li>
+<li><a class="" href="plant-community-composition.html"><span class="header-section-number">46</span> 4.8 Plant community composition</a></li>
+<li><a class="" href="soil-microbial-community-composition.html"><span class="header-section-number">47</span> 4.9 Soil microbial community composition</a></li>
+<li><a class="" href="soil-micro--and-mesofauna-community-composition.html"><span class="header-section-number">48</span> 4.10 Soil micro- and mesofauna community composition</a></li>
+<li><a class="" href="macroinvertebrate-community-composition.html"><span class="header-section-number">49</span> 4.11 Macroinvertebrate community composition</a></li>
+<li><a class="" href="pollinator-composition.html"><span class="header-section-number">50</span> 4.12 Pollinator composition</a></li>
+<li><a class="" href="pollinator-visitation.html"><span class="header-section-number">51</span> 4.13 Pollinator visitation</a></li>
+<li><a class="" href="plant-pathogen-and-invertebrate-herbivory.html"><span class="header-section-number">52</span> 4.14 Plant pathogen and invertebrate herbivory</a></li>
+<li><a class="" href="vertebrate-herbivory.html"><span class="header-section-number">53</span> 4.15 Vertebrate herbivory</a></li>
+<li><a class="" href="functional-traits.html"><span class="header-section-number">54</span> 4.16 Functional traits</a></li>
+<li class="book-part">Section 5: Stress Physiology</li>
+<li><a class="" href="chlorophyll-fluorescence.html"><span class="header-section-number">55</span> 5.1 Chlorophyll fluorescence</a></li>
+<li><a class="" href="chlorophyll-and-carotenoid-content.html"><span class="header-section-number">56</span> 5.2 Chlorophyll and carotenoid content</a></li>
+<li><a class="" href="non-structural-carbohydrates.html"><span class="header-section-number">57</span> 5.3 Non-structural carbohydrates</a></li>
+<li><a class="" href="lethal-dose-ld50-to-quantify-stress-tolerance-exemplified-by-frost-tolerance.html"><span class="header-section-number">58</span> 5.4 Lethal dose (LD50) to quantify stress tolerance exemplified by frost tolerance</a></li>
+<li><a class="" href="leaf-temperature.html"><span class="header-section-number">59</span> 5.5 Leaf temperature</a></li>
+<li><a class="" href="leaf-thermal-traits.html"><span class="header-section-number">60</span> 5.6 Leaf thermal traits</a></li>
+<li><a class="" href="stomatal-conductance.html"><span class="header-section-number">61</span> 5.7 Stomatal conductance</a></li>
+<li><a class="" href="psychrometry-for-water-potential-measurements.html"><span class="header-section-number">62</span> 5.8 Psychrometry for water potential measurements</a></li>
+<li><a class="" href="pressure-volume-curves-tlp-%CE%B5-%CF%88o.html"><span class="header-section-number">63</span> 5.9 Pressure-volume curves – TLP, ε, Ψo</a></li>
+<li><a class="" href="maximum-leaf-hydraulic-conductance.html"><span class="header-section-number">64</span> 5.10 Maximum leaf hydraulic conductance</a></li>
+<li><a class="active" href="metabolomic-profiling-in-plants-using-mass-spectrometry.html"><span class="header-section-number">65</span> 5.11 Metabolomic profiling in plants using mass-spectrometry</a></li>
+<li><a class="" href="reflectance-assessment-of-plant-physiological-status.html"><span class="header-section-number">66</span> 5.12 Reflectance assessment of plant physiological status</a></li>
+<li><a class="" href="stable-isotopes-of-water-for-inferring-plant-function.html"><span class="header-section-number">67</span> 5.13 Stable isotopes of water for inferring plant function</a></li>
+<li><a class="" href="bvocs-emissions-from-plants-and-soils.html"><span class="header-section-number">68</span> 5.14 BVOCs emissions from plants and soils</a></li>
+<li><a class="" href="water-use-efficiency.html"><span class="header-section-number">69</span> 5.15 Water-use efficiency</a></li>
+<li><a class="" href="leaf-hydraulic-vulnerability-to-dehydration.html"><span class="header-section-number">70</span> 5.16 Leaf hydraulic vulnerability to dehydration</a></li>
+<li class="book-part">Blog</li>
+<li class="book-part">Blog</li>
+<li><a class="" href="published.html"><span class="header-section-number">71</span> Published</a></li>
+<li><a class="" href="soil-and-ecosystem-respiration.html"><span class="header-section-number">72</span> Soil and ecosystem respiration</a></li>
+<li><a class="" href="how-to-measure-plant-species-composition.html"><span class="header-section-number">73</span> How to measure plant species composition?</a></li>
+</ul>
+
+        <div class="book-extra">
+          
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="metabolomic-profiling-in-plants-using-mass-spectrometry" class="section level1" number="65">
+<h1>
+<span class="header-section-number">65</span> 5.11 Metabolomic profiling in plants using mass-spectrometry<a class="anchor" aria-label="anchor" href="#metabolomic-profiling-in-plants-using-mass-spectrometry"><i class="fas fa-link"></i></a>
+</h1>
+<p><strong>Authors:</strong> Oravec M<sup>1</sup>, Večeřová K<sup>1</sup>,
+Gargallo-Garriga A<sup>1,2,3</sup>, Sardans J<sup>2,3</sup>, Urban
+O<sup>1</sup></p>
+<p><strong>Reviewers:</strong> Holub P<sup>1</sup>, Klem K<sup>4</sup>, Peñuelas
+J<sup>2,3</sup></p>
+<p> </p>
+<p><strong>Measurement unit:</strong> <strong>molecules/ions (m/z);</strong> <strong>Measurement scale:
+leaf, branch, tissue, exudates, soil and air samples; Equipment costs:
+€€€; Running costs:</strong> <strong>€€; Installation effort: high; Maintenance
+effort: medium (services of instruments); Knowledge need: high;
+Measurement mode: manual</strong></p>
+<p>Metabolomics is an “omics” approach that aims to analyse all low
+molecular-weight metabolites in biological samples. Metabolomic
+profiling represents a new tool to assess a plant’s response to biotic
+or abiotic stresses. In ecological studies, ecometabolomics aims to
+study the metabolome structure of organisms and media (water, soil, air,
+etc.) in field conditions (Peñuelas &amp; Sardans, 2009; Sardans et al.,
+2011). Metabolome analyses provide the metabolism structure (the
+metabolites and their concentrations), thus informing on the functional
+state of the organisms, media, or overall ecosystem. The metabolome can
+be considered as the chemical phenotype of organisms (Fiehn, 2002).
+Because the chemical phenotypes are not fixed, metabolomics has been
+used to understand how organisms function under different environmental
+conditions (Yuan et al., 2009; Rivas-Ubach et al., 2012; Yoshikawa et
+al., 2013; Gargallo-Garriga et al., 2014). Target and non-target
+metabolomic profiling has been used to identify changes in plant
+metabolome and metabolic pathways enabling the investigation of
+plant-specific responses to biotic (e.g. pests) (Rivas-Ubach et al.,
+2016) or abiotic stress factors, such as increase of UV radiation
+(Oravec et al., 2015), drought (Rivas-Ubach et al., 2012;
+Gargallo-Garriga et al., 2014), temperature (Gargallo-Garriga et al.,
+2015), nutrient deficiency (Gargallo-Garriga et al., 2017), and/or air
+pollution (Večeřová et al., 2016). Metabolomics can thus substantially
+contribute to studies predicting acclimation of plants to environmental
+perturbances related to climate-change and other global-change drivers.
+Metabolomics has already shown great potential to provide in-depth
+understanding of biological systems, pathways, and their functionally
+dynamic interactions. Moreover, metabolomic profiling provides an
+understanding at the molecular level of how plants respond to changes in
+the growth environment and whether and how they acclimate and resist.
+Metabolomics can thus contribute to the understanding of the impact of
+climate and global change and also to answer basic ecological questions
+regarding the impacts of competition or trophic relationships on
+organisms.</p>
+<p> </p>
+<div id="what-and-how-to-measure-51" class="section level4" number="65.0.0.1">
+<h4>
+<span class="header-section-number">65.0.0.1</span> <strong>5.11.1 What and how to measure?</strong><a class="anchor" aria-label="anchor" href="#what-and-how-to-measure-51"><i class="fas fa-link"></i></a>
+</h4>
+<p>Tandem analytical techniques and basic analytical techniques are used
+for the analysis of the metabolome. These are a combination of
+separation techniques: high performance liquid chromatography (HPLC) and
+gas chromatograph (GC) with mass spectrometer (MS) detection techniques.
+HPLC-MS systems are used in particular for target and non-target
+analyses of polar and semi-polar primary and secondary metabolites
+(polyphenols, amino acids, saccharides, phytohormones, etc.), while
+GC-MS is especially suitable for target analyses of non-polar
+metabolites or polar metabolites that can be easily derived (fatty
+acids, volatile compounds, etc.). A combination of HPLC and GC
+techniques may thus lead to a comprehensive description of plant
+metabolome and its changes. Proton-based nuclear magnetic resonance
+(<sup>1</sup>H NMR) coupled or not with <sup>13</sup>C NMR is also a
+frequently used metabolomic platform that does not rely on previous
+separation methods for untargeted metabolomics profiling analysis
+(Rivas-Ubach et al., 2013). However, the low sensitivity of this method
+currently precludes its more extended use (Sardans et al., 2011). Basic
+analytical techniques such as Fourier transformed infrared spectroscopy,
+Raman spectroscopy, spectrofluorometry, and/or classical
+spectrophotometers can be used as complementary analytical techniques
+for investigation of other groups of metabolites including
+photosynthetic and photoprotective pigments (chlorophylls, carotenoids,
+xanthophylls). Determination of nitrogen and carbon contents in
+biological samples using an elemental analyser with a thermal
+conductivity detector yields important supplementary information about
+the stoichiometry of tissues, organs, and/or whole plants. This coupling
+of metabolomics with elemental analyses allows one to relate changes in
+plant function with changes in plant use of different elements,
+constituting a notable advantage for integrative ecological studies. The
+C/N/P stoichiometry plays an important role in the metabolism, as does
+the stoichiometry of other nutrients such as calcium, magnesium, and
+potassium. P, K, Ca, Mg, and many other elements are analysed with
+inductively coupled plasma – mass spectrometry (ICP-MS) techniques.</p>
+<p>The measurement results are subsequently processed by statistical
+software (modified MatLab, R, or Sieve). For identification of
+metabolites, available commercial databases and mass libraries built by
+each lab are used. KEGG (Kyoto Encyclopaedia of Genes and Genomes) is
+thereafter generally used for description of affected metabolic
+pathways, i.e. which ones are up- and which ones are down-regulated in
+the different organs of the plants (Gargallo-Garriga et al., 2014).
+Information from non-target analyses is further used for target
+analysis. The overall results from metabolomic profiling are combined
+with results from physiological measurements. The main aim is to find
+relationships between the changes of metabolome and stress-induced
+changes in physiology.</p>
+<p> </p>
+<p><strong><em>Sampling, sample storage, and measuring protocols</em></strong></p>
+<p>The samples (ideally approximately 300 mg dry weight) have to be frozen
+in liquid nitrogen immediately after sampling and kept at −80 °C (max. 2
+months), and stored dry-frozen at ≤ −20 °C until further processing. The
+effects of long-term storage and storage temperature have been
+investigated so that studies can be planned without possible degradation
+of chemical compounds. It is crucial to protect samples against
+contamination and water during all steps of the process, and therefore
+it is necessary to adhere to “good laboratory practices”. Since the
+metabolomics profiles may have substantial daily courses, it is
+recommended to respect such daily dynamics and to collect all samples
+within narrow time intervals depending on the experimental goal. Local
+microclimatic and radiation conditions also have to be considered.
+Accordingly, leaves/branches with the same cardinal orientation should
+be sampled within dense ecosystems to reduce the variability among
+samples. Moreover, plant age, geographical origin of plant species
+(Meijon et al., 2016), and/or elevation where the plants grow
+(Rajsnerová et al., 2015; Rivas-Ubach et al., 2017) have been shown to
+potentially influence the metabolome of plant tissues. Sampling
+campaigns thus have to respect these factors to reduce variability of
+plant metabolome, to minimise artefacts, and to increase reproducibility
+of metabolomic data.</p>
+<p>The following protocols are based on the protocols for metabolite
+profiling in plants developed by Fiehn et al. (2000) and include further
+modifications with respect to analytical instruments used. Before
+chromatographic analyses, the frozen samples are homogenised using a
+pestle and mortar with the addition of liquid nitrogen. Leaf tissues,
+for example, can be ground under liquid nitrogen with a pestle and
+mortar, or using a ball mill with pre-chilled holders (summarised in
+Fiehn, 2002). Other plant organs such as roots and grains, however, may
+be sometimes too hard to use in ball mills. After homogenisation,
+different methods of metabolite extraction could be used but, again, no
+systematic study comparing extraction techniques is available. Some
+groups of metabolites, including fatty acids among others (Folch et al.,
+1957; Večeřová et al., 2016), require specific extraction procedures
+that have to be even further modified depending on the type of sample
+(soil, plant, thylakoid membrane, etc.). Most frequently, homogenised
+samples are extracted using a methanol:H<sub>2</sub>O solution (1:2)
+that has been demonstrated to be optimal to extract most polar and
+semi-polar metabolites. For a-polar metabolites a solution of
+methanol:chloroform:H<sub>2</sub>O (1:2:2) can be used. In this case, an
+aliquot of the upper (polar) phase is used to analyse saccharides,
+phenolic compounds, amino acids, and Krebs cycle acids employing an
+UltiMate 3000 HPLC coupled with an LTQ Orbitrap XL high resolution mass
+spectrometer (HRMS) (ThermoFisher Scientific).</p>
+<p>For the polar and semi-polar extraction a Hypersil GOLD column
+(150 × 2.1 mm, 3 μm; ThermoFisher Scientific) is used for separation of
+metabolites. The flow rate of the mobile phase is
+0.3 mL min<sup>−1</sup> and column temperature is set to 30 °C. The
+mobile phase consists of (A) acetonitrile and (B) water containing 0.1%
+acetic acid. Both mobile phases (A) and (B) are filtrated and degassed
+for 10 min in an ultrasonic bath prior to use. Gradient elution
+chromatography is started with 10% acetonitrile (A) and 90% water (0.1%
+acetic acid) (B) and is held for 5 min. Within a time interval of
+5–20 min, the mobile phase (A) composition is increased to 90 %. This
+composition is then maintained for 5 min, after which the system is
+equilibrated to initial conditions (10% acetonitrile (A) and 90% water
+(0.1% acetic acid)) over a period of 5 min. The 254, 272, 274, and
+331 nm wavelengths are monitored.</p>
+<p>The HRMS is equipped with a HESI II heated electrospray ionization
+source (ThermoFisher Scientific), operated in full scan mode with a mass
+resolution of 60,000, when the minimum peak separation is represented by
+a full width of the peak at half maximum (FWHM). Full scan spectra are
+acquired over the mass range 50–1000 m/z in positive polarity mode and
+65–1000 m/z in negative polarity mode. The mass resolution and
+sensitivity of the HRMS are regularly controlled by injecting a mixture
+of phenolic compounds. As a control, phthalate is taken as an internal
+control mass. The compounds are assigned on the basis of public or
+private mass libraries created using standards measured in MS and
+MS<sup>n</sup> modes.</p>
+<p>Gas chromatography coupled with mass spectrometry (GC-MS) is used to
+analyse a spectrum of fatty acids. Homogenised samples are transferred
+into vials and 1.5 mL of a chloroform:methanol solution (2:1) is added.
+The vials are placed in a thermoblock at 60 °C for 30 min. The lower
+phase (chloroform) is collected and the process is repeated. In case of
+insufficient phase separation, 1 mL of 0.88% potassium chloride should
+be added. After collection of lower phases and the addition of an
+internal standard (nonadecanoic acid), extracts are dried using nitrogen
+flow. The methyl esters derivatives of fatty acids are prepared using
+1 mL of 3 N methanolic HCl, which is added to the dried extract and then
+heated for 90 min at 60 °C. Subsequently, the samples are extracted
+three times with 2.5 mL of <em>n</em>-hexane and dried using nitrogen flow.
+Finally, extracts are dissolved in 1 mL of <em>n</em>-hexane.</p>
+<p>The analysis of fatty acids methyl esters is performed with a TSQ
+Quantum XLS triple Quadrupole (ThermoFischer Scientific) on a 30 m,
+0.25 mm (inside diameter), 0.25 μm column (ZB-5MS; Phenomenex). Samples
+(1 μL) are injected in splitless mode. The inlet pressure of the carrier
+gas (helium) is 100 kPa at the initial oven temperature and its flow
+rate is 1.2 mL min<sup>−1</sup>. Meanwhile the injection temperature is
+250 °C. The temperature gradient of the oven begins at 100 °C and is
+increased to 150 °C at the rate of 10 °C min<sup>−1</sup>, followed by a
+temperature increase to 260 °C at the rate of 2.5 °C min<sup>−1</sup>.
+The interface temperature is maintained at 250 °C. GC-MS (electrospray
+ionization 50 eV, ion source temperature 200 °C) is performed at full
+scan in the 50–450 m/z range (scan time 0.15 s). The fatty acids’ methyl
+esters are searched in the public and private mass libraries created
+from measurement of standards using GC-MS in full scan mode.</p>
+<p> </p>
+<p><strong><em>Where to start</em></strong></p>
+<p>Fiehn (2002), Fiehn et al. (2000), Folch et al. (1957), Gargallo-Garriga
+et al. (2015), Meijon et al. (2016), Peñuelas &amp; Sardans (2009),
+Rivas-Ubach et al. (2017), Večeřová et al. (2016), Weckwerth &amp; Kahl
+(2013)</p>
+<p><strong><em> </em></strong></p>
+</div>
+<div id="special-cases-emerging-issues-and-challenges-46" class="section level4" number="65.0.0.2">
+<h4>
+<span class="header-section-number">65.0.0.2</span> <strong>5.11.2 Special cases, emerging issues, and challenges</strong><a class="anchor" aria-label="anchor" href="#special-cases-emerging-issues-and-challenges-46"><i class="fas fa-link"></i></a>
+</h4>
+<p>Metabolomic profiling can be used, among others, to identify biomarkers
+of early-stress detection (Kaplan et al., 2004; Boudonck et al., 2009).
+Metabolomics could also represent, in conjunction with physiological and
+morphological traits, an important additive method of plant phenotyping,
+the breeding and selection of genotypes with the highest resistance to
+biotic and abiotic stresses. Metabolomics techniques could be also used
+to explore root exudates and thus to investigate plant-soil interactions
+(Sardans &amp; Peñuelas, 2013). An overview of current developments and
+future challenges in ecological metabolomics can be found in Sardans et
+al. (2011).</p>
+<p>A number of metabolomics applications could be extended by the
+application of other ionisation techniques such as DART (Direct Analysis
+in Real Time). This ambient ionisation technique does not require sample
+preparation, so solid and liquid materials can be analysed by mass
+spectrometry in their native state (Zhou et al., 2010; Lesiak et al.,
+2014; Armitage et al., 2015).</p>
+<p>Desorption electrospray ionisation (DESI) is another ambient ionisation
+technique compliable with high-resolution mass spectrometry. DESI can be
+used for imaging metabolite distribution (localisation) in plant tissues
+or surfaces of biological systems. Visualisation of metabolite
+heterogeneity can be potentially used for the detection of pathogen
+infections on plant leaves (Takats et al., 2005; Chernetsova &amp; Morlock,
+2011).</p>
+<p>Other ionisation techniques such as APCI (atmospheric pressure chemical
+ionisation) are suitable for investigating thermally stable samples with
+low to medium (less than 1500 Da) molecular weight, and medium to high
+polarity including non-polar lipids (Byrdwell, 2001), pesticides
+(Jansson et al., 2004), and/or various natural organic compounds (amino
+acids, saponins, phenyl propanoids, etc.). In contrast, electrospray
+ionisation (ESI) is especially useful in producing ions from
+macromolecules (Whitehouse et al., 1989).</p>
+<p> </p>
+<p><strong><em>Where to start</em></strong></p>
+<p>Jansson et al. (2004); Kaplan et al. (2004); Sardans et al. (2011);
+Takats et al. (2005); Whitehouse et al. (1989)</p>
+<p> </p>
+</div>
+<div id="references-54" class="section level4" number="65.0.0.3">
+<h4>
+<span class="header-section-number">65.0.0.3</span> <strong>5.11.4 References</strong><a class="anchor" aria-label="anchor" href="#references-54"><i class="fas fa-link"></i></a>
+</h4>
+<p><strong><em>Theory, significance, and large datasets</em></strong></p>
+<p>Fiehn (2002); Gargallo-Garriga et al. (2014); Peñuelas &amp; Sardans (2009);
+Sardans &amp; Peñuelas (2013); Weckwerth &amp; Kahl (2013)</p>
+<p> </p>
+<p><strong><em>More on methods and existing protocols</em></strong></p>
+<p>Fiehn et al. (2000); Jansson et al. (2004); Rivas-Ubach et al. (2012);
+Večeřová et al. (2016); Zhou et al. (2010)</p>
+<p> </p>
+<p><strong><em>All references</em></strong></p>
+<p>Armitage, R. A., Jakes, K., &amp; Day, C. (2015). Direct analysis in real
+time-mass spectroscopy for identification of red dye colourants in
+Paracas Necropolis Textiles. <em>STAR: Science &amp; Technology of
+Archaeological Research</em>, <em>1</em>(2), 60-69.</p>
+<p>Boudonck, K. J., Mitchell, M. W., Német, L., Keresztes, L., Nyska, A.,
+Shinar, D., &amp; Rosenstock, M. (2009). Discovery of metabolomics
+biomarkers for early detection of nephrotoxicity. <em>Toxicologic
+Pathology</em>, <em>37</em>(3), 280-292.</p>
+<p>Byrdwell, W. C. (2001). Atmospheric pressure chemical ionization mass
+spectrometry for analysis of lipids. <em>Lipids</em>, <em>36</em>(4), 327-346.</p>
+<p>Chernetsova, E. S., &amp; Morlock, G. E. (2011). Ambient desorption
+ionization mass spectrometry (DART, DESI) and its bioanalytical
+applications. <em>Bioanalytical Reviews</em>, <em>3</em>(1), 1-9.</p>
+<p>Fiehn, O. (2002). Metabolomics––the link between genotypes and
+phenotypes. <em>Plant Molecular Biology</em>, 48, 155-171.</p>
+<p>Fiehn, O., Kopka, J., Dörmann, P., Altmann, T., Trethewey, R. N., &amp;
+Willmitzer, L. (2000). Metabolite profiling for plant functional
+genomics. <em>Nature Biotechnology</em>, <em>18</em>(11), 1157-1161.</p>
+<p>Folch, J., Lees, M., &amp; Sloane-Stanley, G. H. (1957). A simple method for
+the isolation and purification of total lipids from animal tissues.
+<em>Journal of Biological Chemistry</em>, <em>226</em>(1), 497-509.</p>
+<p>Gargallo-Garriga, A., Sardans, J., Pérez-Trujillo, M., Rivas-Ubach, A.,
+Oravec, M., Vecerova, K., … Parella, T. (2014). Opposite metabolic
+responses of shoots and roots to drought. <em>Scientific Reports</em>, <em>4</em>,
+a6829.</p>
+<p>Gargallo‐Garriga, A., Sardans, J., Pérez‐Trujillo, M., Oravec, M.,
+Urban, O., Jentsch, A., … Peñuelas, J. (2015). Warming differentially
+influences the effects of drought on stoichiometry and metabolomics in
+shoots and roots. <em>New Phytologist</em>, <em>207</em>(3), 591-603.</p>
+<p>Gargallo-Garriga, A., Wright, S. J., Sardans, J., Pérez-Trujillo, M.,
+Oravec, M., Večeřová, K., … Peñuelas, J. (2017). Long-term fertilization
+determines different metabolomic profiles and responses in saplings of
+three rainforest tree species with different adult canopy position.
+<em>PLoS One</em>, <em>12</em>(5), e0177030.</p>
+<p>Jansson, C., Pihlström, T., Österdahl, B. G., &amp; Markides, K. E. (2004).
+A new multi-residue method for analysis of pesticide residues in fruit
+and vegetables using liquid chromatography with tandem mass
+spectrometric detection. <em>Journal of Chromatography A</em>, <em>1023</em>(1),
+93-104.</p>
+<p>Kaplan, F., Kopka, J., Haskell, D. W., Zhao, W., Schiller, K. C.,
+Gatzke, N., … Guy, C. L. (2004). Exploring the temperature-stress
+metabolome of <em>Arabidopsis</em>. <em>Plant Physiology</em>, <em>136</em>(4), 4159-4168.</p>
+<p>Lesiak, A. D., Cody, R. B., Dane, A. J., &amp; Musah, R. A. (2014). Rapid
+detection by direct analysis in real time-mass spectrometry (DART-MS) of
+psychoactive plant drugs of abuse: The case of <em>Mitragyna speciosa</em> aka
+“Kratom”. <em>Forensic Science International</em>, <em>242</em>, 210-218.</p>
+<p>Meijón, M., Feito, I., Oravec, M., Delatorre, C., Weckwerth, W., Majada,
+J., &amp; Valledor, L. (2016). Exploring natural variation of <em>Pinus
+pinaster</em> Aiton using metabolomics: is it possible to identify the
+region of origin of a pine from its metabolites? <em>Molecular Ecology</em>,
+<em>25</em>(4), 959-976.</p>
+<p>Oravec, M., Novotná, K., Rajsnerová, P., et al. (2015). Target and
+non-target metabolomics profiling of different barley varieties affected
+by enhanced ultraviolet radiation and various C:N stoichiometry. <em>FASEB
+Journal 29</em>(1 Supplement), Abstract 887.7.</p>
+<p>Peñuelas, J., &amp; Sardans, J. (2009). Ecological metabolomics. <em>Chemistry
+and Ecology</em>, <em>25</em>(4), 305-309.</p>
+<p>Rajsnerová, P., Klem, K., Holub, P., Novotná, K., Večeřová, K.,
+Kozáčiková, M., … Urban, O. (2015). Morphological, biochemical and
+physiological traits of upper and lower canopy leaves of European beech
+tend to converge with increasing altitude. <em>Tree Physiology</em>, <em>35</em>(1),
+47-60.</p>
+<p>Rivas-Ubach, A., Sardans, J., Pérez-Trujillo, M., Estiarte, M., &amp;
+Peñuelas, J. (2012). Strong relationship between elemental stoichiometry
+and metabolome in plants. <em>Proceedings of the National Academy of
+Sciences</em>, <em>109</em>(11), 4181-4186.</p>
+<p>Rivas‐Ubach, A., Pérez‐Trujillo, M., Sardans, J., Gargallo‐Garriga, A.,
+Parella, T., &amp; Peñuelas, J. (2013). Ecometabolomics: optimized NMR‐based
+method. <em>Methods in Ecology and Evolution</em>, <em>4</em>(5), 464-473.</p>
+<p>Rivas‐Ubach, A., Sardans, J., Hódar, J. A., Garcia‐Porta, J., Guenther,
+A., Oravec, M., … Peñuelas, J. (2016). Similar local, but different
+systemic, metabolomic responses of closely related pine subspecies to
+folivory by caterpillars of the processionary moth. <em>Plant Biology</em>,
+<em>18</em>(3), 484-494.</p>
+<p>Rivas‐Ubach, A., Sardans, J., Hódar, J. A., Garcia‐Porta, J., Guenther,
+A., Paša‐Tolić, L., … Peñuelas, J. (2017). Close and distant:
+Contrasting the metabolism of two closely related subspecies of Scots
+pine under the effects of folivory and summer drought. <em>Ecology and
+Evolution</em>, <em>7</em>(21), 8976-8988.</p>
+<p>Sardans, J., &amp; Peñuelas, J. (2013). Plant-soil interactions in
+Mediterranean forest and shrublands: impacts of climatic change. <em>Plant
+and Soil</em>, <em>365</em>(1-2), 1-33.</p>
+<p>Sardans, J., Peñuelas, J., &amp; Rivas-Ubach, A. (2011). Ecological
+metabolomics: overview of current developments and future challenges.
+<em>Chemoecology</em>, <em>21</em>(4), 191-225.</p>
+<p>Takats, Z., Wiseman, J. M., &amp; Cooks, R. G. (2005). Ambient mass
+spectrometry using desorption electrospray ionization (DESI):
+instrumentation, mechanisms and applications in forensics, chemistry,
+and biology. <em>Journal of Mass Spectrometry</em>, <em>40</em>(10), 1261-1275.</p>
+<p>Večeřová, K., Večeřa, Z., Dočekal, B., Oravec, M., Pompeiano, A.,
+Tříska, J., &amp; Urban, O. (2016). Changes of primary and secondary
+metabolites in barley plants exposed to CdO nanoparticles.
+<em>Environmental Pollution</em>, <em>218</em>, 207-218.</p>
+<p>Weckwerth, W., &amp; Kahl, G. (Eds.). (2013). <em>The Handbook of Plant
+Metabolomics</em>. Chichester: John Wiley &amp; Sons.</p>
+<p>Whitehouse, C. M., Dreyer, R. N., Yamashita, M., &amp; Fenn, J. B. (1989).
+Electrospray ionization for mass-spectrometry of large biomolecules.
+<em>Science</em>, <em>246</em>(4926), 64-71.</p>
+<p>Yoshikawa, K., Hirasawa, T., Ogawa, K., Hidaka, Y., Nakajima, T.,
+Furusawa, C., &amp; Shimizu, H. (2013). Integrated transcriptomic and
+metabolomic analysis of the central metabolism of Synechocystis sp. PCC
+6803 under different trophic conditions. <em>Biotechnology Journal</em>,
+<em>8</em>(5), 571-580.</p>
+<p>Yuan, J., Doucette, C. D., Fowler, W. U., Feng, X. J., Piazza, M.,
+Rabitz, H. A., … Rabinowitz, J. D. (2009). Metabolomics‐driven
+quantitative analysis of ammonia assimilation in <em>E. coli</em>. <em>Molecular
+Systems Biology</em>, <em>5</em>(1), 302.</p>
+<p>Zhou, M., McDonald, J. F., &amp; Fernández, F. M. (2010). Optimization of a
+direct analysis in real time/time-of-flight mass spectrometry method for
+rapid serum metabolomic fingerprinting. <em>Journal of the American Society
+for Mass Spectrometry</em>, <em>21</em>(1), 68-75.</p>
+<p> </p>
+<p> </p>
+<p><strong>Authors:</strong> Oravec M<sup>1</sup>, Večeřová K<sup>1</sup>,
+Gargallo-Garriga A<sup>1,2,3</sup>, Sardans J<sup>2,3</sup>, Urban
+O<sup>1</sup></p>
+<p><strong>Reviewers:</strong> Holub P<sup>1</sup>, Klem K<sup>4</sup>, Peñuelas
+J<sup>2,3</sup></p>
+<p> </p>
+<p><strong><em>Affiliations</em></strong></p>
+<p><sup>1</sup> Global Change Research Institute, The Czech Academy of
+Sciences, Brno, Czech Republic</p>
+<p><sup>2</sup> CSIC, Global Ecology Unit CREAF-CSIC-UAB, Bellaterra, Spain</p>
+<p><sup>3</sup> CREAF, Cerdanyola del Vallès, Spain</p>
+<p><sup>4</sup> Mendel University in Brno, Faculty of AgriSciences, Brno,
+Czech Republic</p>
+
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="maximum-leaf-hydraulic-conductance.html"><span class="header-section-number">64</span> 5.10 Maximum leaf hydraulic conductance</a></div>
+<div class="next"><a href="reflectance-assessment-of-plant-physiological-status.html"><span class="header-section-number">66</span> 5.12 Reflectance assessment of plant physiological status</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#metabolomic-profiling-in-plants-using-mass-spectrometry"><span class="header-section-number">65</span> 5.11 Metabolomic profiling in plants using mass-spectrometry</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>How to measure plant species composition?</strong>" was written by Aud Halbritter. It was last built on 2026-04-12.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+---
+title: "Get Engaged"
+---
+
+# Get Engaged
+
+## Get Engaged
+
+<img src="images/341580_email_256x256.png"
+class="alignnone wp-image-772" loading="lazy" decoding="async"
+srcset="https://climexhandbook.w.uib.no/files/2019/11/341580_email_256x256.png 256w, https://climexhandbook.w.uib.no/files/2019/11/341580_email_256x256-150x150.png 150w"
+sizes="auto, (max-width: 43px) 100vw, 43px" width="43" height="43" /> If
+you want to get engaged in the ClimEx Handbook send an email to
+climexhandbook@uib.no
